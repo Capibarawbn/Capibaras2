@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-30 23:14:48 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2024-11-30 21:51:38 +0000"
@@ -678,6 +684,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-11-30 23:17:48 +0000"
     },
     "done": true
   },
@@ -1623,6 +1635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-11-30 23:16:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-30 22:32:55 +0000"
@@ -2012,6 +2030,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-11-30 23:16:43 +0000"
     },
     "done": true
   },

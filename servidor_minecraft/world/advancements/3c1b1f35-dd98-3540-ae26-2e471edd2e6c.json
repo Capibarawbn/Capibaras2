@@ -426,6 +426,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/medium_graveyard": {
     "criteria": {
       "medium_graveyard": "2024-11-30 04:41:42 +0000"
@@ -456,6 +462,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/dark_oak": {
     "criteria": {
       "has_plank": "2024-11-30 23:01:49 +0000"
@@ -483,6 +495,12 @@
   "graveyard:graveyard/kill_horde": {
     "criteria": {
       "kill_horde": "2024-11-30 05:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-11-30 23:18:55 +0000"
     },
     "done": true
   },
@@ -681,6 +699,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-11-30 04:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-11-30 23:13:09 +0000"
     },
     "done": true
   },
@@ -1118,6 +1142,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-11-30 23:16:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2024-11-30 04:43:14 +0000"
@@ -1151,6 +1181,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-11-30 06:16:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-30 23:12:04 +0000"
     },
     "done": true
   },
@@ -1277,6 +1313,12 @@
   "vampirism:recipes/vampirism/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2024-11-30 04:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 23:13:09 +0000"
     },
     "done": true
   },
@@ -1829,6 +1871,12 @@
   "securitycraft:recipes/securitycraft/whitelist_module": {
     "criteria": {
       "has_iron": "2024-11-30 04:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-11-30 23:12:00 +0000"
     },
     "done": true
   },
@@ -2392,6 +2440,12 @@
   "werewolves:recipes/werewolves/silver_pickaxe": {
     "criteria": {
       "has_sticks": "2024-11-30 04:43:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-11-30 23:11:33 +0000"
     },
     "done": true
   },
@@ -3239,6 +3293,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-11-30 04:51:47 +0000"
@@ -3254,6 +3314,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-30 06:24:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-30 23:12:04 +0000"
     },
     "done": true
   },
@@ -3809,6 +3875,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
   "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
     "criteria": {
       "has_gunpowder": "2024-11-30 04:41:56 +0000"
@@ -3860,6 +3932,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 04:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-11-30 23:11:43 +0000"
     },
     "done": true
   },
@@ -4061,6 +4139,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2024-11-30 04:40:30 +0000"
@@ -4118,6 +4202,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-30 05:51:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-11-30 23:18:43 +0000"
     },
     "done": true
   },
