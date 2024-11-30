@@ -2483,6 +2483,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-11-30 23:19:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-11-30 21:08:22 +0000"
