@@ -884,3 +884,64 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [30Nov2024 21:35:14.979] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-105, y=64, z=4391} but found not block entity block Block{minecraft:polished_andesite} at location
 [30Nov2024 21:35:14.980] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:polished_andesite} but failed at location BlockPos{x=-105, y=64, z=4391}
 [30Nov2024 21:35:20.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Tie me to the Mast]
+[30Nov2024 21:40:04.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to JUSMCAS: mari de apliido conazo
+[30Nov2024 21:41:33.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
+[30Nov2024 21:41:33.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.2396620663808449,0.0,10.303688742661507
+[30Nov2024 21:41:33.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.2642787171568983,0.0,10.702362127894958
+[30Nov2024 21:41:33.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.2869590755354494,0.0,11.101164662433803
+[30Nov2024 21:41:33.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.3078009038908363,0.0,11.50008458618322
+[30Nov2024 21:41:33.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.326899855499832,0.0,11.899111017036375
+[30Nov2024 21:41:33.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.3443496863827704,0.0,12.298233918953883
+[30Nov2024 21:41:33.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.360242445713169,0.0,12.69744405833353
+[30Nov2024 21:41:33.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.37467248193623,0.0,13.09673296102119
+[30Nov2024 21:41:33.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.387724708344777,0.0,13.496092903422323
+[30Nov2024 21:41:33.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.3994870516081335,0.0,13.895516837442301
+[30Nov2024 21:41:33.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4100463156045464,0.0,14.294998356467659
+[30Nov2024 21:41:33.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4194806238514701,0.0,14.694531653566628
+[30Nov2024 21:41:33.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.427864122531787,0.0,15.094111468974916
+[30Nov2024 21:41:33.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4352673782273229,0.0,15.493733039102153
+[30Nov2024 21:41:33.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.441757735879051,0.0,15.893392069266156
+[30Nov2024 21:41:33.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4473958060341232,0.0,16.293084668175652
+[30Nov2024 21:41:33.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4522438080760196,0.0,16.69280735602024
+[30Nov2024 21:41:33.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4563577395357044,0.0,17.09255698607103
+[30Nov2024 21:41:33.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4597918331287048,0.0,17.492330741171827
+[30Nov2024 21:41:33.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4625948983850066,0.0,17.89212607470654
+[30Nov2024 21:41:33.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4648146987466504,0.0,18.291940717072066
+[30Nov2024 21:41:33.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.466494221368535,0.0,18.69177261817549
+[30Nov2024 21:41:33.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4676721547472624,0.0,19.09161992548343
+[30Nov2024 21:41:33.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4683871533659811,0.0,19.49148100151706
+[30Nov2024 21:41:33.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.469030652105772,0.0,19.851355960414367
+[30Nov2024 21:41:33.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.469609800956249,0.0,20.175243414842043
+[30Nov2024 21:41:33.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4701775330318583,0.0,20.461742332283393
+[30Nov2024 21:41:33.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.47073594870146,0.0,20.714591576641396
+[30Nov2024 21:41:33.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4712869383005938,0.0,20.937156125340152
+[30Nov2024 21:41:33.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.471832203131214,0.0,21.13246445798086
+[30Nov2024 21:41:33.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 1.4723727950140386,0.0,21.30324220147577
+[30Nov2024 21:41:34.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.25989260271703074,0.0,11.546785372675913
+[30Nov2024 21:41:34.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.2604275047129221,0.0,11.675615833187294
+[30Nov2024 21:42:01.864] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-41, y=-1, z=5335} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Nov2024 21:42:01.865] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-41, y=-1, z=5335}
+[30Nov2024 21:43:11.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Sea Serpent
+[30Nov2024 21:43:11.393] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[30Nov2024 21:43:11.399] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[30Nov2024 21:44:11.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [Strong or Careful]
+[30Nov2024 21:44:11.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Sea Serpent
+[30Nov2024 21:44:11.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Your First Grave]
+[30Nov2024 21:44:15.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [The Most Useful Key]
+[30Nov2024 21:44:25.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [A Fast Comeback]
+[30Nov2024 21:44:25.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from JUSMCAS: hit position BlockPos{x=121, y=66, z=-34} too far away from player BlockPos{x=-112, y=63, z=5358}.
+[30Nov2024 21:44:28.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [Discreet Search]
+[30Nov2024 21:51:26.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9, y=3, z=6487} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 21:51:26.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9, y=3, z=6487}
+[30Nov2024 21:51:38.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Smoke On The Water]
+[30Nov2024 21:52:14.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6328ms or 126 ticks behind
+[30Nov2024 21:52:14.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! 9.674662076790526,-2.863170096877319,-0.9081571605884164
+[30Nov2024 21:53:25.441] [Worker-Main-21/WARN] [ModernFix/]: The namespace vampirism contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[30Nov2024 21:53:25.890] [Worker-Main-21/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[30Nov2024 21:53:26.770] [Worker-Main-21/WARN] [ModernFix/]: The namespace iceandfire contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[30Nov2024 21:54:04.560] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=23, y=68, z=7063} but found not block entity block Block{minecraft:blue_carpet} at location
+[30Nov2024 21:54:04.561] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:blue_carpet} but failed at location BlockPos{x=23, y=68, z=7063}
+[30Nov2024 21:54:11.098] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=55, y=71, z=7079} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 21:54:11.098] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=55, y=71, z=7079}
+[30Nov2024 21:54:16.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=263, y=86, z=7079} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 21:54:16.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=263, y=86, z=7079}
