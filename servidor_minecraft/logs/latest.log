@@ -825,3 +825,62 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [30Nov2024 21:02:36.253] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=119, y=1, z=2455}
 [30Nov2024 21:03:16.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Suit Up]
 [30Nov2024 21:04:12.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Close Quarters]
+[30Nov2024 21:07:47.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Fatty Demon]
+[30Nov2024 21:08:33.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Penteconter]
+[30Nov2024 21:08:59.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Magic Writing]
+[30Nov2024 21:09:05.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [Great minds think alike]
+[30Nov2024 21:10:25.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [You Spin Me Right Round Baby]
+[30Nov2024 21:14:38.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [You Are A Pirate]
+[30Nov2024 21:15:01.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[30Nov2024 21:15:01.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4845127564148015,0.0,10.370263260568663
+[30Nov2024 21:15:01.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4810827547102008,0.0,10.769730310265913
+[30Nov2024 21:15:01.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.47586835917768155,0.0,11.169193826448009
+[30Nov2024 21:15:01.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4689637645964382,0.0,11.568649580358851
+[30Nov2024 21:15:01.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4604575847115058,0.0,11.968093807097375
+[30Nov2024 21:15:01.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4504410655760154,0.0,12.36752363606729
+[30Nov2024 21:15:01.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.43900399179059946,0.0,12.766936833909767
+[30Nov2024 21:15:01.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4262310025845437,0.0,13.16633153216253
+[30Nov2024 21:15:01.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.41220593292473495,0.0,13.565706455266536
+[30Nov2024 21:15:01.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.39700806550760603,0.0,13.965060637757688
+[30Nov2024 21:15:01.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.38071258435647337,0.0,14.364393411884521
+[30Nov2024 21:15:01.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.3633948112605907,0.0,14.76370464233105
+[30Nov2024 21:15:01.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.345122537923956,0.0,15.162994177511337
+[30Nov2024 21:15:01.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.32596060484718237,0.0,15.562262111965993
+[30Nov2024 21:15:01.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.3059711957493789,0.0,15.9615087729253
+[30Nov2024 21:15:01.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.2852141034792339,0.0,16.360734697040243
+[30Nov2024 21:15:01.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.2637431422975993,0.0,16.75994035984604
+[30Nov2024 21:15:01.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.241610571376782,0.0,17.159126446369555
+[30Nov2024 21:15:01.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.21886342443627882,0.0,17.558293558234254
+[30Nov2024 21:15:01.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.19554785769562955,0.0,17.957442505121435
+[30Nov2024 21:15:01.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.17170541244982473,0.0,18.35657400829359
+[30Nov2024 21:15:01.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.147377301503667,0.0,18.755688985108463
+[30Nov2024 21:15:01.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.12260061638050956,0.0,19.15478826118806
+[30Nov2024 21:15:01.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.09740873945045792,0.0,19.55387257586608
+[30Nov2024 21:15:01.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.07183554025331773,0.0,19.952942870214883
+[30Nov2024 21:15:01.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.04591150137407851,0.0,20.3519999874743
+[30Nov2024 21:15:01.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.019664056905696725,0.0,20.751044686559908
+[30Nov2024 21:15:01.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.006882101770344207,0.0,21.150077646771024
+[30Nov2024 21:15:01.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.033704752644112546,0.0,21.54909948320119
+[30Nov2024 21:15:01.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.06078007096540716,0.0,21.94811102510721
+[30Nov2024 21:15:01.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.08808661469242907,0.0,22.347113018819073
+[30Nov2024 21:15:01.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.11560891046423194,0.0,22.746105856638223
+[30Nov2024 21:15:01.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.14332920778018376,0.0,23.145090171031825
+[30Nov2024 21:15:01.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.17123153049162454,0.0,23.544066531220324
+[30Nov2024 21:15:01.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.19930150076365294,0.0,23.94303544950253
+[30Nov2024 21:15:01.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.22752235383622121,0.0,24.341997670069304
+[30Nov2024 21:15:01.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.2558828259018213,0.0,24.740953579570487
+[30Nov2024 21:15:01.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.28437277953398166,0.0,25.139903522265286
+[30Nov2024 21:15:01.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.3129792665729525,0.0,25.53884809483452
+[30Nov2024 21:15:01.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.34169445791860653,0.0,25.93778755116864
+[30Nov2024 21:15:01.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.8565739637892591,0.0,16.365924567465754
+[30Nov2024 21:16:15.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [Fortuitous Militia]
+[30Nov2024 21:24:00.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has completed the challenge [Centennial]
+[30Nov2024 21:24:59.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Amateur Archaeologist]
+[30Nov2024 21:26:37.350] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-25, y=49, z=3607} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 21:26:37.351] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-25, y=49, z=3607}
+[30Nov2024 21:28:59.225] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-89, y=23, z=4183} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 21:28:59.231] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-89, y=23, z=4183}
+[30Nov2024 21:29:27.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Isn't It Iron Pick]
+[30Nov2024 21:35:14.979] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-105, y=64, z=4391} but found not block entity block Block{minecraft:polished_andesite} at location
+[30Nov2024 21:35:14.980] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:polished_andesite} but failed at location BlockPos{x=-105, y=64, z=4391}
+[30Nov2024 21:35:20.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Tie me to the Mast]

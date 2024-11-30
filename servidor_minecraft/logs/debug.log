@@ -10669,3 +10669,241 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [30Nov2024 21:03:16.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Suit Up]
 [30Nov2024 21:04:12.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Close Quarters]
 [30Nov2024 21:05:37.237] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:deep_ocean at [3,170]
+[30Nov2024 21:07:41.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:07:41.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:07:47.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Fatty Demon]
+[30Nov2024 21:08:33.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Penteconter]
+[30Nov2024 21:08:59.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Magic Writing]
+[30Nov2024 21:09:05.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [Great minds think alike]
+[30Nov2024 21:10:25.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [You Spin Me Right Round Baby]
+[30Nov2024 21:12:41.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:12:41.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:14:38.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [You Are A Pirate]
+[30Nov2024 21:14:56.036] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[30Nov2024 21:14:56.043] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[30Nov2024 21:14:56.043] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[30Nov2024 21:14:56.044] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[30Nov2024 21:15:01.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[30Nov2024 21:15:01.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4845127564148015,0.0,10.370263260568663
+[30Nov2024 21:15:01.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4810827547102008,0.0,10.769730310265913
+[30Nov2024 21:15:01.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.47586835917768155,0.0,11.169193826448009
+[30Nov2024 21:15:01.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4689637645964382,0.0,11.568649580358851
+[30Nov2024 21:15:01.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4604575847115058,0.0,11.968093807097375
+[30Nov2024 21:15:01.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4504410655760154,0.0,12.36752363606729
+[30Nov2024 21:15:01.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.43900399179059946,0.0,12.766936833909767
+[30Nov2024 21:15:01.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.4262310025845437,0.0,13.16633153216253
+[30Nov2024 21:15:01.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.41220593292473495,0.0,13.565706455266536
+[30Nov2024 21:15:01.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.39700806550760603,0.0,13.965060637757688
+[30Nov2024 21:15:01.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.38071258435647337,0.0,14.364393411884521
+[30Nov2024 21:15:01.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.3633948112605907,0.0,14.76370464233105
+[30Nov2024 21:15:01.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.345122537923956,0.0,15.162994177511337
+[30Nov2024 21:15:01.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.32596060484718237,0.0,15.562262111965993
+[30Nov2024 21:15:01.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.3059711957493789,0.0,15.9615087729253
+[30Nov2024 21:15:01.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.2852141034792339,0.0,16.360734697040243
+[30Nov2024 21:15:01.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.2637431422975993,0.0,16.75994035984604
+[30Nov2024 21:15:01.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.241610571376782,0.0,17.159126446369555
+[30Nov2024 21:15:01.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.21886342443627882,0.0,17.558293558234254
+[30Nov2024 21:15:01.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.19554785769562955,0.0,17.957442505121435
+[30Nov2024 21:15:01.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.17170541244982473,0.0,18.35657400829359
+[30Nov2024 21:15:01.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.147377301503667,0.0,18.755688985108463
+[30Nov2024 21:15:01.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.12260061638050956,0.0,19.15478826118806
+[30Nov2024 21:15:01.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.09740873945045792,0.0,19.55387257586608
+[30Nov2024 21:15:01.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.07183554025331773,0.0,19.952942870214883
+[30Nov2024 21:15:01.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.04591150137407851,0.0,20.3519999874743
+[30Nov2024 21:15:01.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! -0.019664056905696725,0.0,20.751044686559908
+[30Nov2024 21:15:01.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.006882101770344207,0.0,21.150077646771024
+[30Nov2024 21:15:01.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.033704752644112546,0.0,21.54909948320119
+[30Nov2024 21:15:01.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.06078007096540716,0.0,21.94811102510721
+[30Nov2024 21:15:01.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.08808661469242907,0.0,22.347113018819073
+[30Nov2024 21:15:01.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.11560891046423194,0.0,22.746105856638223
+[30Nov2024 21:15:01.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.14332920778018376,0.0,23.145090171031825
+[30Nov2024 21:15:01.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.17123153049162454,0.0,23.544066531220324
+[30Nov2024 21:15:01.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.19930150076365294,0.0,23.94303544950253
+[30Nov2024 21:15:01.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.22752235383622121,0.0,24.341997670069304
+[30Nov2024 21:15:01.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.2558828259018213,0.0,24.740953579570487
+[30Nov2024 21:15:01.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.28437277953398166,0.0,25.139903522265286
+[30Nov2024 21:15:01.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.3129792665729525,0.0,25.53884809483452
+[30Nov2024 21:15:01.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.34169445791860653,0.0,25.93778755116864
+[30Nov2024 21:15:01.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JUSMCAS) moved too quickly! 0.8565739637892591,0.0,16.365924567465754
+[30Nov2024 21:15:20.084] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[30Nov2024 21:15:42.385] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[30Nov2024 21:15:42.431] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[30Nov2024 21:16:15.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [Fortuitous Militia]
+[30Nov2024 21:16:25.673] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[30Nov2024 21:16:58.013] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:deep_ocean at [-19,201]
+[30Nov2024 21:17:45.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:17:45.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:20:44.170] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[30Nov2024 21:20:46.109] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 53.29 and blood value 0 for entity mythicmounts:archelon
+[30Nov2024 21:20:49.143] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:deep_ocean at [1,210]
+[30Nov2024 21:20:49.323] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[30Nov2024 21:21:29.456] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[30Nov2024 21:21:34.132] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[30Nov2024 21:22:13.934] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[30Nov2024 21:22:13.937] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_0
+[30Nov2024 21:22:13.938] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_2
+[30Nov2024 21:22:44.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:22:45.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:23:17.088] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x9
+[30Nov2024 21:23:17.095] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_empty
+[30Nov2024 21:23:17.095] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_7
+[30Nov2024 21:23:17.103] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_0
+[30Nov2024 21:24:00.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has completed the challenge [Centennial]
+[30Nov2024 21:24:59.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Amateur Archaeologist]
+[30Nov2024 21:25:42.517] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[30Nov2024 21:25:42.520] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[30Nov2024 21:25:42.520] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[30Nov2024 21:25:42.521] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[30Nov2024 21:26:11.875] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[30Nov2024 21:26:12.949] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_4
+[30Nov2024 21:26:12.949] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_6
+[30Nov2024 21:26:17.092] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:deep_ocean at [13,232]
+[30Nov2024 21:26:37.350] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-25, y=49, z=3607} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 21:26:37.351] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-25, y=49, z=3607}
+[30Nov2024 21:26:47.547] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x7
+[30Nov2024 21:26:47.547] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_2
+[30Nov2024 21:26:47.548] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_1
+[30Nov2024 21:26:48.121] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/zombie_start
+[30Nov2024 21:26:48.122] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_2
+[30Nov2024 21:26:48.122] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_1
+[30Nov2024 21:26:48.122] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_0
+[30Nov2024 21:26:48.123] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_0
+[30Nov2024 21:26:48.124] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_2
+[30Nov2024 21:26:48.125] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_0
+[30Nov2024 21:26:48.125] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_double_0
+[30Nov2024 21:26:48.126] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_single_0
+[30Nov2024 21:26:48.126] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_1
+[30Nov2024 21:26:48.128] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_specialroom_0
+[30Nov2024 21:26:48.129] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_stairs
+[30Nov2024 21:26:48.129] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_1
+[30Nov2024 21:26:48.129] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_3
+[30Nov2024 21:26:48.130] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_4
+[30Nov2024 21:26:48.130] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_0
+[30Nov2024 21:26:48.133] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_empty
+[30Nov2024 21:26:48.133] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_2
+[30Nov2024 21:26:48.133] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_4
+[30Nov2024 21:26:48.134] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_5
+[30Nov2024 21:26:48.134] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_1
+[30Nov2024 21:26:48.135] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_6
+[30Nov2024 21:26:48.135] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_2
+[30Nov2024 21:26:48.136] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_3
+[30Nov2024 21:26:48.139] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_1
+[30Nov2024 21:26:48.140] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_7
+[30Nov2024 21:26:48.140] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_3
+[30Nov2024 21:26:48.142] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_0
+[30Nov2024 21:26:48.143] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_2
+[30Nov2024 21:26:48.145] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_9
+[30Nov2024 21:26:48.146] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_0
+[30Nov2024 21:26:48.147] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_0
+[30Nov2024 21:26:48.149] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_1
+[30Nov2024 21:26:48.150] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_2
+[30Nov2024 21:26:48.159] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_4
+[30Nov2024 21:26:48.172] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_0
+[30Nov2024 21:26:48.174] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_3
+[30Nov2024 21:26:48.175] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_1
+[30Nov2024 21:26:48.175] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_closed
+[30Nov2024 21:26:48.175] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_1
+[30Nov2024 21:26:48.177] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_sm_single_0
+[30Nov2024 21:26:48.181] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_1
+[30Nov2024 21:26:48.183] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_0
+[30Nov2024 21:26:48.184] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_closed
+[30Nov2024 21:26:48.187] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_0
+[30Nov2024 21:26:48.192] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_closed
+[30Nov2024 21:26:48.193] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_8
+[30Nov2024 21:26:48.196] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_0
+[30Nov2024 21:26:48.207] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_closed
+[30Nov2024 21:26:48.213] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_closed
+[30Nov2024 21:26:48.919] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/grand_heaven_portal_2
+[30Nov2024 21:27:08.387] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[30Nov2024 21:27:08.388] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[30Nov2024 21:27:18.666] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:deep_ocean at [-29,239]
+[30Nov2024 21:27:29.305] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.82 and blood value 5 for entity alexsmobs:mungus
+[30Nov2024 21:27:29.306] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.82 and blood value 5 for entity alexsmobs:mungus
+[30Nov2024 21:27:29.306] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.82 and blood value 5 for entity alexsmobs:mungus
+[30Nov2024 21:27:29.306] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.82 and blood value 5 for entity alexsmobs:mungus
+[30Nov2024 21:27:34.061] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[30Nov2024 21:27:34.279] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[30Nov2024 21:27:34.330] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[30Nov2024 21:27:34.421] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[30Nov2024 21:27:34.464] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[30Nov2024 21:27:34.512] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[30Nov2024 21:27:34.542] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[30Nov2024 21:27:34.627] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[30Nov2024 21:27:34.666] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_0 is being run through DFU (hash 031519585160f720cc10b13a06a18d76fab79e371434e34e0607b5c71f1bd49a), this will cause launch time delays
+[30Nov2024 21:27:35.177] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[30Nov2024 21:27:35.198] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[30Nov2024 21:27:35.228] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[30Nov2024 21:27:35.250] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[30Nov2024 21:27:35.276] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_0 is being run through DFU (hash 1131075b7655de19610953217bad84b6fc8d9bc4b2dee7d35ff54be3f6169364), this will cause launch time delays
+[30Nov2024 21:27:35.319] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[30Nov2024 21:27:35.347] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[30Nov2024 21:27:35.399] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[30Nov2024 21:27:35.447] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:giant_mushroom/red_giant_mushroom_part_0
+[30Nov2024 21:27:38.573] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_8
+[30Nov2024 21:27:44.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:27:44.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:27:56.228] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/platform_altar
+[30Nov2024 21:28:59.225] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-89, y=23, z=4183} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 21:28:59.231] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-89, y=23, z=4183}
+[30Nov2024 21:29:08.742] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/roads/straight is being run through DFU (hash 056bf1c4bccc914ac7aabfd784d801aba1e27ee8533cd8db09e24b80e03a8956), this will cause launch time delays
+[30Nov2024 21:29:08.747] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/roads/t_1 is being run through DFU (hash 6afe2a06912d9d97b298b3b0cacb273f0a1b8f8b4effeca13dca7e3fbe3a0dea), this will cause launch time delays
+[30Nov2024 21:29:08.758] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/decos/lamp_1 is being run through DFU (hash 1d85a525653ddac620bb5d46db61488c8aefccbfb98e70a0db0d9bea98f6340f), this will cause launch time delays
+[30Nov2024 21:29:08.758] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/decos/lamp_2 is being run through DFU (hash df0fbc6738328f30368975b05ed103b1635a9bb57e606b9e206ef62aa8c09ce4), this will cause launch time delays
+[30Nov2024 21:29:08.759] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/decos/lamp_3 is being run through DFU (hash 4bcf0c1f41e3d1331a4d20b4ab2dd0ddae14cbc7f931602b82a044bc2c8297e4), this will cause launch time delays
+[30Nov2024 21:29:08.760] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/decos/lamp_4 is being run through DFU (hash 13d92b75993a915bf83f1968d59afc93a79f04afbee45eca7e62a23db423a3ad), this will cause launch time delays
+[30Nov2024 21:29:08.761] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/decos/well is being run through DFU (hash 282a1bd44ba563f5754d37a0634e888b599939c8fa6b9cadb606d556a72463b1), this will cause launch time delays
+[30Nov2024 21:29:08.763] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/decos/hay_bale is being run through DFU (hash 97bbddd22126d438fc4cc9624ff7537f4b6a428894c54667ff3c796cec9bc854), this will cause launch time delays
+[30Nov2024 21:29:08.764] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/decos/wagon is being run through DFU (hash 32ad3dd02b4a04b65ff9ea567e6fb2cc1966ce1c2aaeeef4f237d1d11ae3f95c), this will cause launch time delays
+[30Nov2024 21:29:08.772] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/roads/bent_2 is being run through DFU (hash 78a450ece68191674b87cadfd1fa824d9c04fd9c785c8c3e8d205d3db85c76a1), this will cause launch time delays
+[30Nov2024 21:29:08.780] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/roads/t_2 is being run through DFU (hash 16b40131cf85eae5ea80747030d65a01fa18a9b3b054d49b62003edc806e7b50), this will cause launch time delays
+[30Nov2024 21:29:08.869] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/roads/bent_1 is being run through DFU (hash 790e33605a22762838973b1e7be03b17aa2a78aabeaf418f5b2563d238760d9b), this will cause launch time delays
+[30Nov2024 21:29:09.173] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/roads/t_3 is being run through DFU (hash 5352e402e54a8c027fbdcc1641cd66fc0b6d478000fe596d4e798c121c2d2ff5), this will cause launch time delays
+[30Nov2024 21:29:09.217] [Worker-Main-21/DEBUG] [ModernFix/]: Structure ctov:village/mushroom/roads/terminator is being run through DFU (hash dd03dae1a902fd9b4396b186428d421c9a61cc04a07503c4009cc4cc9899311d), this will cause launch time delays
+[30Nov2024 21:29:12.438] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/skeleton_shell
+[30Nov2024 21:29:12.443] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_3
+[30Nov2024 21:29:12.445] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_4
+[30Nov2024 21:29:12.447] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair1/stair1_1
+[30Nov2024 21:29:12.447] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_stone
+[30Nov2024 21:29:12.448] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_4
+[30Nov2024 21:29:12.450] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_3
+[30Nov2024 21:29:12.452] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_7
+[30Nov2024 21:29:12.453] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_big_2
+[30Nov2024 21:29:12.455] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_7
+[30Nov2024 21:29:12.458] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_1
+[30Nov2024 21:29:12.458] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair_bottom/stair_bottom
+[30Nov2024 21:29:12.458] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_0
+[30Nov2024 21:29:12.459] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_2
+[30Nov2024 21:29:12.461] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_3
+[30Nov2024 21:29:12.465] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_1
+[30Nov2024 21:29:12.466] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_5
+[30Nov2024 21:29:12.468] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_0
+[30Nov2024 21:29:12.469] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_4
+[30Nov2024 21:29:12.470] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_9
+[30Nov2024 21:29:12.470] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_5
+[30Nov2024 21:29:12.471] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_8
+[30Nov2024 21:29:12.471] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_9
+[30Nov2024 21:29:12.474] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_big_0
+[30Nov2024 21:29:12.475] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_big_3
+[30Nov2024 21:29:12.478] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_big_1
+[30Nov2024 21:29:12.478] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_wood
+[30Nov2024 21:29:12.480] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_5
+[30Nov2024 21:29:12.480] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_2
+[30Nov2024 21:29:12.481] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_4
+[30Nov2024 21:29:12.481] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_6
+[30Nov2024 21:29:12.482] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_3
+[30Nov2024 21:29:12.482] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_empty
+[30Nov2024 21:29:12.483] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_10
+[30Nov2024 21:29:27.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Isn't It Iron Pick]
+[30Nov2024 21:29:33.346] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:deep_lukewarm_ocean at [18,274]
+[30Nov2024 21:32:44.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:32:44.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:35:14.979] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-105, y=64, z=4391} but found not block entity block Block{minecraft:polished_andesite} at location
+[30Nov2024 21:35:14.980] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:polished_andesite} but failed at location BlockPos{x=-105, y=64, z=4391}
+[30Nov2024 21:35:20.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Tie me to the Mast]
+[30Nov2024 21:35:26.949] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:deep_lukewarm_ocean at [4,288]
+[30Nov2024 21:36:00.134] [Server thread/DEBUG] [GottschCore/]: proximity @ -> -105 64 4383 was met.
+[30Nov2024 21:36:00.135] [Server thread/DEBUG] [GottschCore/]: proximity pos -> BlockPos{x=-105, y=64, z=4383}
+[30Nov2024 21:36:00.135] [Server thread/DEBUG] [GottschCore/]: got entityType -> minecraft:skeleton
+[30Nov2024 21:36:00.136] [Server thread/DEBUG] [GottschCore/]: self-destructing @ BlockPos{x=-105, y=64, z=4383}
+[30Nov2024 21:37:44.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:37:44.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
