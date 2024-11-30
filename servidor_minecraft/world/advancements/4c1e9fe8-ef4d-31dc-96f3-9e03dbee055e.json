@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-30 20:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-11-30 20:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
@@ -86,6 +98,12 @@
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-30 20:25:13 +0000"
     },
     "done": true
   },
@@ -120,6 +138,12 @@
       "has_warped_fungus": "2024-11-30 20:21:34 +0000",
       "has_bowl": "2024-11-30 20:21:34 +0000",
       "has_luminous_fungus": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-30 20:25:53 +0000"
     },
     "done": true
   },
@@ -195,6 +219,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-11-30 20:24:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
@@ -261,15 +291,41 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-11-30 20:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-11-30 20:31:18 +0000",
+      "porkchop": "2024-11-30 20:29:15 +0000",
+      "bread": "2024-11-30 20:24:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-11-30 20:25:11 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-11-30 20:28:21 +0000"
     },
     "done": true
   },
@@ -351,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-30 20:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
@@ -362,6 +424,12 @@
       "log_spam_fixer": "2024-11-30 20:21:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-30 20:25:13 +0000"
+    },
+    "done": true
   },
   "werewolves:recipes/werewolves/stone_altar_fire_bowl": {
     "criteria": {
@@ -453,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-11-30 20:25:11 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/combat/glowsilk_bow": {
     "criteria": {
       "has_glowsilk": "2024-11-30 20:21:34 +0000"
@@ -471,9 +545,26 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-11-30 20:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-11-30 20:26:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:swamp": "2024-11-30 20:21:34 +0000"
+      "minecraft:beach": "2024-11-30 20:22:50 +0000",
+      "minecraft:river": "2024-11-30 20:29:57 +0000",
+      "minecraft:swamp": "2024-11-30 20:21:34 +0000",
+      "minecraft:forest": "2024-11-30 20:23:05 +0000",
+      "minecraft:windswept_savanna": "2024-11-30 20:23:54 +0000",
+      "minecraft:plains": "2024-11-30 20:22:58 +0000"
     },
     "done": false
   },
@@ -531,6 +622,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-30 20:24:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
@@ -561,6 +658,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2024-11-30 20:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
@@ -570,6 +673,12 @@
   "supplementaries:recipes/hanging_sign_minecraft/oak": {
     "criteria": {
       "has_plank": "2024-11-30 20:22:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-11-30 20:28:41 +0000"
     },
     "done": true
   },
@@ -591,15 +700,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-30 20:31:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2024-11-30 20:25:58 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/candelabra_candles": {
+    "criteria": {
+      "has_honey": "2024-11-30 20:25:58 +0000"
     },
     "done": true
   },
@@ -618,6 +745,19 @@
   "infernalexp:recipes/redstone/smooth_dimstone_button": {
     "criteria": {
       "has_smooth_dimstone": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-11-30 20:28:19 +0000",
+      "opened_chest": "2024-11-30 20:24:52 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-30 20:31:54 +0000"
     },
     "done": true
   },
@@ -642,6 +782,18 @@
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-11-30 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-11-30 20:25:52 +0000"
     },
     "done": true
   },
@@ -687,6 +839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-11-30 20:25:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
@@ -723,6 +881,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-11-30 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-11-30 20:25:11 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
@@ -735,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-30 20:25:53 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_sword": {
     "criteria": {
       "has_sticks": "2024-11-30 20:22:37 +0000"
@@ -744,6 +920,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-11-30 20:28:19 +0000"
     },
     "done": true
   },

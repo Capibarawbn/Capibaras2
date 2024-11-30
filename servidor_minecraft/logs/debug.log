@@ -8393,3 +8393,61 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [30Nov2024 20:24:39.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_0
 [30Nov2024 20:24:52.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement ['X' Marks the Spot]
 [30Nov2024 20:25:02.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1442, l='ServerLevel[world]', x=178.99, y=73.00, z=318.50] died, message: 'Nitwit was slain by Zombie'
+[30Nov2024 20:27:09.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! -5.077988474196928,-0.604424101326714,8.761389624003925
+[30Nov2024 20:27:34.018] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[30Nov2024 20:27:34.083] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[30Nov2024 20:27:34.171] [Worker-Main-8/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Nov2024 20:27:34.176] [Worker-Main-8/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from bygonenether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Nov2024 20:27:34.178] [Worker-Main-8/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Nov2024 20:27:34.180] [Worker-Main-8/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from graveyard.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Nov2024 20:27:34.182] [Worker-Main-8/DEBUG] [mixin/]: graveyard.mixins.json:WorldGenRegionAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[30Nov2024 20:27:34.182] [Worker-Main-8/DEBUG] [mixin/]: Mixing MuteSetBlockFarChunk from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Nov2024 20:27:34.195] [Worker-Main-8/DEBUG] [mixin/]: Unexpected: Registered method getStructureFeatureManager()Lnet/minecraft/world/level/StructureFeatureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Nov2024 20:27:34.195] [Worker-Main-8/DEBUG] [mixin/]: Unexpected: Registered method getStructureFeatureManager()Lnet/minecraft/world/level/StructureFeatureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Nov2024 20:27:34.195] [Worker-Main-8/DEBUG] [mixin/]: Unexpected: Registered method getStructureFeatureManager()Lnet/minecraft/world/level/StructureFeatureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Nov2024 20:27:34.233] [Worker-Main-8/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Nov2024 20:27:35.019] [Worker-Main-8/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[30Nov2024 20:27:35.429] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of piglin_expansion:piglin_abandoned_refuge3
+[30Nov2024 20:27:41.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 20:27:41.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 20:28:19.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Barrel Booty]
+[30Nov2024 20:28:41.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Disme A Dozen]
+[30Nov2024 20:29:42.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/totem
+[30Nov2024 20:29:42.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[30Nov2024 20:29:56.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[30Nov2024 20:29:56.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[30Nov2024 20:29:56.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[30Nov2024 20:29:56.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[30Nov2024 20:29:56.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[30Nov2024 20:29:56.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[30Nov2024 20:29:56.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[30Nov2024 20:29:56.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[30Nov2024 20:29:56.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[30Nov2024 20:29:56.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[30Nov2024 20:29:56.431] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[30Nov2024 20:29:56.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:large_graveyard/branch_pool/branch_boulder_03
+[30Nov2024 20:29:56.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:large_graveyard/branch_pool/branch_boulder_01
+[30Nov2024 20:30:01.154] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[30Nov2024 20:30:06.319] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=183, y=64, z=679} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 20:30:06.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=183, y=64, z=679}
+[30Nov2024 20:30:07.731] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[30Nov2024 20:31:08.041] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[30Nov2024 20:31:08.093] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[30Nov2024 20:31:08.106] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[30Nov2024 20:31:08.121] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[30Nov2024 20:31:08.127] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[30Nov2024 20:31:13.972] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[30Nov2024 20:31:54.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Who You Gonna Call?]
+[30Nov2024 20:32:41.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 20:32:41.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 20:33:32.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Monster Hunter]
+[30Nov2024 20:34:09.478] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[30Nov2024 20:34:09.513] [Worker-Main-21/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[30Nov2024 20:34:09.513] [Worker-Main-21/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$2(Lnet/minecraft/world/level/levelgen/structure/pools/StructurePoolElement;)Z to mda84767$lambda$getShuffledTemplates$2$0 in waystones.mixins.json:JigsawPlacementMixin
+[30Nov2024 20:34:09.514] [Worker-Main-21/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$1(Ljava/lang/String;)Z to mda84767$lambda$getShuffledTemplates$1$1 in waystones.mixins.json:JigsawPlacementMixin
+[30Nov2024 20:34:09.514] [Worker-Main-21/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$0(Ljava/lang/Object;)Ljava/lang/String; to mda84767$lambda$getShuffledTemplates$0$2 in waystones.mixins.json:JigsawPlacementMixin
+[30Nov2024 20:34:09.559] [Worker-Main-21/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[30Nov2024 20:34:48.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Stone Age]
+[30Nov2024 20:34:57.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Getting an Upgrade]
+[30Nov2024 20:35:45.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=64, z=683} BlockPos{x=183, y=63, z=681}
+[30Nov2024 20:36:17.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! 0.6159890701230779,0.0,10.02727853855049

@@ -781,3 +781,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [30Nov2024 20:21:34.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Orcz Challenges]
 [30Nov2024 20:24:52.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement ['X' Marks the Spot]
 [30Nov2024 20:25:02.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1442, l='ServerLevel[world]', x=178.99, y=73.00, z=318.50] died, message: 'Nitwit was slain by Zombie'
+[30Nov2024 20:27:09.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! -5.077988474196928,-0.604424101326714,8.761389624003925
+[30Nov2024 20:28:19.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Barrel Booty]
+[30Nov2024 20:28:41.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Disme A Dozen]
+[30Nov2024 20:30:06.319] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=183, y=64, z=679} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 20:30:06.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=183, y=64, z=679}
+[30Nov2024 20:31:54.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Who You Gonna Call?]
+[30Nov2024 20:33:32.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Monster Hunter]
+[30Nov2024 20:34:48.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Stone Age]
+[30Nov2024 20:34:57.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Getting an Upgrade]
+[30Nov2024 20:35:45.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=64, z=683} BlockPos{x=183, y=63, z=681}
+[30Nov2024 20:36:17.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! 0.6159890701230779,0.0,10.02727853855049
