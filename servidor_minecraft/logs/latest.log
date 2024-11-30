@@ -1132,3 +1132,118 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [30Nov2024 23:30:09.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved wrongly! 2.5821284877821173
 [30Nov2024 23:30:21.565] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-521, y=110, z=14583} but found not block entity block Block{minecraft:air} at location
 [30Nov2024 23:30:21.566] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-521, y=110, z=14583}
+[30Nov2024 23:32:39.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has made the advancement [Who is Cutting Onions?]
+[30Nov2024 23:33:43.924] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/83969, l='ServerLevel[world]', x=982.73, y=61.46, z=2643.69] died, message: 'Fisherman was shot by Pillager'
+[30Nov2024 23:33:47.165] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/83975, l='ServerLevel[world]', x=980.93, y=68.00, z=2638.91] died, message: 'Fisherman was shot by Pillager'
+[30Nov2024 23:34:09.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/84022, l='ServerLevel[world]', x=994.05, y=62.52, z=2643.57] died, message: 'Nitwit was shot by Pillager'
+[30Nov2024 23:34:09.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/83973, l='ServerLevel[world]', x=985.44, y=69.00, z=2643.62] died, message: 'Fisherman was shot by Pillager'
+[30Nov2024 23:34:12.475] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/86405, l='ServerLevel[world]', x=987.50, y=34.00, z=2540.50]
+[30Nov2024 23:34:20.505] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/84023, l='ServerLevel[world]', x=985.51, y=62.05, z=2642.16] died, message: 'Fisherman was slain by Kuhd'
+[30Nov2024 23:34:20.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has made the advancement [Neighborhood Brawl]
+[30Nov2024 23:35:02.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd is bleeding. Kuhd drowned
+[30Nov2024 23:35:02.073] [Server thread/WARN] [tombstone/]: The death event of the player Kuhd was canceled by another mod
+[30Nov2024 23:35:02.074] [Server thread/INFO] [tombstone/]: The player Kuhd has successfully been saved
+[30Nov2024 23:35:08.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd drowned
+[30Nov2024 23:35:08.090] [Server thread/INFO] [tombstone/]: The player Kuhd has successfully been saved
+[30Nov2024 23:35:10.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.036475266917875615,2.5685951111300156,9.675305520508118
+[30Nov2024 23:35:10.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.040577169925825274,2.613749458714274,10.761767426745791
+[30Nov2024 23:35:10.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.044572751597172555,2.613749458714274,11.854508858570625
+[30Nov2024 23:35:10.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.04847987496856376,2.5765295389081757,12.947620513883521
+[30Nov2024 23:35:10.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.052315395617370086,2.5117999682538823,14.0384642884419
+[30Nov2024 23:35:10.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.05609418492667828,2.4265484387620546,15.126247202737432
+[30Nov2024 23:35:10.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.05982845285120675,2.3258472588087216,16.210970678173908
+[30Nov2024 23:35:10.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.06318894625366056,2.213422663915871,17.292956181941918
+[30Nov2024 23:35:10.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.06515706787155295,2.106756065205417,18.36659433512068
+[30Nov2024 23:35:10.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.06686121406028178,2.06891108171731,19.45446238468685
+[30Nov2024 23:35:10.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.0362006891987221,-0.3730512675964093,11.933981488888094
+[30Nov2024 23:35:10.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.03791485627345992,-0.30778189651611143,13.014862144655126
+[30Nov2024 23:35:10.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved too quickly! -0.03966647339490237,-0.18885246832852687,14.079303545035145
+[30Nov2024 23:35:16.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Kuhd: hit position BlockPos{x=902, y=75, z=723} too far away from player BlockPos{x=1004, y=56, z=2713}.
+[30Nov2024 23:35:16.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Kuhd: hit position BlockPos{x=902, y=75, z=723} too far away from player BlockPos{x=1004, y=56, z=2713}.
+[30Nov2024 23:35:16.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Kuhd: hit position BlockPos{x=902, y=75, z=723} too far away from player BlockPos{x=1004, y=56, z=2713}.
+[30Nov2024 23:35:35.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -1.7890972588293153,1.530961101726433,10.383617129903996
+[30Nov2024 23:35:35.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -1.956627360750531,1.553374555368066,11.519648627797324
+[30Nov2024 23:35:35.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -2.122080290451777,1.5703229552710383,12.662418965078814
+[30Nov2024 23:35:35.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -2.285904912641172,1.5703229552710383,13.811209058080294
+[30Nov2024 23:35:35.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -2.448379398133852,1.5703229552710383,14.964975678567043
+[30Nov2024 23:35:35.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -2.6097553383209515,1.5703229552710383,16.12311607098718
+[30Nov2024 23:35:35.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -2.770228276721582,1.5703229552710383,17.28510319237239
+[30Nov2024 23:35:35.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -2.9299524233271086,1.5703229552710383,18.450475312726212
+[30Nov2024 23:35:36.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -3.08905094004308,1.5703229552710383,19.618827350434913
+[30Nov2024 23:35:36.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -3.2476232879931786,1.5703229552710383,20.78980354746318
+[30Nov2024 23:35:36.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -3.4057505766114673,1.5703229552710383,21.963091212624477
+[30Nov2024 23:35:36.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -3.5634995239262253,1.5703229552710383,23.138415337021343
+[30Nov2024 23:35:36.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -3.7209254329162604,1.5703229552710383,24.315533934629002
+[30Nov2024 23:35:36.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -3.878074458807191,1.5703229552710383,25.49423399394982
+[30Nov2024 23:35:36.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -4.034985357520895,1.5703229552710383,26.674327949819144
+[30Nov2024 23:35:36.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -4.191690849183146,1.5703229552710383,27.855650601362868
+[30Nov2024 23:35:36.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -4.3482186924209145,1.5703229552710383,29.038056414833136
+[30Nov2024 23:35:36.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -4.504592538851512,1.5703229552710383,30.221417159936664
+[30Nov2024 23:35:36.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -4.6608326187215425,1.5703229552710383,31.405619836118603
+[30Nov2024 23:35:36.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -3.19802937695124,0.06921800947037582,23.3350841585966
+[30Nov2024 23:35:36.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -3.3540515995906617,0.06921800947037582,24.520683730303972
+[30Nov2024 23:35:36.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of Kuhd) moved too quickly! -3.5099852732944328,0.06921800947037582,25.706860476865586
+[30Nov2024 23:36:15.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> -385 15462
+[30Nov2024 23:36:32.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved wrongly! 0.7450997505893611
+[30Nov2024 23:36:32.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved wrongly! 1.8001091249043384
+[30Nov2024 23:36:32.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Archelon (vehicle of JUSMCAS) moved wrongly! 2.8616601292687847
+[30Nov2024 23:37:45.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd was kicked for floating a vehicle too long!
+[30Nov2024 23:37:45.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd lost connection: Flying is not enabled on this server
+[30Nov2024 23:37:45.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd left the game
+[30Nov2024 23:37:45.841] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Nov2024 23:37:52.228] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16fc035c
+[30Nov2024 23:37:52.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuhd[/127.156.185.110:48109] logged in with entity id 90173 at (896.04732012508, 103.00368997202635, 3584.1037564256308)
+[30Nov2024 23:37:52.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd joined the game
+[30Nov2024 23:37:52.741] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
+[30Nov2024 23:37:54.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Rusted Root]
+[30Nov2024 23:38:03.338] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=855, y=10, z=3655} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Nov2024 23:38:03.339] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=855, y=10, z=3655}
+[30Nov2024 23:38:17.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd lost connection: Disconnected
+[30Nov2024 23:38:17.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd left the game
+[30Nov2024 23:38:21.724] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@512156c6
+[30Nov2024 23:38:21.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuhd[/127.156.185.110:59721] logged in with entity id 90392 at (891.4119494249761, 64.04821744335888, 3664.9234575166997)
+[30Nov2024 23:38:21.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd joined the game
+[30Nov2024 23:38:22.343] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
+[30Nov2024 23:38:31.252] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/90560, l='ServerLevel[world]', x=854.50, y=18.00, z=3648.50]
+[30Nov2024 23:38:51.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd was kicked for floating a vehicle too long!
+[30Nov2024 23:38:51.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd lost connection: Flying is not enabled on this server
+[30Nov2024 23:38:51.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd left the game
+[30Nov2024 23:38:51.917] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Nov2024 23:38:58.630] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1ffd2fcd
+[30Nov2024 23:38:58.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuhd[/127.156.185.110:54071] logged in with entity id 91102 at (872.4103076184304, 97.68035195961755, 3904.541884738467)
+[30Nov2024 23:38:58.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd joined the game
+[30Nov2024 23:38:58.735] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
+[30Nov2024 23:39:53.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd was kicked for floating a vehicle too long!
+[30Nov2024 23:39:53.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd lost connection: Flying is not enabled on this server
+[30Nov2024 23:39:53.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd left the game
+[30Nov2024 23:39:53.184] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Nov2024 23:39:58.826] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@718076b6
+[30Nov2024 23:39:58.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuhd[/127.156.185.110:39679] logged in with entity id 92516 at (831.1427917166325, 70.2486303122473, 3674.2796682077174)
+[30Nov2024 23:39:58.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd joined the game
+[30Nov2024 23:39:59.428] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
+[30Nov2024 23:40:01.030] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/92692, l='ServerLevel[world]', x=858.50, y=19.00, z=3645.50]
+[30Nov2024 23:40:15.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/92945, l='ServerLevel[world]', x=867.50, y=11.00, z=3650.50]
+[30Nov2024 23:40:25.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has made the advancement [Smoke On The Water]
+[30Nov2024 23:41:11.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[30Nov2024 23:41:11.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd moved too quickly! 10.231994129268173,0.5575427111029398,-0.11861277231537315
+[30Nov2024 23:43:01.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd moved wrongly!
+[30Nov2024 23:44:04.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9602ms or 192 ticks behind
+[30Nov2024 23:44:04.756] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-249, y=127, z=15927} but found not block entity block Block{treasure2:wither_log}[axis=y] at location
+[30Nov2024 23:44:04.757] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{treasure2:wither_log}[axis=y] but failed at location BlockPos{x=-249, y=127, z=15927}
+[30Nov2024 23:45:04.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd moved wrongly!
+[30Nov2024 23:45:48.971] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-505, y=81, z=16135} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 23:45:48.971] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-505, y=81, z=16135}
+[30Nov2024 23:45:54.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/95166, l='ServerLevel[world]', x=-426.08, y=85.00, z=16050.44] died, message: 'Unemployed was slain by Vindicator'
+[30Nov2024 23:45:58.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Nov2024 23:45:58.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Nov2024 23:45:59.664] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Nov2024 23:47:54.227] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Nov2024 23:48:08.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Nov2024 23:49:10.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/95733, l='ServerLevel[world]', x=-460.70, y=97.75, z=16120.70] died, message: 'Unemployed was shot by Pillager'
+[30Nov2024 23:50:38.309] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/97810, l='ServerLevel[world]', x=934.50, y=0.00, z=3377.50]
+[30Nov2024 23:51:34.935] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/99515, l='ServerLevel[world]', x=988.97, y=62.50, z=2638.14] died, message: 'Fisherman was shot by Pillager'
+[30Nov2024 23:51:36.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/100314, l='ServerLevel[world]', x=992.50, y=35.00, z=2544.50]
+[30Nov2024 23:51:59.964] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/99517, l='ServerLevel[world]', x=990.86, y=62.54, z=2629.91] died, message: 'Fisherman was shot by Pillager'
+[30Nov2024 23:52:03.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/99407, l='ServerLevel[world]', x=984.74, y=68.25, z=2628.70] died, message: 'Cartographer was slain by Kuhd'
+[30Nov2024 23:52:03.457] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/100474, l='ServerLevel[world]', x=981.50, y=41.00, z=2543.50]
+[30Nov2024 23:52:11.110] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/100512, l='ServerLevel[world]', x=986.50, y=38.00, z=2539.50]

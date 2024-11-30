@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-30 23:32:39 +0000"
+    },
+    "done": true
+  },
   "obscure_api:recipes/obscure_book": {
     "criteria": {
       "has_item": "2024-11-30 04:43:14 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-11-30 23:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-11-30 23:48:18 +0000"
     },
     "done": true
   },
@@ -672,6 +684,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/tools/chorus_on_a_stick": {
+    "criteria": {
+      "has_items": "2024-11-30 23:48:18 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2024-11-30 05:31:38 +0000"
@@ -711,6 +729,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-11-30 23:13:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-11-30 23:40:25 +0000"
     },
     "done": true
   },
@@ -886,6 +910,7 @@
       "minecraft:silverfish": "2024-11-30 06:04:58 +0000",
       "minecraft:stray": "2024-11-30 05:41:58 +0000",
       "minecraft:zombie": "2024-11-30 05:22:05 +0000",
+      "minecraft:drowned": "2024-11-30 23:33:00 +0000",
       "minecraft:zombie_villager": "2024-11-30 22:50:34 +0000"
     },
     "done": false
@@ -1169,6 +1194,12 @@
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2024-11-30 04:43:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-11-30 23:34:20 +0000"
     },
     "done": true
   },
@@ -1752,6 +1783,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-11-30 04:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2024-11-30 23:41:36 +0000"
     },
     "done": true
   },
@@ -2659,6 +2696,12 @@
   "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2024-11-30 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-11-30 23:32:39 +0000"
     },
     "done": true
   },
@@ -3878,6 +3921,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-11-30 22:16:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-11-30 23:29:26 +0000"
     },
     "done": true
   },
