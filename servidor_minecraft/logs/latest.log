@@ -954,3 +954,106 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [30Nov2024 22:05:18.124] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-57, y=78, z=7703} but found not block entity block Block{treasure2:wither_log}[axis=y] at location
 [30Nov2024 22:05:18.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{treasure2:wither_log}[axis=y] but failed at location BlockPos{x=-57, y=78, z=7703}
 [30Nov2024 22:05:18.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14227ms or 284 ticks behind
+[30Nov2024 22:10:46.469] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=199, y=86, z=7911} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:10:46.470] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=199, y=86, z=7911}
+[30Nov2024 22:11:09.894] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49545c26
+[30Nov2024 22:11:09.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuhd[/127.156.185.110:58013] logged in with entity id 36174 at (1371.368051073883, 107.0, 204.9211246122955)
+[30Nov2024 22:11:10.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd joined the game
+[30Nov2024 22:11:10.079] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
+[30Nov2024 22:11:34.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [I see clearly now]
+[30Nov2024 22:12:12.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Stay dead]
+[30Nov2024 22:14:43.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Diamonds!]
+[30Nov2024 22:15:49.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has made the advancement [Ambush]
+[30Nov2024 22:16:16.559] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=55, y=109, z=8119} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:16:16.561] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=55, y=109, z=8119}
+[30Nov2024 22:17:39.788] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=64, y=105, z=8035} as the loot table 'dungeons_arise:chests/mushroom_house/mushroom_house_barrel' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[30Nov2024 22:17:47.829] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=59, y=105, z=8032} as the loot table 'dungeons_arise:chests/mushroom_village/mushroom_village_weaponry' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[30Nov2024 22:17:58.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS lost connection: Disconnected
+[30Nov2024 22:17:58.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS left the game
+[30Nov2024 22:18:04.244] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e2bc57f
+[30Nov2024 22:18:04.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUSMCAS[/127.207.88.142:58403] logged in with entity id 40487 at (64.85096111936652, 105.0, 8032.551480116343)
+[30Nov2024 22:18:04.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS joined the game
+[30Nov2024 22:18:04.344] [Server thread/INFO] [Waila/]: Syncing config to JUSMCAS (4c1e9fe8-ef4d-31dc-96f3-9e03dbee055e)
+[30Nov2024 22:18:53.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd lost connection: Disconnected
+[30Nov2024 22:18:53.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd left the game
+[30Nov2024 22:19:15.924] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@493b9619
+[30Nov2024 22:19:15.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuhd[/127.156.185.110:44661] logged in with entity id 41442 at (1304.1446728093224, 84.0, 746.8583656531487)
+[30Nov2024 22:19:16.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd joined the game
+[30Nov2024 22:19:16.044] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
+[30Nov2024 22:20:03.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd lost connection: Disconnected
+[30Nov2024 22:20:03.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd left the game
+[30Nov2024 22:20:34.296] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@28a565ce
+[30Nov2024 22:20:34.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuhd[/127.156.185.110:49175] logged in with entity id 42795 at (1297.6211282482054, 100.0, 1012.7868048794645)
+[30Nov2024 22:20:34.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd joined the game
+[30Nov2024 22:20:34.542] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
+[30Nov2024 22:20:35.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! -0.518667413476706,-10.379747208512029,3.050485867233874
+[30Nov2024 22:21:40.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Ant-Agonizer]
+[30Nov2024 22:23:25.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=231, y=100, z=8535} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:23:25.085] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=231, y=100, z=8535}
+[30Nov2024 22:23:59.278] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-41, y=66, z=8743} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:23:59.279] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-41, y=66, z=8743}
+[30Nov2024 22:27:42.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=103, y=83, z=9367} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:27:42.575] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=103, y=83, z=9367}
+[30Nov2024 22:28:35.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd is bleeding. Kuhd walked into fire whilst fighting Fire Dragon
+[30Nov2024 22:28:35.396] [Server thread/WARN] [tombstone/]: The death event of the player Kuhd was canceled by another mod
+[30Nov2024 22:28:35.398] [Server thread/INFO] [tombstone/]: The player Kuhd has successfully been saved
+[30Nov2024 22:28:41.487] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1305, y=79, z=1205} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:28:41.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1305, y=79, z=1205}
+[30Nov2024 22:28:50.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd walked into fire whilst fighting Fire Dragon
+[30Nov2024 22:30:21.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has made the advancement [Ice Bucket Challenge]
+[30Nov2024 22:31:39.666] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1479, y=233, z=1623} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:31:39.667] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1479, y=233, z=1623}
+[30Nov2024 22:33:41.908] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1367, y=186, z=1831} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:33:41.910] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1367, y=186, z=1831}
+[30Nov2024 22:34:01.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1463, y=124, z=2039} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:34:01.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1463, y=124, z=2039}
+[30Nov2024 22:37:18.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1383, y=50, z=2407} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Nov2024 22:37:18.090] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1383, y=50, z=2407}
+[30Nov2024 22:37:36.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd moved too quickly! -5.494254665114113,-0.4319572229888138,-8.723339065789332
+[30Nov2024 22:37:46.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has made the advancement [People Are Strange]
+[30Nov2024 22:37:58.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has reached the goal [Fortuitous Militia]
+[30Nov2024 22:38:21.013] [Worker-Main-21/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[30Nov2024 22:38:31.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/53337, l='ServerLevel[world]', x=1254.45, y=91.00, z=2338.50] died, message: 'Unemployed was slain by Vindicator'
+[30Nov2024 22:39:18.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/52911, l='ServerLevel[world]', x=1240.99, y=93.00, z=2409.14] died, message: 'Librarian was slain by Vindicator'
+[30Nov2024 22:41:04.481] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1175, y=107, z=2455} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:41:04.486] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1175, y=107, z=2455}
+[30Nov2024 22:41:20.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd moved wrongly!
+[30Nov2024 22:41:30.048] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-169, y=160, z=10503} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:41:30.051] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-169, y=160, z=10503}
+[30Nov2024 22:42:33.122] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[30Nov2024 22:43:51.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6089ms or 121 ticks behind
+[30Nov2024 22:44:08.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=205, z=10588} BlockPos{x=-159, y=204, z=10589}
+[30Nov2024 22:44:55.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=251, z=10618} BlockPos{x=-158, y=249, z=10618}
+[30Nov2024 22:44:55.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=251, z=10618} BlockPos{x=-158, y=249, z=10618}
+[30Nov2024 22:44:55.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=252, z=10619} BlockPos{x=-158, y=249, z=10618}
+[30Nov2024 22:44:55.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=252, z=10619} BlockPos{x=-158, y=249, z=10618}
+[30Nov2024 22:44:55.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=253, z=10620} BlockPos{x=-158, y=249, z=10618}
+[30Nov2024 22:45:06.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=260, z=10637} BlockPos{x=-158, y=258, z=10636}
+[30Nov2024 22:45:06.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=260, z=10637} BlockPos{x=-158, y=258, z=10636}
+[30Nov2024 22:46:08.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! 6.396917446738385,-1.075186129115366,8.066373794199535
+[30Nov2024 22:46:08.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-153, y=153, z=10919} but found not block entity block Block{treasure2:wither_log}[axis=y] at location
+[30Nov2024 22:46:08.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{treasure2:wither_log}[axis=y] but failed at location BlockPos{x=-153, y=153, z=10919}
+[30Nov2024 22:46:08.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9236ms or 184 ticks behind
+[30Nov2024 22:47:54.144] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=7, y=100, z=11127} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:47:54.145] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=7, y=100, z=11127}
+[30Nov2024 22:51:16.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has made the advancement [Mine? Mine? Mine?]
+[30Nov2024 22:51:52.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[30Nov2024 22:52:48.424] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-233, y=70, z=11751} but found not block entity block Block{minecraft:smooth_stone_slab}[type=bottom,waterlogged=false] at location
+[30Nov2024 22:52:48.425] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smooth_stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=-233, y=70, z=11751}
+[30Nov2024 22:53:19.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [The Lighthouse]
+[30Nov2024 22:53:33.583] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-489, y=77, z=11527} but found not block entity block Block{minecraft:air} at location
+[30Nov2024 22:53:33.585] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-489, y=77, z=11527}
+[30Nov2024 22:54:12.233] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 22:54:12.238] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 22:54:12.247] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 22:54:12.247] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 22:54:12.252] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 22:54:12.252] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 22:54:12.265] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 22:54:12.266] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 22:54:33.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26241ms or 524 ticks behind
+[30Nov2024 22:54:34.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd moved too quickly! 8.120162717536004,-1.0,-6.087213324228742
+[30Nov2024 22:54:34.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! -9.29857025950264,0.0,3.717216267479671
+[30Nov2024 22:55:11.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has made the advancement [Wingin' It]
+[30Nov2024 22:57:59.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-457, y=46, z=12119} but found not block entity block Block{minecraft:water}[level=0] at location
+[30Nov2024 22:57:59.855] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-457, y=46, z=12119}

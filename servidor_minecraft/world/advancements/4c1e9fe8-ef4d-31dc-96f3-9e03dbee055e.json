@@ -17,15 +17,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2024-11-30 20:34:48 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/birch_drakkar": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:34:48 +0000"
     },
     "done": true
   },
@@ -47,15 +47,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sentry": {
-    "criteria": {
-      "has_iron": "2024-11-30 20:38:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-30 20:37:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2024-11-30 20:38:40 +0000"
     },
     "done": true
   },
@@ -101,15 +101,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2024-11-30 20:22:37 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:22:37 +0000"
     },
     "done": true
   },
@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-30 22:25:58 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-11-30 20:24:52 +0000"
@@ -185,15 +191,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
-    "criteria": {
-      "has_cobblestone": "2024-11-30 20:34:48 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:34:48 +0000"
     },
     "done": true
   },
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-30 22:25:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-30 20:37:19 +0000"
@@ -275,9 +287,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
+  "werewolves:recipes/werewolves/stone_altar_fire_bowl": {
     "criteria": {
-      "has_sandstone": "2024-11-30 22:00:04 +0000"
+      "has_planks": "2024-11-30 20:22:33 +0000"
     },
     "done": true
   },
@@ -287,9 +299,9 @@
     },
     "done": true
   },
-  "werewolves:recipes/werewolves/stone_altar_fire_bowl": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "has_planks": "2024-11-30 20:22:33 +0000"
+      "has_sandstone": "2024-11-30 22:00:04 +0000"
     },
     "done": true
   },
@@ -341,15 +353,15 @@
     },
     "done": false
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2024-11-30 21:03:16 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-11-30 21:03:16 +0000"
     },
     "done": true
   },
@@ -368,6 +380,12 @@
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
     },
     "done": true
   },
@@ -443,6 +461,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/spartanshields/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/candelabra_candles": {
     "criteria": {
       "has_honey": "2024-11-30 20:25:58 +0000"
@@ -474,9 +498,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2024-11-30 22:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-11-30 21:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
     },
     "done": true
   },
@@ -486,9 +522,12 @@
       "minecraft:skeleton": "2024-11-30 20:45:47 +0000",
       "minecraft:vindicator": "2024-11-30 21:17:37 +0000",
       "minecraft:spider": "2024-11-30 20:46:23 +0000",
+      "minecraft:piglin_brute": "2024-11-30 22:28:18 +0000",
       "minecraft:creeper": "2024-11-30 20:52:42 +0000",
+      "minecraft:piglin": "2024-11-30 22:31:20 +0000",
       "minecraft:enderman": "2024-11-30 20:33:32 +0000",
-      "minecraft:zombie": "2024-11-30 20:45:30 +0000"
+      "minecraft:zombie": "2024-11-30 20:45:30 +0000",
+      "minecraft:zombie_villager": "2024-11-30 22:50:30 +0000"
     },
     "done": false
   },
@@ -501,6 +540,12 @@
   "vampirism:recipes/vampirism/hunter/item_med_chair": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-11-30 22:27:10 +0000"
     },
     "done": true
   },
@@ -546,6 +591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-30 22:32:55 +0000"
+    },
+    "done": true
+  },
   "orcz:orczchallenge": {
     "criteria": {
       "orczchallenge": "2024-11-30 20:21:34 +0000"
@@ -558,15 +609,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-30 20:38:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2024-11-30 20:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-30 20:38:40 +0000"
     },
     "done": true
   },
@@ -600,27 +651,27 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-11-30 20:25:11 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+  "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
     "criteria": {
-      "has_sand": "2024-11-30 20:37:19 +0000"
+      "has_slime_ball": "2024-11-30 20:25:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-11-30 20:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-30 20:37:19 +0000"
     },
     "done": true
   },
@@ -639,6 +690,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-11-30 20:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-11-30 22:32:55 +0000"
     },
     "done": true
   },
@@ -672,15 +729,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-30 20:38:40 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-30 20:38:40 +0000"
     },
     "done": true
   },
@@ -708,27 +765,27 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location0": "2024-11-30 21:14:38 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-11-30 20:21:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
-      "has_clay_ball": "2024-11-30 21:34:20 +0000"
+      "location0": "2024-11-30 21:14:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-11-30 20:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-11-30 21:34:20 +0000"
     },
     "done": true
   },
@@ -759,6 +816,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-30 20:37:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-11-30 22:53:19 +0000"
     },
     "done": true
   },
@@ -804,15 +867,15 @@
     },
     "done": true
   },
-  "vampirism:recipes/vampirism/vampire/candelabra": {
-    "criteria": {
-      "has_iron": "2024-11-30 20:38:40 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/candelabra": {
+    "criteria": {
+      "has_iron": "2024-11-30 20:38:40 +0000"
     },
     "done": true
   },
@@ -825,6 +888,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_pillar": "2024-11-30 20:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-11-30 22:11:03 +0000"
     },
     "done": true
   },
@@ -852,6 +921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:38:40 +0000"
@@ -864,27 +939,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2024-11-30 20:22:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-11-30 21:24:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-11-30 20:25:53 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-11-30 21:24:59 +0000"
     },
     "done": true
   },
@@ -897,6 +966,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2024-11-30 21:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-30 22:32:55 +0000"
     },
     "done": true
   },
@@ -918,21 +993,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_short_sword": {
-    "criteria": {
-      "has_weapon": "2024-11-30 20:38:40 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-11-30 20:21:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_short_sword": {
+    "criteria": {
+      "has_weapon": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2024-11-30 21:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone": {
+    "criteria": {
+      "has_broken_bone": "2024-11-30 22:47:42 +0000"
     },
     "done": true
   },
@@ -960,15 +1041,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/camera_monitor": {
-    "criteria": {
-      "has_iron": "2024-11-30 20:38:40 +0000"
-    },
-    "done": true
-  },
   "infernalexp:recipes/building_blocks/glass": {
     "criteria": {
       "has_silt": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2024-11-30 20:38:40 +0000"
     },
     "done": true
   },
@@ -984,15 +1065,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-11-30 20:25:11 +0000"
-    },
-    "done": true
-  },
   "infernalexp:recipes/combat/glowsilk_bow": {
     "criteria": {
       "has_glowsilk": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-11-30 20:25:11 +0000"
     },
     "done": true
   },
@@ -1018,20 +1099,34 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-11-30 20:50:45 +0000",
       "minecraft:mushroom_fields": "2024-11-30 21:20:54 +0000",
+      "minecraft:taiga": "2024-11-30 22:47:25 +0000",
       "minecraft:deep_ocean": "2024-11-30 20:59:09 +0000",
+      "minecraft:frozen_river": "2024-11-30 22:39:09 +0000",
       "minecraft:sunflower_plains": "2024-11-30 20:41:49 +0000",
+      "minecraft:birch_forest": "2024-11-30 22:24:21 +0000",
+      "minecraft:bamboo_jungle": "2024-11-30 22:23:33 +0000",
       "minecraft:beach": "2024-11-30 20:22:50 +0000",
+      "minecraft:dark_forest": "2024-11-30 22:23:43 +0000",
+      "minecraft:sparse_jungle": "2024-11-30 22:20:45 +0000",
       "minecraft:river": "2024-11-30 20:29:57 +0000",
       "minecraft:stony_shore": "2024-11-30 20:56:50 +0000",
+      "minecraft:snowy_plains": "2024-11-30 22:38:05 +0000",
+      "minecraft:snowy_taiga": "2024-11-30 22:39:50 +0000",
       "minecraft:swamp": "2024-11-30 20:21:34 +0000",
+      "minecraft:grove": "2024-11-30 22:43:23 +0000",
       "minecraft:jagged_peaks": "2024-11-30 20:51:26 +0000",
       "minecraft:forest": "2024-11-30 20:23:05 +0000",
       "minecraft:desert": "2024-11-30 21:54:05 +0000",
+      "minecraft:windswept_forest": "2024-11-30 22:22:12 +0000",
       "minecraft:ocean": "2024-11-30 20:57:05 +0000",
+      "minecraft:jungle": "2024-11-30 22:19:30 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-11-30 22:47:27 +0000",
       "minecraft:windswept_savanna": "2024-11-30 20:23:54 +0000",
       "minecraft:warm_ocean": "2024-11-30 21:45:31 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-30 21:20:53 +0000",
+      "minecraft:flower_forest": "2024-11-30 22:53:18 +0000",
       "minecraft:frozen_peaks": "2024-11-30 20:51:25 +0000",
+      "minecraft:old_growth_birch_forest": "2024-11-30 22:23:59 +0000",
       "minecraft:meadow": "2024-11-30 20:48:47 +0000",
       "minecraft:plains": "2024-11-30 20:22:58 +0000"
     },
@@ -1067,9 +1162,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "has_cobblestone": "2024-11-30 20:34:48 +0000"
+      "has_planks": "2024-11-30 20:22:33 +0000"
     },
     "done": true
   },
@@ -1085,9 +1180,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_planks": "2024-11-30 20:22:33 +0000"
+      "has_cobblestone": "2024-11-30 20:34:48 +0000"
     },
     "done": true
   },
@@ -1151,6 +1246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
@@ -1166,6 +1267,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/garlic_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
     },
     "done": true
   },
@@ -1205,15 +1312,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2024-11-30 22:00:04 +0000"
-    },
-    "done": true
-  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2024-11-30 21:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-11-30 22:00:04 +0000"
     },
     "done": true
   },
@@ -1241,15 +1348,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-11-30 20:45:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-11-30 20:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-11-30 20:45:38 +0000"
     },
     "done": true
   },
@@ -1343,15 +1450,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2024-11-30 21:36:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-30 20:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-11-30 21:36:30 +0000"
     },
     "done": true
   },
@@ -1379,15 +1486,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2024-11-30 21:31:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-11-30 21:31:35 +0000"
     },
     "done": true
   },
@@ -1437,6 +1544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_shovel": {
     "criteria": {
       "has_sticks": "2024-11-30 20:22:37 +0000"
@@ -1461,9 +1574,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2024-11-30 22:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "infernalexp:recipes/food/cooked_hogchop_smelting": {
+    "criteria": {
+      "has_hogchop": "2024-11-30 20:21:34 +0000"
     },
     "done": true
   },
@@ -1473,9 +1604,9 @@
     },
     "done": true
   },
-  "infernalexp:recipes/food/cooked_hogchop_smelting": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_hogchop": "2024-11-30 20:21:34 +0000"
+      "has_gunpowder": "2024-11-30 22:13:31 +0000"
     },
     "done": true
   },
@@ -1488,6 +1619,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-30 22:32:55 +0000"
     },
     "done": true
   },
@@ -1517,15 +1654,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2024-11-30 21:44:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
+  "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
-      "has_stick": "2024-11-30 20:22:37 +0000"
+      "has_arrow": "2024-11-30 22:10:56 +0000"
     },
     "done": true
   },
@@ -1535,15 +1678,15 @@
     },
     "done": true
   },
-  "gnumus:fatty_demon": {
-    "criteria": {
-      "fatty_demon": "2024-11-30 21:07:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-11-30 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "gnumus:fatty_demon": {
+    "criteria": {
+      "fatty_demon": "2024-11-30 21:07:47 +0000"
     },
     "done": true
   },
@@ -1568,6 +1711,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-11-30 22:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-11-30 22:32:55 +0000"
     },
     "done": true
   },
@@ -1607,11 +1756,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-30 22:25:58 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2024-11-30 20:21:34 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-11-30 22:14:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2024-11-30 22:17:24 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
@@ -1643,15 +1810,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_chicken": "2024-11-30 20:45:38 +0000"
+      "has_mossy_cobblestone": "2024-11-30 22:25:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-11-30 20:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-11-30 22:13:31 +0000"
     },
     "done": true
   },
@@ -1685,6 +1864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_ingot_from_smelting_werewolves_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-11-30 20:57:49 +0000"
@@ -1709,15 +1894,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2024-11-30 22:05:21 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-11-30 22:05:21 +0000"
     },
     "done": true
   },
@@ -1733,21 +1918,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-11-30 21:44:11 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/vampirism/general/grave_cage": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "has_andesite": "2024-11-30 20:37:32 +0000"
+      "coded_trigger": "2024-11-30 21:44:11 +0000"
     },
     "done": true
   },
@@ -1757,9 +1936,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_hoe": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "has_iron_ingot": "2024-11-30 20:38:40 +0000"
+      "has_andesite": "2024-11-30 20:37:32 +0000"
     },
     "done": true
   },
@@ -1769,15 +1948,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
-      "consumed_item": "2024-11-30 20:24:58 +0000"
+      "has_iron_ingot": "2024-11-30 20:38:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "in_water": "2024-11-30 20:22:28 +0000"
+      "consumed_item": "2024-11-30 20:24:58 +0000"
     },
     "done": true
   },
@@ -1787,21 +1966,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 20:22:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
-      "has_sand": "2024-11-30 20:37:19 +0000"
+      "has_granite": "2024-11-30 22:32:55 +0000"
     },
     "done": true
   },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-11-30 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-30 20:37:19 +0000"
     },
     "done": true
   },
@@ -1823,15 +2014,15 @@
     },
     "done": true
   },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_04": "2024-11-30 21:59:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-11-30 21:08:22 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_04": "2024-11-30 21:59:27 +0000"
     },
     "done": true
   },
@@ -1844,6 +2035,18 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-11-30 20:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
     },
     "done": true
   },
@@ -1862,6 +2065,12 @@
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2024-11-30 21:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-11-30 22:32:55 +0000"
     },
     "done": true
   },
@@ -1889,9 +2098,33 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-11-30 20:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-30 22:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-11-30 22:45:13 +0000"
     },
     "done": true
   },
@@ -1907,15 +2140,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-11-30 22:00:04 +0000"
-    },
-    "done": true
-  },
   "infernalexp:recipes/redstone/soul_slate_pressure_plate": {
     "criteria": {
       "has_soul_slate": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-30 22:00:04 +0000"
     },
     "done": true
   },
@@ -1955,6 +2188,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2024-11-30 22:21:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv1": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
@@ -1985,6 +2224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_axe": {
     "criteria": {
       "has_sticks": "2024-11-30 20:22:37 +0000"
@@ -2009,15 +2254,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv4": {
-    "criteria": {
-      "has_iron": "2024-11-30 20:38:40 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-11-30 20:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2024-11-30 20:38:40 +0000"
     },
     "done": true
   },
@@ -2063,15 +2308,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-30 20:37:19 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
-      "has_stick": "2024-11-30 20:22:37 +0000"
+      "has_mossy_cobblestone": "2024-11-30 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
     },
     "done": true
   },
@@ -2084,6 +2341,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-30 22:32:55 +0000"
     },
     "done": true
   },
@@ -2123,15 +2386,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-11-30 22:00:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2024-11-30 20:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-11-30 22:00:04 +0000"
     },
     "done": true
   },
@@ -2213,6 +2476,12 @@
     },
     "done": true
   },
+  "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
+    "criteria": {
+      "has_gunpowder": "2024-11-30 22:13:31 +0000"
+    },
+    "done": true
+  },
   "fantasyfurniture:recipes/fantasyfurniture/furniture_station": {
     "criteria": {
       "has_crafting_table": "2024-11-30 20:22:37 +0000"
@@ -2231,15 +2500,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-30 20:38:40 +0000"
-    },
-    "done": true
-  },
   "infernalexp:recipes/redstone/smooth_dullstone_button": {
     "criteria": {
       "has_smooth_dullstone": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-30 20:38:40 +0000"
     },
     "done": true
   },
@@ -2252,6 +2521,12 @@
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-11-30 22:45:13 +0000"
     },
     "done": true
   },
@@ -2315,6 +2590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-11-30 22:32:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-11-30 20:59:39 +0000"
@@ -2339,6 +2620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
@@ -2360,6 +2647,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-30 22:25:58 +0000"
     },
     "done": true
   },
