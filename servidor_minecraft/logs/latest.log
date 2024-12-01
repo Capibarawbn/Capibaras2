@@ -154,3 +154,10 @@ java.lang.Throwable: null
 [01Dec2024 02:28:21.616] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuhd[/127.156.185.110:51603] logged in with entity id 172375 at (806.5399313867092, 49.0, 1549.8891601264477)
 [01Dec2024 02:28:21.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd joined the game
 [01Dec2024 02:28:21.644] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
+[01Dec2024 02:46:20.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd is bleeding. Kuhd fell off some vines
+[01Dec2024 02:46:20.898] [Server thread/WARN] [tombstone/]: The death event of the player Kuhd was canceled by another mod
+[01Dec2024 02:46:20.899] [Server thread/INFO] [tombstone/]: The player Kuhd has successfully been saved
+[01Dec2024 02:46:29.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd fell off some vines
+[01Dec2024 02:46:42.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Kuhd: hit position BlockPos{x=900, y=75, z=723} too far away from player BlockPos{x=795, y=0, z=1613}.
+[01Dec2024 02:56:04.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd lost connection: Disconnected
+[01Dec2024 02:56:04.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd left the game
