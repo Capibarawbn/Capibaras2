@@ -88,3 +88,24 @@ java.lang.Throwable: null
 [01Dec2024 01:26:19.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd moved too quickly! -9.118160696912469,3.4591698845521677,-2.766906987823859
 [01Dec2024 01:32:14.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd moved wrongly!
 [01Dec2024 01:34:15.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has made the advancement [Ol' Betsy]
+[01Dec2024 01:41:13.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has completed the challenge [Eye of the Tiger]
+[01Dec2024 01:41:26.790] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=679, y=65, z=2135} but found not block entity block Block{minecraft:air} at location
+[01Dec2024 01:41:26.791] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=679, y=65, z=2135}
+[01Dec2024 01:44:01.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved wrongly!
+[01Dec2024 01:44:03.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved wrongly!
+[01Dec2024 01:48:18.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=791, y=127, z=1591} but found not block entity block Block{minecraft:air} at location
+[01Dec2024 01:48:18.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=791, y=127, z=1591}
+[01Dec2024 01:49:49.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/150865, l='ServerLevel[world]', x=778.64, y=125.00, z=1598.92] died, message: 'Unemployed was slain by Vindicator'
+[01Dec2024 01:51:26.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12811ms or 256 ticks behind
+[01Dec2024 01:51:26.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! -0.18066264844168245,0.0,-10.00502593570127
+[01Dec2024 01:51:26.988] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1031, y=127, z=1383} but found not block entity block Block{treasure2:wither_log}[axis=y] at location
+[01Dec2024 01:51:26.988] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{treasure2:wither_log}[axis=y] but failed at location BlockPos{x=1031, y=127, z=1383}
+[01Dec2024 01:52:00.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS lost connection: Disconnected
+[01Dec2024 01:52:00.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS left the game
+[01Dec2024 01:52:16.785] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6edf7330
+[01Dec2024 01:52:16.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUSMCAS[/127.207.88.142:56349] logged in with entity id 152419 at (-342.9965515614626, 74.0, 18674.447324890647)
+[01Dec2024 01:52:16.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS joined the game
+[01Dec2024 01:52:16.889] [Server thread/INFO] [Waila/]: Syncing config to JUSMCAS (4c1e9fe8-ef4d-31dc-96f3-9e03dbee055e)
+[01Dec2024 01:52:21.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[01Dec2024 01:53:18.245] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[01Dec2024 01:53:42.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/150029, l='ServerLevel[world]', x=784.82, y=127.02, z=1647.91] died, message: 'Unemployed was shot by Pillager'
