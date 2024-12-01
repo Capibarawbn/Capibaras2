@@ -1607,6 +1607,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2024-12-01 00:26:47 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2024-11-30 04:45:49 +0000"
@@ -3392,6 +3398,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2024-12-01 00:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-11-30 07:36:28 +0000"
@@ -4118,6 +4130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-01 00:29:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-11-30 04:43:10 +0000"
@@ -4325,6 +4343,12 @@
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2024-11-30 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2024-12-01 00:26:48 +0000"
     },
     "done": true
   },
