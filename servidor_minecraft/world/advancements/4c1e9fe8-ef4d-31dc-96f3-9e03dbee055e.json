@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-30 20:37:32 +0000"
@@ -443,6 +449,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-12-01 00:00:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
@@ -522,6 +534,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-30 20:37:19 +0000"
@@ -561,6 +579,7 @@
       "minecraft:husk": "2024-11-30 23:39:20 +0000",
       "minecraft:piglin": "2024-11-30 22:31:20 +0000",
       "minecraft:enderman": "2024-11-30 20:33:32 +0000",
+      "minecraft:stray": "2024-11-30 23:52:23 +0000",
       "minecraft:vex": "2024-11-30 23:46:16 +0000",
       "minecraft:zombie": "2024-11-30 20:45:30 +0000",
       "minecraft:zombie_villager": "2024-11-30 22:50:30 +0000"
@@ -603,6 +622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-11-30 20:45:38 +0000"
@@ -618,6 +643,12 @@
   "vampirism:recipes/brewing/vampire/blood_bottle_to_glass": {
     "criteria": {
       "has_blood_bottle": "2024-11-30 22:07:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2024-12-01 00:04:57 +0000"
     },
     "done": true
   },
@@ -768,6 +799,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 23:42:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-30 23:57:10 +0000"
     },
     "done": true
   },
@@ -1041,6 +1078,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/tarantula_hawk_wing": {
+    "criteria": {
+      "has_items": "2024-12-01 00:01:50 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/treasure2/key_ring": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
@@ -1050,6 +1093,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-30 20:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
     },
     "done": true
   },
@@ -1186,6 +1235,7 @@
       "minecraft:stony_shore": "2024-11-30 20:56:50 +0000",
       "minecraft:snowy_plains": "2024-11-30 22:38:05 +0000",
       "minecraft:snowy_taiga": "2024-11-30 22:39:50 +0000",
+      "minecraft:dripstone_caves": "2024-11-30 23:50:51 +0000",
       "minecraft:swamp": "2024-11-30 20:21:34 +0000",
       "minecraft:grove": "2024-11-30 22:43:23 +0000",
       "minecraft:jagged_peaks": "2024-11-30 20:51:26 +0000",
@@ -1205,6 +1255,12 @@
       "minecraft:plains": "2024-11-30 20:22:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -1440,6 +1496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/tombstone2": {
     "criteria": {
       "has_coble": "2024-11-30 20:34:48 +0000"
@@ -1618,6 +1680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
@@ -1766,6 +1834,7 @@
       "golden_apple": "2024-11-30 21:16:37 +0000",
       "cookie": "2024-11-30 21:03:31 +0000",
       "glow_berries": "2024-11-30 21:08:04 +0000",
+      "golden_carrot": "2024-12-01 00:05:59 +0000",
       "cod": "2024-11-30 20:48:29 +0000"
     },
     "done": false
@@ -1827,6 +1896,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-11-30 22:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
     },
     "done": true
   },
@@ -1971,6 +2046,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-30 20:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
     },
     "done": true
   },
@@ -2136,6 +2217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2024-11-30 23:16:43 +0000"
@@ -2157,6 +2244,12 @@
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_04": "2024-11-30 21:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
     },
     "done": true
   },
@@ -2193,6 +2286,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2024-11-30 21:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
     },
     "done": true
   },
@@ -2289,6 +2388,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-11-30 22:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
     },
     "done": true
   },
@@ -2730,6 +2835,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/banner_pattern_new_mexico": {
+    "criteria": {
+      "has_items": "2024-12-01 00:01:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
@@ -2751,6 +2862,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-30 20:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
     },
     "done": true
   },
@@ -2829,6 +2946,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-30 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-01 00:12:26 +0000"
     },
     "done": true
   },
