@@ -63,3 +63,6 @@ java.lang.Throwable: null
 [01Dec2024 00:36:54.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
 [01Dec2024 00:40:29.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has made the advancement [Enchanter]
 [01Dec2024 00:43:28.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [The Parrots and the Bats]
+[01Dec2024 00:48:58.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [A Seedy Place]
+[01Dec2024 00:52:10.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd lost connection: Disconnected
+[01Dec2024 00:52:10.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd left the game

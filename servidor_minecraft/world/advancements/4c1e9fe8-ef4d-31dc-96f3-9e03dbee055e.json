@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-01 00:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-11-30 21:36:30 +0000"
@@ -760,6 +766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-01 00:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
@@ -1358,6 +1370,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-01 00:48:58 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
@@ -1628,6 +1646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-01 00:43:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-30 20:37:32 +0000"
@@ -1877,7 +1901,8 @@
       "cookie": "2024-11-30 21:03:31 +0000",
       "glow_berries": "2024-11-30 21:08:04 +0000",
       "golden_carrot": "2024-12-01 00:05:59 +0000",
-      "cod": "2024-11-30 20:48:29 +0000"
+      "cod": "2024-11-30 20:48:29 +0000",
+      "carrot": "2024-12-01 00:49:10 +0000"
     },
     "done": false
   },
@@ -2097,6 +2122,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2024-12-01 00:43:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-01 00:12:26 +0000"
@@ -2130,6 +2161,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-11-30 20:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-01 00:43:17 +0000"
     },
     "done": true
   },
@@ -2325,6 +2362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-01 00:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-11-30 22:14:43 +0000"
@@ -2364,6 +2407,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-11-30 22:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-01 00:49:03 +0000"
     },
     "done": true
   },
@@ -2919,6 +2968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-01 00:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-30 20:37:32 +0000"
@@ -2940,6 +2995,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-11-30 22:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-01 00:43:28 +0000"
     },
     "done": true
   },
