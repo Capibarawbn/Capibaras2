@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-01 02:04:55 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/cross": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
@@ -164,6 +170,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-01 00:50:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-01 02:07:57 +0000"
     },
     "done": true
   },
@@ -232,6 +244,12 @@
       "in_better_spider_dungeon": "2024-11-30 20:41:07 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-01 02:02:46 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
@@ -694,6 +712,7 @@
       "minecraft:piglin": "2024-11-30 22:31:20 +0000",
       "minecraft:enderman": "2024-11-30 20:33:32 +0000",
       "minecraft:stray": "2024-11-30 23:52:23 +0000",
+      "minecraft:silverfish": "2024-12-01 01:59:05 +0000",
       "minecraft:vex": "2024-11-30 23:46:16 +0000",
       "minecraft:zombie": "2024-11-30 20:45:30 +0000",
       "minecraft:zombie_villager": "2024-11-30 22:50:30 +0000"
@@ -708,7 +727,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-01 01:51:01 +0000"
+      "log_spam_fixer": "2024-12-01 02:12:23 +0000"
     },
     "done": false
   },
@@ -835,6 +854,12 @@
   "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-01 02:02:46 +0000"
     },
     "done": true
   },
@@ -1008,7 +1033,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-01 01:51:01 +0000"
+      "log_spam_fixer": "2024-12-01 02:12:23 +0000"
     },
     "done": false
   },
@@ -1368,7 +1393,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-01 01:51:01 +0000"
+      "log_spam_fixer": "2024-12-01 02:12:23 +0000"
     },
     "done": false
   },
@@ -1410,7 +1435,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-01 01:51:01 +0000"
+      "log_spam_fixer": "2024-12-01 02:12:23 +0000"
     },
     "done": false
   },
@@ -1546,7 +1571,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-01 01:51:01 +0000"
+      "log_spam_fixer": "2024-12-01 02:12:23 +0000"
     },
     "done": false
   },
@@ -1798,7 +1823,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-01 01:51:01 +0000"
+      "log_spam_fixer": "2024-12-01 02:12:23 +0000"
     },
     "done": false
   },
@@ -2598,7 +2623,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-01 01:51:01 +0000"
+      "log_spam_fixer": "2024-12-01 02:12:23 +0000"
     },
     "done": false
   },
@@ -2836,17 +2861,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-01 01:51:01 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-12-01 01:23:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-01 02:12:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
@@ -2980,15 +3005,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2024-12-01 00:50:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-01 00:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-01 00:50:10 +0000"
     },
     "done": true
   },
@@ -3160,6 +3185,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-01 02:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-11-30 22:00:04 +0000"
@@ -3322,6 +3353,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-01 02:02:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
@@ -3348,7 +3385,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-01 01:51:01 +0000"
+      "log_spam_fixer": "2024-12-01 02:12:23 +0000"
     },
     "done": false
   },
@@ -3372,7 +3409,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-01 01:51:01 +0000"
+      "log_spam_fixer": "2024-12-01 02:12:23 +0000"
     },
     "done": false
   },
