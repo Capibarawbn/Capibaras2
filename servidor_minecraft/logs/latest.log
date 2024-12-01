@@ -66,3 +66,7 @@ java.lang.Throwable: null
 [01Dec2024 00:48:58.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [A Seedy Place]
 [01Dec2024 00:52:10.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd lost connection: Disconnected
 [01Dec2024 00:52:10.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd left the game
+[01Dec2024 01:07:58.465] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@477accbd
+[01Dec2024 01:07:58.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuhd[/127.156.185.110:55143] logged in with entity id 127056 at (1067.3599478141805, 63.0, 2464.9112072411144)
+[01Dec2024 01:07:58.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd joined the game
+[01Dec2024 01:07:58.529] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
