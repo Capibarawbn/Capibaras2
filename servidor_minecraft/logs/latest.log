@@ -150,3 +150,7 @@ java.lang.Throwable: null
 [01Dec2024 02:23:30.689] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
 [01Dec2024 02:23:38.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd lost connection: Disconnected
 [01Dec2024 02:23:38.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd left the game
+[01Dec2024 02:28:21.609] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66d2c2d0
+[01Dec2024 02:28:21.616] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuhd[/127.156.185.110:51603] logged in with entity id 172375 at (806.5399313867092, 49.0, 1549.8891601264477)
+[01Dec2024 02:28:21.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd joined the game
+[01Dec2024 02:28:21.644] [Server thread/INFO] [Waila/]: Syncing config to Kuhd (3c1b1f35-dd98-3540-ae26-2e471edd2e6c)
