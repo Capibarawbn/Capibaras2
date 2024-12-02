@@ -250,3 +250,11 @@ java.lang.NullPointerException: Cannot invoke "yesman.epicfight.api.animation.ty
 [02Dec2024 00:53:00.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare (vehicle of Kuhd) moved wrongly! 1.1278405954908965
 [02Dec2024 01:09:31.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Kuhd: Set own game mode to Creative Mode]
 [02Dec2024 01:09:39.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Kuhd: Set own game mode to Survival Mode]
+[02Dec2024 01:21:48.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kuhd has completed the challenge [Subspace Bubble]
+[02Dec2024 01:21:48.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19166ms or 383 ticks behind
+[02Dec2024 01:25:36.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6845ms or 136 ticks behind
+[02Dec2024 01:28:33.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Kuhd: Set own game mode to Spectator Mode]
+[02Dec2024 01:29:07.443] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3833, y=137, z=-10025} but found not block entity block Block{minecraft:air} at location
+[02Dec2024 01:29:07.444] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3833, y=137, z=-10025}
+[02Dec2024 01:29:33.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuhd moved too quickly! -7.096459992174005,3.302834795281285,6.718116189189459
+[02Dec2024 01:29:44.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Kuhd: Set own game mode to Survival Mode]
