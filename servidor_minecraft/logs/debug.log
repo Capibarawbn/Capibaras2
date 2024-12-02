@@ -8458,3 +8458,64 @@ java.lang.NullPointerException: Cannot invoke "yesman.epicfight.api.animation.ty
 [02Dec2024 00:24:05.577] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
 [02Dec2024 00:28:34.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 00:28:34.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 00:32:47.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena
+[02Dec2024 00:32:48.694] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[02Dec2024 00:32:56.193] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[02Dec2024 00:32:56.219] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[02Dec2024 00:32:56.406] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[02Dec2024 00:32:56.449] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[02Dec2024 00:32:57.637] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 26.14 and blood value 0 for entity alexsmobs:laviathan
+[02Dec2024 00:33:02.494] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[02Dec2024 00:33:02.555] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[02Dec2024 00:33:09.645] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/load
+[02Dec2024 00:33:19.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:19.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:20.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:20.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:20.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:20.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:20.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:20.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:20.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:20.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:20.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:20.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=66, z=-563} BlockPos{x=197, y=66, z=-563}
+[02Dec2024 00:33:34.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 00:33:34.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 00:36:28.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[02Dec2024 00:36:28.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[02Dec2024 00:36:28.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[02Dec2024 00:36:28.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[02Dec2024 00:36:28.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[02Dec2024 00:36:28.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[02Dec2024 00:36:28.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[02Dec2024 00:36:28.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[02Dec2024 00:36:28.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[02Dec2024 00:36:28.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[02Dec2024 00:36:28.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[02Dec2024 00:36:28.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[02Dec2024 00:36:28.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[02Dec2024 00:36:28.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[02Dec2024 00:36:28.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[02Dec2024 00:36:28.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[02Dec2024 00:36:28.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[02Dec2024 00:36:28.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[02Dec2024 00:36:28.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[02Dec2024 00:37:10.329] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.89 and blood value 15 for entity mythicmounts:nightmare
+[02Dec2024 00:37:31.969] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Invalid biome incendium:inverted_forest at [-16,-58]
+[02Dec2024 00:37:46.630] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[02Dec2024 00:38:34.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 00:38:34.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
