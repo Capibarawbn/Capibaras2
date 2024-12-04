@@ -1850,3 +1850,8 @@ java.lang.Throwable: null
 [04Dec2024 16:52:13.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ajajjaja
 [04Dec2024 16:52:31.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Bueno
 [04Dec2024 16:52:37.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> queda gracias
+[04Dec2024 16:55:13.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a
+[04Dec2024 16:56:34.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> mi horno oe
+[04Dec2024 16:56:38.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ni termine de usar
+[04Dec2024 16:59:04.151] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/138099, l='ServerLevel[world]', x=-808.49, y=62.15, z=18805.02] died, message: 'Unemployed was slain by Crocodile'
+[04Dec2024 17:00:10.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Tactical Fishing]
