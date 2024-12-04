@@ -1659,3 +1659,73 @@ java.lang.Throwable: null
 [04Dec2024 16:02:22.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> tienes lana?
 [04Dec2024 16:02:26.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> si
 [04Dec2024 16:02:32.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> pasa 2 o 3
+[04Dec2024 16:03:33.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> vamo a ver
+[04Dec2024 16:04:11.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jajaja
+[04Dec2024 16:04:11.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> queeeeeeeeeeee
+[04Dec2024 16:04:13.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> llevame
+[04Dec2024 16:04:34.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> nicafandiñoooooooooooo
+[04Dec2024 16:04:50.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of mariana_senpai) moved wrongly! 0.925000011920929
+[04Dec2024 16:04:50.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of mariana_senpai) moved wrongly! 0.5216903810614895
+[04Dec2024 16:04:53.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> aea
+[04Dec2024 16:05:11.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> me voy a mudar
+[04Dec2024 16:05:19.102] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket@531e22c2, suppressing error
+java.lang.NullPointerException: Cannot invoke "yesman.epicfight.api.animation.types.StaticAnimation.in(yesman.epicfight.api.animation.types.StaticAnimation[])" because the return value of "yesman.epicfight.world.entity.eventlistener.ComboCounterHandleEvent.getAnimation()" is null
+	at yesman.epicfight.skill.dodge.StepSkill.lambda$onInitiate$0(StepSkill.java:24) ~[epicfight-forge-18.5.26-1.18.2-.jar%2370!/:18.5.26]
+	at yesman.epicfight.world.entity.eventlistener.EventTrigger.trigger(EventTrigger.java:22) ~[epicfight-forge-18.5.26-1.18.2-.jar%2370!/:18.5.26]
+	at yesman.epicfight.world.entity.eventlistener.PlayerEventListener.triggerEvents(PlayerEventListener.java:73) ~[epicfight-forge-18.5.26-1.18.2-.jar%2370!/:18.5.26]
+	at yesman.epicfight.skill.BasicAttack.setComboCounterWithEvent(BasicAttack.java:35) ~[epicfight-forge-18.5.26-1.18.2-.jar%2370!/:18.5.26]
+	at yesman.epicfight.skill.BasicAttack.executeOnServer(BasicAttack.java:114) ~[epicfight-forge-18.5.26-1.18.2-.jar%2370!/:18.5.26]
+	at yesman.epicfight.skill.SkillContainer.requestExecute(SkillContainer.java:184) ~[epicfight-forge-18.5.26-1.18.2-.jar%2370!/:18.5.26]
+	at yesman.epicfight.network.client.CPExecuteSkill.lambda$handle$0(CPExecuteSkill.java:73) ~[epicfight-forge-18.5.26-1.18.2-.jar%2370!/:18.5.26]
+	at net.minecraftforge.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:213) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
+	at yesman.epicfight.network.client.CPExecuteSkill.handle(CPExecuteSkill.java:66) ~[epicfight-forge-18.5.26-1.18.2-.jar%2370!/:18.5.26]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:115) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:115) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:153) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
+	at net.minecraftforge.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:72) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.network.NetworkInstance.dispatch(NetworkInstance.java:68) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
+	at net.minecraftforge.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.network.NetworkHooks.onCustomPayload(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7423_(ServerGamePacketListenerImpl.java:1440) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:35) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:8) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:761) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04Dec2024 16:05:28.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> COMO ME BAJO
+[04Dec2024 16:05:32.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> AYA ESTOY
+[04Dec2024 16:05:32.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> shift
+[04Dec2024 16:05:38.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a dodne nos vamos a mudar
+[04Dec2024 16:05:46.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> vamos pues jajaja
+[04Dec2024 16:05:50.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> a la otra aldea
+[04Dec2024 16:05:56.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Del agua
+[04Dec2024 16:05:57.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> yap
+[04Dec2024 16:06:26.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> mi nave?
+[04Dec2024 16:06:37.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> para alla
+[04Dec2024 16:07:43.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a
+[04Dec2024 16:08:28.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> mrd es grande
+[04Dec2024 16:08:38.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-985, y=81, z=18839} but found not block entity block Block{treasure2:skull_and_crossbones}[facing=west] at location
+[04Dec2024 16:08:38.139] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{treasure2:skull_and_crossbones}[facing=west] but failed at location BlockPos{x=-985, y=81, z=18839}
+[04Dec2024 16:08:39.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> jajaja
+[04Dec2024 16:09:25.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> aca?
+[04Dec2024 16:09:29.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> obvio pem
+[04Dec2024 16:12:32.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> mayday
+[04Dec2024 16:12:35.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> mayday
+[04Dec2024 16:12:52.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> xd

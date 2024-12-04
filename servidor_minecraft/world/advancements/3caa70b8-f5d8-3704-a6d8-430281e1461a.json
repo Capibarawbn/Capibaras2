@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-04 16:01:25 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/treasure2/sapphire_key": {
     "criteria": {
       "has_tool": "2024-12-04 15:36:39 +0000"
@@ -2297,6 +2303,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2024-12-01 07:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-04 16:01:25 +0000"
     },
     "done": true
   },
