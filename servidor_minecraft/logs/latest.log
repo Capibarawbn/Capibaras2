@@ -886,3 +886,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [04Dec2024 21:51:06.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> dame porfi
 [04Dec2024 21:51:13.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> te doy con gusto
 [04Dec2024 21:51:27.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> gracias
+[04Dec2024 21:57:17.837] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1193, y=77, z=18807} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 21:57:17.838] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1193, y=77, z=18807}
+[04Dec2024 21:59:40.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> me voy
+[04Dec2024 21:59:48.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> tengo sueñito
+[04Dec2024 21:59:50.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ...
+[04Dec2024 21:59:55.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Bueno descansa
+[04Dec2024 22:00:02.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> no te molestes ps
+[04Dec2024 22:00:04.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Jajaja pero descansa bien xd
+[04Dec2024 22:00:07.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> mira wssp
+[04Dec2024 22:01:08.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> adioooo
+[04Dec2024 22:01:16.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> bye
+[04Dec2024 22:01:19.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai lost connection: Disconnected
+[04Dec2024 22:01:19.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai left the game
