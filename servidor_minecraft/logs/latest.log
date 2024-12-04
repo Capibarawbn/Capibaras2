@@ -1729,3 +1729,115 @@ java.lang.NullPointerException: Cannot invoke "yesman.epicfight.api.animation.ty
 [04Dec2024 16:12:32.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> mayday
 [04Dec2024 16:12:35.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> mayday
 [04Dec2024 16:12:52.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> xd
+[04Dec2024 16:15:23.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.6271726201637193,-0.3067795403957376,9.745419931397919
+[04Dec2024 16:15:23.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.7466112793977118,-0.31218737400757846,10.242426676002651
+[04Dec2024 16:15:23.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.8654452321160306,-0.31712253724984407,10.740041058408679
+[04Dec2024 16:15:23.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.9836927570327134,-0.32162477477808693,11.23822763186763
+[04Dec2024 16:15:23.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.1013740097381515,-0.32573069937488697,11.736981885074783
+[04Dec2024 16:15:23.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.283300957718211,-0.38394524507195626,9.97079529653638
+[04Dec2024 16:15:23.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.3887320409994572,-0.4855245027957693,10.459650163895276
+[04Dec2024 16:15:23.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.49306563418736,-0.601343211616225,10.946302981217741
+[04Dec2024 16:15:23.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.5963044310205987,-0.7311618172565346,11.430754695044016
+[04Dec2024 16:15:23.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.698455762655499,-0.8746303200712617,11.91302655515392
+[04Dec2024 16:15:23.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.7995263608198684,-1.0313145680032392,12.393157117559895
+[04Dec2024 16:15:23.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.899526684878424,-1.200718203216681,12.871197876964288
+[04Dec2024 16:15:23.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 2.998464413410602,-1.382300868772191,13.347182607893046
+[04Dec2024 16:15:23.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.096355496375395,-1.5754932342788237,13.821183165422553
+[04Dec2024 16:15:23.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.19321724813733,-1.779709320870822,14.293276936725306
+[04Dec2024 16:15:23.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.2890627385879725,-1.994356509202916,14.76351717075886
+[04Dec2024 16:15:23.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.3839113950604087,-2.218843619931633,15.231989891613921
+[04Dec2024 16:15:23.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.4763097082585546,-2.4525397687011434,15.699085283235036
+[04Dec2024 16:15:23.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.565918287669888,-2.6947591050929844,16.16500046999863
+[04Dec2024 16:15:23.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.653890976651155,-2.940882781008227,16.630311912718753
+[04Dec2024 16:15:23.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.743140454855393,-3.187394065752869,17.094971163336595
+[04Dec2024 16:15:23.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.835623740038386,-3.4314616505100872,17.558950799339073
+[04Dec2024 16:15:23.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.9326038177665623,-3.670839968191032,18.02229368216649
+[04Dec2024 16:15:23.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.034814689697441,-3.9037808615744467,18.485049475453707
+[04Dec2024 16:15:23.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.142618790846996,-4.1289559971252885,18.94732439154177
+[04Dec2024 16:15:23.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.25610340679259,-4.345389190434332,19.4092145919858
+[04Dec2024 16:15:23.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.375186399399695,-4.5523977453760835,19.870853260748845
+[04Dec2024 16:15:23.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.499646005690352,-4.7495418527729925,20.332351366138028
+[04Dec2024 16:15:23.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.629188906893887,-4.93658114862869,20.793847310003912
+[04Dec2024 16:15:23.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.763464457419218,-5.11343757777631,21.255446126309835
+[04Dec2024 16:15:23.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.90196234590519,-5.280134939731042,21.717333380431228
+[04Dec2024 16:15:23.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 5.045092492649815,-5.436842275566036,22.179313752872986
+[04Dec2024 16:15:23.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.0162424177193543,-5.287102341138166,13.161492343093414
+[04Dec2024 16:15:23.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.1689528994247667,-5.424626632135997,13.623376117247972
+[04Dec2024 16:15:23.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.326312169189123,-5.553061540990797,14.085157066259853
+[04Dec2024 16:15:23.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.4880991009406443,-5.672788374966714,14.546818563514535
+[04Dec2024 16:15:23.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.654035115464353,-5.784209690839859,15.008366421039682
+[04Dec2024 16:15:23.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.8238242380249403,-5.887740593122814,15.46984575499664
+[04Dec2024 16:15:23.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 3.9971459642648597,-5.983801592565555,15.931281121178472
+[04Dec2024 16:15:23.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.1736900389502125,-6.072812815758624,16.392727454320266
+[04Dec2024 16:15:23.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.353139159495527,-6.155189365875614,16.854213321668794
+[04Dec2024 16:15:23.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.53539643072304,-6.2313305466455375,17.315711529259715
+[04Dec2024 16:15:23.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.7210349365776665,-6.301621599335974,17.776873484301177
+[04Dec2024 16:15:23.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 4.911091855923019,-6.366434892457491,18.237153549245704
+[04Dec2024 16:15:23.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! 5.106872259015063,-6.42612983357489,18.695796845087898
+[04Dec2024 16:18:21.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a
+[04Dec2024 16:18:34.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> que paso?
+[04Dec2024 16:18:49.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> nd
+[04Dec2024 16:18:59.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> me dejaste webon xd
+[04Dec2024 16:19:09.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> pq
+[04Dec2024 16:19:23.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Porque pusiste a
+[04Dec2024 16:19:26.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> que fue
+[04Dec2024 16:19:45.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> jsajaj
+[04Dec2024 16:19:46.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Creo que saber porque xd rato
+[04Dec2024 16:19:54.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> pq
+[04Dec2024 16:20:39.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jajaja que baje
+[04Dec2024 16:20:52.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> q fue
+[04Dec2024 16:20:56.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> nada nada
+[04Dec2024 16:20:59.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> habla
+[04Dec2024 16:21:13.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> nada oe xd
+[04Dec2024 16:21:17.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> taba viendo ig nomas
+[04Dec2024 16:21:21.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ya
+[04Dec2024 16:21:42.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ptmr
+[04Dec2024 16:21:46.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> donde habra campana
+[04Dec2024 16:24:18.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Bison
+[04Dec2024 16:24:18.457] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 16:24:18.468] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 16:24:24.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> que fue
+[04Dec2024 16:24:27.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ptmr
+[04Dec2024 16:24:32.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> JAJAJA
+[04Dec2024 16:24:40.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> reviveme pues
+[04Dec2024 16:24:42.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jejeje
+[04Dec2024 16:24:49.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> dnd estas
+[04Dec2024 16:24:54.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> en laa anterior aldea
+[04Dec2024 16:24:57.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> 18
+[04Dec2024 16:24:58.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ptrm
+[04Dec2024 16:25:08.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> no tengo como ir
+[04Dec2024 16:25:12.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ya fue xd
+[04Dec2024 16:25:18.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Bison
+[04Dec2024 16:25:19.651] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:70) ~[Vampirism-1.18.2-1.8.8.jar%23120!/:1.8.8]
+	at de.teamlapen.werewolves.util.Helper.canBecomeWerewolf(Helper.java:47) ~[Werewolves-1.18.2-1.0.0.1.jar%23125!/:1.0.0.1]
+	at de.teamlapen.werewolves.effects.inst.LupusSanguinemEffectInstance.m_19552_(LupusSanguinemEffectInstance.java:24) ~[Werewolves-1.18.2-1.0.0.1.jar%23125!/:1.0.0.1]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04Dec2024 16:25:25.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2792ms or 55 ticks behind
+[04Dec2024 16:39:43.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> q andas haciendp papi
+[04Dec2024 16:39:47.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> capi*
+[04Dec2024 16:39:55.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Consiguiendo efeccto de lupus
+[04Dec2024 16:40:01.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> aya
+[04Dec2024 16:40:44.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Werewolf
+[04Dec2024 16:40:44.009] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 16:40:44.013] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 16:40:56.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ptmr justo cuando lo obtuve muero
+[04Dec2024 16:40:59.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> jaja
+[04Dec2024 16:41:03.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Werewolf
+[04Dec2024 16:41:11.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+[04Dec2024 16:43:54.054] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 4'/151975, l='ServerLevel[world]', x=-868.31, y=76.00, z=18588.45] died: Alpha Werewolf Level 4 was burnt to a crisp whilst fighting JUSMCAS

@@ -673,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-04 16:38:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-11-30 06:14:45 +0000"
@@ -754,6 +760,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-11-30 05:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-04 16:14:55 +0000"
     },
     "done": true
   },
@@ -1288,6 +1300,12 @@
   "securitycraft:recipes/securitycraft/reinforced_nether_brick_fence": {
     "criteria": {
       "has_stick": "2024-12-01 07:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-04 16:10:52 +0000"
     },
     "done": true
   },
@@ -1976,6 +1994,7 @@
       "minecraft:frozen_peaks": "2024-12-04 14:28:03 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-30 05:27:54 +0000",
       "minecraft:meadow": "2024-12-01 05:17:11 +0000",
+      "minecraft:savanna": "2024-12-04 16:29:43 +0000",
       "minecraft:plains": "2024-11-30 05:15:51 +0000"
     },
     "done": false
@@ -2453,6 +2472,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-11-30 06:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-04 16:15:07 +0000"
     },
     "done": true
   },
@@ -2994,6 +3019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-04 16:14:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 05:30:49 +0000"
@@ -3411,6 +3442,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-11-30 06:22:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2024-12-04 16:24:56 +0000"
     },
     "done": true
   },
