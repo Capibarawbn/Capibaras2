@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/gravestone3_obsidian": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-04 12:48:32 +0000"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/crystal_skull_chest": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/heart_striker_enhanced_repair": {
     "criteria": {
       "has_heart_striker": "2024-11-30 05:56:15 +0000"
@@ -314,6 +326,12 @@
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2024-11-30 05:51:25 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/sapphire_key": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },
@@ -433,9 +451,33 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/topaz_key": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-30 05:17:27 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/pilferers_lock_pick": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/ruby_key": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/gravestone1_stone": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },
@@ -502,6 +544,18 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-01 06:22:03 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/gravestone2_mossy_cobblestone": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/skull_and_crossbones": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },
@@ -757,6 +811,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/gravestone3_polished_granite": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-11-30 05:15:18 +0000"
@@ -802,6 +862,12 @@
   "infernalexp:recipes/redstone/soul_slate_button": {
     "criteria": {
       "has_soul_slate": "2024-11-30 05:13:51 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/pouch": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },
@@ -961,6 +1027,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/onyx_key": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "orcz:orczchallenge": {
     "criteria": {
       "orczchallenge": "2024-11-30 05:13:51 +0000"
@@ -1033,6 +1105,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/gravestone2_obsidian": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-04 12:49:42 +0000"
@@ -1054,6 +1132,18 @@
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2024-11-30 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/gravestone3_stone": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/gravestone3_mossy_cobblestone": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },
@@ -1627,6 +1717,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/gold_skull_chest": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2024-11-30 05:31:14 +0000"
@@ -2043,6 +2139,12 @@
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2024-11-30 05:15:18 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/wither_key": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },
@@ -2468,6 +2570,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/gravestone3_smooth_quartz": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/weapontable/crossbow_arrow_silver_bolt": {
     "criteria": {
       "hasSticks": "2024-11-30 05:17:01 +0000"
@@ -2483,6 +2591,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-11-30 05:40:18 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/gravestone2_stone": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },
@@ -2723,6 +2837,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/gravestone1_obsidian": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2024-11-30 05:15:18 +0000"
@@ -2732,6 +2852,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-11-30 05:17:27 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/gravestone2_polished_granite": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },
@@ -2844,6 +2970,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/spider_key": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-11-30 05:21:28 +0000"
@@ -2922,11 +3054,23 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/gravestone1_cobblestone": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:wolf": "2024-11-30 07:31:16 +0000"
     },
     "done": false
+  },
+  "treasure2:recipes/treasure2/gravestone3_cobblestone": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
     "criteria": {
@@ -3198,6 +3342,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/gravestone2_smooth_quartz": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-11-30 05:40:18 +0000"
@@ -3333,6 +3483,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2024-12-04 14:26:36 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/gravestone1_smooth_quartz": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },
@@ -3876,6 +4032,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/building_blocks/bison_fur_block": {
+    "criteria": {
+      "has_items": "2024-12-04 15:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-12-01 06:10:45 +0000"
@@ -3918,6 +4080,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/gravestone2_cobblestone": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/food/cooked_hogchop_smoking": {
     "criteria": {
       "has_hogchop": "2024-11-30 05:13:51 +0000"
@@ -3951,6 +4119,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-01 07:45:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/building_blocks/bison_fur_to_wool": {
+    "criteria": {
+      "has_items": "2024-12-04 15:37:02 +0000"
     },
     "done": true
   },
@@ -3996,6 +4170,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/thiefs_lock_pick": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2024-11-30 05:16:39 +0000"
@@ -4017,6 +4197,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-04 12:49:42 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/skull_chest": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },
@@ -4116,6 +4302,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/treasure2/gravestone1_mossy_cobblestone": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 05:30:49 +0000"
@@ -4158,9 +4350,21 @@
     },
     "done": true
   },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2024-12-04 15:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2024-11-30 05:50:14 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/treasure2/gravestone1_polished_granite": {
+    "criteria": {
+      "has_tool": "2024-12-04 15:36:39 +0000"
     },
     "done": true
   },

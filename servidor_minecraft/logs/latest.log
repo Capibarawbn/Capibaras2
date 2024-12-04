@@ -1576,3 +1576,47 @@ java.lang.Throwable: null
 [04Dec2024 15:31:59.762] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
 [04Dec2024 15:32:16.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Piglin Brute
 [04Dec2024 15:32:29.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[04Dec2024 15:32:48.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04Dec2024 15:35:43.529] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-937, y=88, z=19047} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 15:35:43.529] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-937, y=88, z=19047}
+[04Dec2024 15:37:41.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was slain by Bison
+[04Dec2024 15:37:41.455] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[04Dec2024 15:37:41.472] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[04Dec2024 15:37:58.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ni cgaando
+[04Dec2024 15:38:01.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> un bison xd
+[04Dec2024 15:38:01.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> jajaj
+[04Dec2024 15:38:41.437] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[04Dec2024 15:38:42.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: After mariana_senpai was slain by Bison, they gave up
+[04Dec2024 15:38:43.021] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[04Dec2024 15:39:32.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> porque salio morado
+[04Dec2024 15:39:34.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> nicagando soy vamp'iro
+[04Dec2024 15:39:44.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> aydua
+[04Dec2024 15:39:47.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> que rico
+[04Dec2024 15:39:50.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> que hago
+[04Dec2024 15:39:52.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> chupa sangre
+[04Dec2024 15:39:52.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a
+[04Dec2024 15:40:00.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> pero bno quiero ser vampiro
+[04Dec2024 15:40:29.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> como lo hiciste xd
+[04Dec2024 15:40:37.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> no seeee
+[04Dec2024 15:40:38.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ptmr
+[04Dec2024 15:40:53.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ahora necesitas un paraguas
+[04Dec2024 15:41:02.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> troste
+[04Dec2024 15:41:07.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> pero tengo agua bendita
+[04Dec2024 15:41:40.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> necesito dos mas :(
+[04Dec2024 15:41:49.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jajaja
+[04Dec2024 15:41:53.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> vampira pues
+[04Dec2024 15:41:57.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> que interesante
+[04Dec2024 15:42:03.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> jajjaa
+[04Dec2024 15:43:28.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> como llegaste csmr
+[04Dec2024 15:43:40.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> hueles a sangre
+[04Dec2024 15:43:44.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> JAJAJJA
+[04Dec2024 15:43:50.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> por aca
+[04Dec2024 15:49:41.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> aaaaaaaaaaaaaa
+[04Dec2024 15:49:44.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> calambre
+[04Dec2024 15:49:49.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> JAJAJJJAJA
+[04Dec2024 15:51:15.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> y esta flor
+[04Dec2024 15:51:18.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a
+[04Dec2024 15:51:40.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [The Beginning of An Adventure]
+[04Dec2024 15:51:40.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Need A Map?]
+[04Dec2024 15:52:21.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> gracias
+[04Dec2024 15:52:47.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> jiji
