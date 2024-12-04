@@ -899,3 +899,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [04Dec2024 22:01:16.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> bye
 [04Dec2024 22:01:19.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai lost connection: Disconnected
 [04Dec2024 22:01:19.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai left the game
+[04Dec2024 22:25:32.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Crocodile
+[04Dec2024 22:25:32.984] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 22:25:32.989] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 22:25:55.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Crocodile
+[04Dec2024 22:26:15.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Chompy]

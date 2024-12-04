@@ -1446,3 +1446,5 @@
 2024-12-04 20:54:56,183 [Server thread] INFO treasure2 | WorldEventHandler.java:62 | In world load event
 2024-12-04 20:54:56,184 [Server thread] INFO treasure2 | WorldEventHandler.java:72 | In world load event for dimension minecraft:the_nether
 2024-12-04 21:57:15,742 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:119 | unable to locate rarity config for rarity - >COMMON
+2024-12-04 22:33:45,739 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:157 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.3, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.7, rotation=0.0], lockItem=null]]
+2024-12-04 22:33:45,739 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:158 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.CardboardBoxBlockEntity@48412a6e @ BlockPos{x=-767, y=63, z=18766}
