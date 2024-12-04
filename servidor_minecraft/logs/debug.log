@@ -8500,3 +8500,101 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [04Dec2024 21:11:56.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ven
 [04Dec2024 21:12:40.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> toma
 [04Dec2024 21:13:18.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[04Dec2024 21:14:09.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[04Dec2024 21:14:09.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[04Dec2024 21:14:09.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[04Dec2024 21:14:09.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[04Dec2024 21:14:09.322] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[04Dec2024 21:15:10.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:15:10.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:15:42.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> lo bueno es que estas mas calmada
+[04Dec2024 21:15:54.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> no
+[04Dec2024 21:16:10.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ...
+[04Dec2024 21:16:17.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> oe toy atorado xd
+[04Dec2024 21:17:02.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> estem ayuda
+[04Dec2024 21:17:06.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> dnd
+[04Dec2024 21:17:10.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> agua
+[04Dec2024 21:17:12.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> bote
+[04Dec2024 21:17:33.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> al bote xd
+[04Dec2024 21:17:52.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> me has golpeado por las webas
+[04Dec2024 21:18:43.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Mas fuerza
+[04Dec2024 21:18:55.985] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JUSMCAS has new faction level werewolves:werewolf 6
+[04Dec2024 21:19:21.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> q
+[04Dec2024 21:19:43.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> xd
+[04Dec2024 21:19:47.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> pense que era pequeño
+[04Dec2024 21:19:51.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> el q
+[04Dec2024 21:19:57.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> esto
+[04Dec2024 21:20:10.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:20:10.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:20:29.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> aea
+[04Dec2024 21:21:17.256] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[04Dec2024 21:21:17.376] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[04Dec2024 21:21:18.081] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[04Dec2024 21:21:18.082] [Worker-Main-1/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$2(Lnet/minecraft/world/level/levelgen/structure/pools/StructurePoolElement;)Z to md01d7c5$lambda$getShuffledTemplates$2$0 in waystones.mixins.json:JigsawPlacementMixin
+[04Dec2024 21:21:18.082] [Worker-Main-1/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$1(Ljava/lang/String;)Z to md01d7c5$lambda$getShuffledTemplates$1$1 in waystones.mixins.json:JigsawPlacementMixin
+[04Dec2024 21:21:18.082] [Worker-Main-1/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$0(Ljava/lang/Object;)Ljava/lang/String; to md01d7c5$lambda$getShuffledTemplates$0$2 in waystones.mixins.json:JigsawPlacementMixin
+[04Dec2024 21:21:18.102] [Worker-Main-1/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[04Dec2024 21:21:18.457] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[04Dec2024 21:21:19.537] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/grand_heaven_portal_4
+[04Dec2024 21:21:19.981] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[04Dec2024 21:21:20.017] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[04Dec2024 21:21:20.081] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[04Dec2024 21:21:20.101] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[04Dec2024 21:21:20.105] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[04Dec2024 21:21:20.108] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/load
+[04Dec2024 21:21:20.316] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/grand_heaven_portal_2
+[04Dec2024 21:21:20.434] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Dec2024 21:21:20.435] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from bygonenether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Dec2024 21:21:20.435] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Dec2024 21:21:20.436] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from graveyard.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Dec2024 21:21:20.436] [Worker-Main-1/DEBUG] [mixin/]: graveyard.mixins.json:WorldGenRegionAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Dec2024 21:21:20.436] [Worker-Main-1/DEBUG] [mixin/]: Mixing MuteSetBlockFarChunk from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Dec2024 21:21:20.449] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureFeatureManager()Lnet/minecraft/world/level/StructureFeatureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Dec2024 21:21:20.449] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureFeatureManager()Lnet/minecraft/world/level/StructureFeatureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Dec2024 21:21:20.449] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureFeatureManager()Lnet/minecraft/world/level/StructureFeatureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Dec2024 21:21:20.467] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04Dec2024 21:21:21.501] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[04Dec2024 21:21:21.772] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/platform_altar
+[04Dec2024 21:21:24.180] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of piglin_expansion:piglin_fortress8
+[04Dec2024 21:21:24.193] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of piglin_expansion:piglin_ship5
+[04Dec2024 21:21:24.196] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle_spawn
+[04Dec2024 21:21:24.539] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[04Dec2024 21:21:25.711] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[04Dec2024 21:21:25.737] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[04Dec2024 21:21:25.777] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[04Dec2024 21:21:25.802] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[04Dec2024 21:21:25.829] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[04Dec2024 21:21:25.859] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[04Dec2024 21:21:25.941] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[04Dec2024 21:21:25.957] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[04Dec2024 21:21:25.975] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[04Dec2024 21:21:26.061] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[04Dec2024 21:21:26.088] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[04Dec2024 21:21:26.116] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:giant_mushroom/twin_giant_mushroom_part_0
+[04Dec2024 21:21:26.140] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[04Dec2024 21:21:26.161] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[04Dec2024 21:21:26.181] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[04Dec2024 21:21:27.904] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Invalid biome minecraft:basalt_deltas at [4,136]
+[04Dec2024 21:21:31.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [We Need to Go Deeper]
+[04Dec2024 21:21:31.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Incendium]
+[04Dec2024 21:21:32.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14960ms or 299 ticks behind
+[04Dec2024 21:21:32.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Strange Biomes]
+[04Dec2024 21:21:40.224] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[04Dec2024 21:21:50.901] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not replace villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[04Dec2024 21:21:50.960] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Invalid biome incendium:infernal_dunes at [-18,131]
+[04Dec2024 21:21:54.052] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[04Dec2024 21:21:55.228] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena
+[04Dec2024 21:22:01.902] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:giant_mushroom/red_giant_mushroom_part_0
+[04Dec2024 21:22:01.935] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[04Dec2024 21:22:02.039] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[04Dec2024 21:22:02.089] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[04Dec2024 21:22:02.128] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[04Dec2024 21:22:02.266] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[04Dec2024 21:22:21.952] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[04Dec2024 21:22:21.998] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[04Dec2024 21:22:26.727] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/grand_heaven_portal_3
+[04Dec2024 21:23:32.392] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[04Dec2024 21:23:32.461] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[04Dec2024 21:23:32.747] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[04Dec2024 21:24:57.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> toma esto
+[04Dec2024 21:25:04.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> a ti te gusta drogarte
