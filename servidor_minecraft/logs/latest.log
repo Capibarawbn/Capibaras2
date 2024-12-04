@@ -904,3 +904,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [04Dec2024 22:25:32.989] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
 [04Dec2024 22:25:55.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Crocodile
 [04Dec2024 22:26:15.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Chompy]
+[04Dec2024 22:46:03.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Vampire
+[04Dec2024 22:46:03.183] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 22:46:03.185] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
