@@ -1866,3 +1866,4 @@ java.lang.Throwable: null
 [04Dec2024 17:09:02.057] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
 [04Dec2024 17:09:21.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Werewolf
 [04Dec2024 17:12:39.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 4'/158123, l='ServerLevel[world]', x=-867.44, y=75.00, z=18604.94] died: Alpha Werewolf Level 4 was slain by JUSMCAS
+[04Dec2024 17:33:10.249] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/161211, l='ServerLevel[world]', x=-806.86, y=63.02, z=18804.15] died, message: 'Librarian was slain by Crocodile'
