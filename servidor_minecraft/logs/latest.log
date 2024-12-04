@@ -1855,3 +1855,14 @@ java.lang.Throwable: null
 [04Dec2024 16:56:38.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ni termine de usar
 [04Dec2024 16:59:04.151] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/138099, l='ServerLevel[world]', x=-808.49, y=62.15, z=18805.02] died, message: 'Unemployed was slain by Crocodile'
 [04Dec2024 17:00:10.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Tactical Fishing]
+[04Dec2024 17:08:28.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> me maree de tanto jugar
+[04Dec2024 17:08:39.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> safo por un rato y vuelvo mas tarde
+[04Dec2024 17:08:41.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jajaja descansa
+[04Dec2024 17:08:48.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> yap adioo
+[04Dec2024 17:08:54.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai lost connection: Disconnected
+[04Dec2024 17:08:54.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai left the game
+[04Dec2024 17:09:02.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Werewolf
+[04Dec2024 17:09:02.050] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 17:09:02.057] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 17:09:21.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Werewolf
+[04Dec2024 17:12:39.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 4'/158123, l='ServerLevel[world]', x=-867.44, y=75.00, z=18604.94] died: Alpha Werewolf Level 4 was slain by JUSMCAS
