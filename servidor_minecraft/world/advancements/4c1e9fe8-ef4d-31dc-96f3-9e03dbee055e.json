@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-04 21:41:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
@@ -416,6 +422,12 @@
   "treasure2:recipes/treasure2/topaz_key": {
     "criteria": {
       "has_tool": "2024-12-01 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-04 21:43:57 +0000"
     },
     "done": true
   },
@@ -761,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-04 21:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-30 20:34:48 +0000"
@@ -1042,6 +1060,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-04 16:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-04 21:43:57 +0000"
     },
     "done": true
   },
@@ -1639,6 +1663,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-04 21:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-11-30 22:00:04 +0000"
@@ -2114,6 +2144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-04 21:43:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-11-30 20:31:54 +0000"
@@ -2237,6 +2273,12 @@
   "vampirism:recipes/vampirism/hunter/weapon_table": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-04 21:43:57 +0000"
     },
     "done": true
   },
@@ -4145,6 +4187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-04 21:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-11-30 21:08:22 +0000"
@@ -4556,6 +4604,12 @@
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_wool": "2024-12-04 21:43:57 +0000"
     },
     "done": true
   },
