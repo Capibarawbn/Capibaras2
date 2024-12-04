@@ -737,3 +737,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [04Dec2024 12:44:38.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
 [04Dec2024 12:47:17.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to mariana_senpai: sigues enojada?
 [04Dec2024 12:47:21.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> si
+[04Dec2024 12:48:01.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai has made the advancement [Oh Shiny]
+[04Dec2024 12:48:21.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to mariana_senpai: Oe pero ya te explique
+[04Dec2024 12:48:32.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai has made the advancement [Who is Cutting Onions?]
+[04Dec2024 12:52:14.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai tried to swim in lava to escape Crimson Mosquito
+[04Dec2024 12:52:14.166] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[04Dec2024 12:52:14.222] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[04Dec2024 12:53:01.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai tried to swim in lava to escape Crimson Mosquito
+[04Dec2024 12:56:12.257] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@320f6cfc
+[04Dec2024 12:56:12.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUSMCAS[/127.187.124.56:58691] logged in with entity id 3339 at (-508.49263058557875, 89.9375, 18701.883789078893)
+[04Dec2024 12:56:12.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS joined the game
+[04Dec2024 12:56:12.424] [Server thread/INFO] [Waila/]: Syncing config to JUSMCAS (4c1e9fe8-ef4d-31dc-96f3-9e03dbee055e)
+[04Dec2024 12:56:26.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Hola ...
+[04Dec2024 12:56:42.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> chau
+[04Dec2024 12:56:59.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> porque sigues asada'
+[04Dec2024 12:57:06.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> pq asi soy
+[04Dec2024 12:57:19.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> no eres así, hasta donde te conozco
+[04Dec2024 12:57:39.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> aya
