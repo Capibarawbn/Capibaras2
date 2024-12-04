@@ -937,6 +937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-04 15:24:17 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_brigg": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
@@ -2534,6 +2540,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-04 15:24:17 +0000"
     },
     "done": true
   },

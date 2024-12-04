@@ -1551,3 +1551,28 @@ java.lang.Throwable: null
 [04Dec2024 15:17:55.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> epaaaaaaaaaaaaaaaaaaa
 [04Dec2024 15:17:57.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> notcch
 [04Dec2024 15:18:11.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> njajja}
+[04Dec2024 15:24:06.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ya vuelvo
+[04Dec2024 15:24:14.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> okey
+[04Dec2024 15:24:16.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai lost connection: Disconnected
+[04Dec2024 15:24:16.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai left the game
+[04Dec2024 15:26:20.808] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4859737
+[04Dec2024 15:26:20.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mariana_senpai[/127.124.127.207:36965] logged in with entity id 121679 at (-531.6999999880791, 125.0, 20224.61036797231)
+[04Dec2024 15:26:20.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai joined the game
+[04Dec2024 15:26:20.948] [Server thread/INFO] [Waila/]: Syncing config to mariana_senpai (3caa70b8-f5d8-3704-a6d8-430281e1461a)
+[04Dec2024 15:26:31.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> volvi
+[04Dec2024 15:26:36.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> te espere 1 añow
+[04Dec2024 15:26:39.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> jaj
+[04Dec2024 15:28:47.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-637, y=155, z=19794} BlockPos{x=-637, y=152, z=19793}
+[04Dec2024 15:29:08.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was turned to ice by Ice Dragon
+[04Dec2024 15:29:08.394] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 15:29:08.410] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 15:29:20.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> la rptmr
+[04Dec2024 15:29:30.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a
+[04Dec2024 15:29:33.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was turned to ice by Ice Dragon
+[04Dec2024 15:29:39.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Dec2024 15:30:51.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/124001, l='ServerLevel[world]', x=-550.61, y=121.00, z=20164.41] died: Vampire Baron Level 2 was slain by mariana_senpai
+[04Dec2024 15:31:59.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Piglin Brute
+[04Dec2024 15:31:59.758] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 15:31:59.762] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 15:32:16.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Piglin Brute
+[04Dec2024 15:32:29.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
