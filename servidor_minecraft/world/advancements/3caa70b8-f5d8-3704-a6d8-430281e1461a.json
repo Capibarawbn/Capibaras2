@@ -445,6 +445,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/mosquito_larva": {
+    "criteria": {
+      "has_items": "2024-12-04 12:53:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-11-30 05:20:05 +0000"
@@ -1950,6 +1956,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-01 07:27:42 +0000",
+      "minecraft:soul_sand_valley": "2024-12-04 12:57:55 +0000",
       "minecraft:warped_forest": "2024-12-01 07:28:47 +0000"
     },
     "done": false
