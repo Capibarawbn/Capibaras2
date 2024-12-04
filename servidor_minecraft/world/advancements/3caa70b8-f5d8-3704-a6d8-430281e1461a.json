@@ -361,6 +361,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2024-12-04 14:54:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-11-30 05:51:58 +0000"
@@ -376,6 +382,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2024-12-01 06:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-04 15:01:32 +0000"
     },
     "done": true
   },
@@ -400,6 +412,12 @@
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2024-11-30 05:34:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2024-12-04 14:52:10 +0000"
     },
     "done": true
   },
@@ -1093,6 +1111,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 14:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-11-30 07:08:21 +0000"
@@ -1339,6 +1363,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/pure_blood2": {
+    "criteria": {
+      "has_pure_blood": "2024-12-04 14:54:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-11-30 05:17:01 +0000"
@@ -1489,6 +1519,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2024-12-04 14:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-11-30 05:38:31 +0000"
@@ -1498,6 +1534,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-30 05:20:05 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2024-12-04 15:02:14 +0000"
     },
     "done": true
   },
@@ -1528,6 +1570,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2024-12-04 14:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-04 14:38:56 +0000"
     },
     "done": true
   },
@@ -1621,9 +1669,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2024-12-04 14:54:15 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/misc/tarantula_hawk_wing": {
     "criteria": {
       "has_items": "2024-12-04 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2024-12-04 14:54:15 +0000"
     },
     "done": true
   },
@@ -1780,6 +1840,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-01 07:24:13 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-04 14:51:20 +0000",
       "minecraft:mushroom_fields": "2024-12-04 13:29:55 +0000",
       "minecraft:taiga": "2024-11-30 06:17:52 +0000",
       "minecraft:deep_ocean": "2024-12-04 13:25:53 +0000",
@@ -1799,6 +1860,7 @@
       "minecraft:grove": "2024-12-04 13:52:54 +0000",
       "minecraft:jagged_peaks": "2024-12-04 13:53:41 +0000",
       "minecraft:forest": "2024-11-30 05:22:25 +0000",
+      "minecraft:lush_caves": "2024-12-04 15:00:45 +0000",
       "minecraft:ice_spikes": "2024-12-01 04:59:30 +0000",
       "minecraft:desert": "2024-12-04 13:39:05 +0000",
       "minecraft:windswept_forest": "2024-11-30 07:20:35 +0000",
@@ -1815,6 +1877,12 @@
       "minecraft:plains": "2024-11-30 05:15:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-04 14:38:56 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -1879,6 +1947,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-11-30 05:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-04 15:03:06 +0000"
     },
     "done": true
   },
@@ -2052,6 +2126,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2024-12-04 14:54:15 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2024-11-30 06:50:05 +0000"
@@ -2151,6 +2231,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-11-30 07:03:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2024-12-04 14:54:15 +0000"
     },
     "done": true
   },
@@ -3214,6 +3300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-04 14:45:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-11-30 05:15:18 +0000"
@@ -3514,6 +3606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-04 14:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-11-30 05:19:38 +0000"
@@ -3796,6 +3894,12 @@
     },
     "done": true
   },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2024-12-04 14:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-11-30 06:14:45 +0000"
@@ -3913,6 +4017,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-11-30 05:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-04 14:45:04 +0000"
     },
     "done": true
   },

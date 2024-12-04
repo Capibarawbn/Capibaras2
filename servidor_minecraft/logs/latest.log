@@ -1368,3 +1368,151 @@ java.lang.NullPointerException: Cannot invoke "yesman.epicfight.api.animation.ty
 [04Dec2024 14:29:00.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> si
 [04Dec2024 14:29:04.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Ahi salgo, toy bajo tierra
 [04Dec2024 14:29:21.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ya
+[04Dec2024 14:34:12.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> adonde te has ido
+[04Dec2024 14:34:46.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> aca
+[04Dec2024 14:35:25.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jajaja
+[04Dec2024 14:35:32.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> vamos
+[04Dec2024 14:36:34.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> todo lo tengo en mochila xd
+[04Dec2024 14:36:47.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> q es estoo
+[04Dec2024 14:36:51.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> un cofre
+[04Dec2024 14:40:14.077] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=-544, y=167, z=19109} as the loot table 'ctov:chests/village/village_farm' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04Dec2024 14:40:43.184] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=-517, y=200, z=19109} as the loot table 'ctov:chests/village/village_mountain_house' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04Dec2024 14:40:49.131] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=-506, y=202, z=19114} as the loot table 'ctov:chests/village/village_farm' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04Dec2024 14:41:43.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai has made the advancement [Neighborhood Brawl]
+[04Dec2024 14:42:50.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> xd
+[04Dec2024 14:43:42.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Light as a Rabbit]
+[04Dec2024 14:44:40.754] [Worker-Main-18/WARN] [com.finallion.graveyard.world.structures.TGJigsawPlacement/]: Empty or non-existent pool: graveyard:large_walled_graveyard/small_crypt_pool
+[04Dec2024 14:44:40.755] [Worker-Main-18/WARN] [com.finallion.graveyard.world.structures.TGJigsawPlacement/]: Empty or non-existent pool: graveyard:large_walled_graveyard/small_crypt_pool
+[04Dec2024 14:45:00.518] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-713, y=138, z=19879} but found not block entity block Block{minecraft:polished_andesite} at location
+[04Dec2024 14:45:00.519] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:polished_andesite} but failed at location BlockPos{x=-713, y=138, z=19879}
+[04Dec2024 14:45:24.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ptmr las patas no traje xd
+[04Dec2024 14:46:29.123] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-763, y=42, z=20025}
+[04Dec2024 14:46:29.124] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-767, y=42, z=20025}
+[04Dec2024 14:46:30.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> dragonn
+[04Dec2024 14:46:53.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> q comen estos
+[04Dec2024 14:47:07.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> patas de conejo
+[04Dec2024 14:47:14.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> fue
+[04Dec2024 14:50:18.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Blood Feeders' Home]
+[04Dec2024 14:50:33.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> quee dnd estas
+[04Dec2024 14:50:40.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> 20000
+[04Dec2024 14:50:42.092] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-409, y=136, z=20295} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 14:50:42.093] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-409, y=136, z=20295}
+[04Dec2024 14:51:57.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/106393, l='ServerLevel[world]', x=-514.49, y=126.00, z=20213.45] died: Vampire Baron Level 2 was slain by Vampire Baron Level 4
+[04Dec2024 14:52:00.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Vampire
+[04Dec2024 14:52:00.065] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 14:52:00.071] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 14:52:02.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> aaaaaaaaaaaaaaaaaaaaaaaa
+[04Dec2024 14:52:06.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> era una trampa
+[04Dec2024 14:52:10.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai has made the advancement [Blood Feeders' Home]
+[04Dec2024 14:52:18.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> no veo nadota
+[04Dec2024 14:52:24.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jajaja
+[04Dec2024 14:52:27.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> obvio pem
+[04Dec2024 14:52:29.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> yo si
+[04Dec2024 14:52:46.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> rato ahi te doy
+[04Dec2024 14:52:53.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was slain by Vampire Baron Level 4
+[04Dec2024 14:52:53.455] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[04Dec2024 14:52:53.462] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[04Dec2024 14:52:58.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> nicagando ayduameeeeee
+[04Dec2024 14:53:00.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Vampire
+[04Dec2024 14:53:00.959] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:70) ~[Vampirism-1.18.2-1.8.8.jar%23120!/:1.8.8]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:145) ~[Vampirism-1.18.2-1.8.8.jar%23120!/:1.8.8]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:25) ~[Vampirism-1.18.2-1.8.8.jar%23120!/:1.8.8]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04Dec2024 14:53:34.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Vampire Baron Level 4
+[04Dec2024 14:53:34.661] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 14:53:34.668] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 14:53:38.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved wrongly!
+[04Dec2024 14:53:53.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai was slain by Vampire Baron Level 4
+[04Dec2024 14:54:15.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has completed the challenge [Regicide]
+[04Dec2024 14:54:15.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/105962, l='ServerLevel[world]', x=-450.33, y=126.00, z=20224.53] died: Vampire Baron Level 4 was slain by mariana_senpai
+[04Dec2024 14:54:22.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ayuda xd
+[04Dec2024 14:54:29.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ves o nada?
+[04Dec2024 14:54:45.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> lo mate?
+[04Dec2024 14:54:50.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> no
+[04Dec2024 14:54:59.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> se escondio el kbro
+[04Dec2024 14:55:00.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> yo xd
+[04Dec2024 14:55:04.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a
+[04Dec2024 14:55:06.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> pero tu tienes su ite
+[04Dec2024 14:56:19.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> nicagando veo
+[04Dec2024 14:56:49.553] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-423, y=17, z=20507}
+[04Dec2024 14:56:49.554] [Worker-Main-18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-421, y=17, z=20505}
+[04Dec2024 14:57:15.376] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-649, y=125, z=20503} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 14:57:15.377] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-649, y=125, z=20503}
+[04Dec2024 14:57:40.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was slain by Vampire Baron Level 2
+[04Dec2024 14:57:40.554] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[04Dec2024 14:57:40.557] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[04Dec2024 14:57:42.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:43.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:44.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:45.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:46.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:48.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:48.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:54.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:55.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:55.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:56.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:56.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:57:58.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> adonde te has ido oe xd
+[04Dec2024 14:58:16.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a matar mas
+[04Dec2024 14:58:23.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai has completed the challenge [Regicide]
+[04Dec2024 14:58:23.305] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/108830, l='ServerLevel[world]', x=-527.52, y=134.00, z=20364.71] died: Vampire Baron Level 2 was slain by mariana_senpai
+[04Dec2024 14:58:23.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[04Dec2024 14:58:33.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai was slain by Vampire Baron Level 2
+[04Dec2024 14:58:34.154] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:70) ~[Vampirism-1.18.2-1.8.8.jar%23120!/:1.8.8]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:145) ~[Vampirism-1.18.2-1.8.8.jar%23120!/:1.8.8]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:25) ~[Vampirism-1.18.2-1.8.8.jar%23120!/:1.8.8]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[04Dec2024 14:59:07.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> fua el agua es sangre
+[04Dec2024 14:59:18.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> q
+[04Dec2024 14:59:27.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> si pones agua se vuelve sangre
+[04Dec2024 15:00:55.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> oe mi item xd
+[04Dec2024 15:02:14.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai has made the advancement [Welcome To The Jungle]
+[04Dec2024 15:03:53.964] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 15:07:28.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai suffocated in a wall whilst fighting Skeleton
+[04Dec2024 15:07:28.310] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[04Dec2024 15:07:28.317] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[04Dec2024 15:07:33.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ayuda
+[04Dec2024 15:10:14.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was burnt to a crisp whilst fighting Skeleton
+[04Dec2024 15:10:14.808] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 15:10:14.810] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 15:10:38.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> baja
+[04Dec2024 15:11:15.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> comida pem
+[04Dec2024 15:11:18.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> o te como
+[04Dec2024 15:11:22.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> digo
+[04Dec2024 15:11:28.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> jajaja
+[04Dec2024 15:12:03.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Zombie
+[04Dec2024 15:12:03.509] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 15:12:03.512] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
