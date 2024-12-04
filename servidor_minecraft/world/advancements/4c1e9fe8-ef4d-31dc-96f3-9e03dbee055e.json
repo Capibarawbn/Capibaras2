@@ -2033,6 +2033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-04 14:29:05 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_ingot_from_blasting_werewolves_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-11-30 20:57:49 +0000"
@@ -2445,6 +2451,7 @@
       "bread": "2024-11-30 20:24:58 +0000",
       "golden_apple": "2024-11-30 21:16:37 +0000",
       "cookie": "2024-11-30 21:03:31 +0000",
+      "rotten_flesh": "2024-12-04 14:25:23 +0000",
       "glow_berries": "2024-11-30 21:08:04 +0000",
       "golden_carrot": "2024-12-01 00:05:59 +0000",
       "cod": "2024-11-30 20:48:29 +0000",
@@ -3349,6 +3356,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-04 14:29:05 +0000"
     },
     "done": true
   },

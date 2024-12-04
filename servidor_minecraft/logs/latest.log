@@ -1038,3 +1038,333 @@ java.lang.NullPointerException: Cannot invoke "yesman.epicfight.api.animation.ty
 [04Dec2024 13:54:20.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved too quickly! 1.2459591433979114,-9.51562865435875,3.1335497282416327
 [04Dec2024 13:58:49.164] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=23, y=69, z=11959} but found not block entity block Block{minecraft:air} at location
 [04Dec2024 13:58:49.164] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=23, y=69, z=11959}
+[04Dec2024 14:01:06.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4477ms or 89 ticks behind
+[04Dec2024 14:01:06.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.400456819344683,0.0,10.060494325167383
+[04Dec2024 14:01:06.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4020357024875807,0.0,10.350180046423702
+[04Dec2024 14:01:06.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.403456697278557,0.0,10.610897188647868
+[04Dec2024 14:01:06.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4047355925565483,0.0,10.845542610433768
+[04Dec2024 14:01:06.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.405886598276254,0.0,11.056723484447502
+[04Dec2024 14:01:06.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4069225033965438,0.0,11.246786266025083
+[04Dec2024 14:01:06.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.407854817980109,0.0,11.417842764913075
+[04Dec2024 14:01:06.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4086939010830832,0.0,11.571793609833549
+[04Dec2024 14:01:06.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4094490758557612,0.0,11.71034936659089
+[04Dec2024 14:01:06.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4101287331331633,0.0,11.835049544370122
+[04Dec2024 14:01:06.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4107404246666277,0.0,11.947279701398656
+[04Dec2024 14:01:06.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4112909470321569,0.0,12.048286840048604
+[04Dec2024 14:01:06.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.411786417148008,0.0,12.13919326242467
+[04Dec2024 14:01:06.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4122323402404646,0.0,12.221009040395074
+[04Dec2024 14:01:06.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4126336710130403,0.0,12.294643238617937
+[04Dec2024 14:01:06.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4129948686987888,0.0,12.360914015263916
+[04Dec2024 14:01:06.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.413319946607345,0.0,12.420557712664959
+[04Dec2024 14:01:06.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4136125167173077,0.0,12.474237038903084
+[04Dec2024 14:01:06.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4138758298092995,0.0,12.522548431237738
+[04Dec2024 14:01:06.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4141128115858095,0.0,12.566028683188051
+[04Dec2024 14:01:06.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.414326095179021,0.0,12.605160908906328
+[04Dec2024 14:01:06.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4145180504078212,0.0,12.640379911119453
+[04Dec2024 14:01:06.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.414690810109164,0.0,12.672077012271984
+[04Dec2024 14:01:06.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4148462938362627,0.0,12.700604402552926
+[04Dec2024 14:01:06.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4149862291869368,0.0,12.726279053125836
+[04Dec2024 14:01:06.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4151121709992083,0.0,12.74938623802882
+[04Dec2024 14:01:06.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4152255186272527,0.0,12.770182703890896
+[04Dec2024 14:01:06.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4149047540854838,0.0,12.7938815759735
+[04Dec2024 14:01:06.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4143582798458993,0.0,12.82020388584715
+[04Dec2024 14:01:06.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4138664530432976,0.0,12.843893964107338
+[04Dec2024 14:01:06.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4134238089326914,0.0,12.86521503397671
+[04Dec2024 14:01:06.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4130254292436888,0.0,12.884403996349647
+[04Dec2024 14:01:06.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.412666887533092,0.0,12.901674062028178
+[04Dec2024 14:01:06.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4123442000020958,0.0,12.917217120726491
+[04Dec2024 14:01:06.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.41205378123189,0.0,12.931205873184808
+[04Dec2024 14:01:06.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4117924043456327,0.0,12.943795750063146
+[04Dec2024 14:01:06.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4115571651542353,0.0,12.955126638953516
+[04Dec2024 14:01:06.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.411345449887591,0.0,12.965324438684547
+[04Dec2024 14:01:06.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4111549061526603,0.0,12.974502458200732
+[04Dec2024 14:01:06.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4109834167957587,0.0,12.982762675545018
+[04Dec2024 14:01:06.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4108290763786329,0.0,12.990196870958243
+[04Dec2024 14:01:06.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4106901700069017,0.0,12.996887646653704
+[04Dec2024 14:01:06.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.410565154275659,0.0,13.002909344619184
+[04Dec2024 14:01:06.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4104526401205248,0.0,13.008328872645507
+[04Dec2024 14:01:06.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4103513773835772,0.0,13.013206447740231
+[04Dec2024 14:01:06.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4102602409227387,0.0,13.01759626520834
+[04Dec2024 14:01:06.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4101782181101612,0.0,13.021547100825046
+[04Dec2024 14:01:06.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4101043975807954,0.0,13.025102852785494
+[04Dec2024 14:01:06.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.410037959106134,0.0,13.02830302946495
+[04Dec2024 14:01:06.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4099781644805205,0.0,13.031183188400973
+[04Dec2024 14:01:06.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.409924349318885,0.0,13.033775331374272
+[04Dec2024 14:01:06.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4098759156747036,0.0,13.036108259988396
+[04Dec2024 14:01:26.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved wrongly! 0.25573977108979307
+[04Dec2024 14:01:26.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved wrongly! 0.5313269394464442
+[04Dec2024 14:01:26.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved wrongly! 0.8338177244131657
+[04Dec2024 14:01:26.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved wrongly! 1.1578963149149786
+[04Dec2024 14:01:26.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved wrongly! 1.5001358097670163
+[04Dec2024 14:01:26.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved wrongly! 1.8564079021543876
+[04Dec2024 14:01:46.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-25, y=-1, z=12695} but found not block entity block Block{minecraft:water}[level=0] at location
+[04Dec2024 14:01:46.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-25, y=-1, z=12695}
+[04Dec2024 14:02:34.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5398ms or 107 ticks behind
+[04Dec2024 14:02:34.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.7491601428157537,0.0,10.372907206925447
+[04Dec2024 14:02:34.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.7779739944625135,0.0,10.77186517642258
+[04Dec2024 14:02:34.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.8067878461092732,0.0,11.170823145919712
+[04Dec2024 14:02:34.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.835601697756033,0.0,11.569781115416845
+[04Dec2024 14:02:34.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.8644155494027927,0.0,11.968739084913977
+[04Dec2024 14:02:34.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.8932294010495525,0.0,12.36769705441111
+[04Dec2024 14:02:34.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.9220432526963123,0.0,12.766655023908243
+[04Dec2024 14:02:34.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.950857104343072,0.0,13.165612993405375
+[04Dec2024 14:02:34.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.9796709559898318,0.0,13.564570962902508
+[04Dec2024 14:02:34.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0084848076365915,0.0,13.96352893239964
+[04Dec2024 14:02:34.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0372986592833513,0.0,14.362486901896773
+[04Dec2024 14:02:34.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.066112510930111,0.0,14.761444871393905
+[04Dec2024 14:02:34.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0949263625768708,0.0,15.160402840891038
+[04Dec2024 14:02:34.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.1237402142236306,0.0,15.55936081038817
+[04Dec2024 14:02:34.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.1525540658703903,0.0,15.958318779885303
+[04Dec2024 14:02:34.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! 0.28727505761077055,0.0,-10.03089621917752
+[04Dec2024 14:02:34.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.18136791751715,0.0,16.357276749382436
+[04Dec2024 14:02:34.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.2101817691639098,0.0,16.75623471887957
+[04Dec2024 14:02:34.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.2389956208106696,0.0,17.1551926883767
+[04Dec2024 14:02:34.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.2678094724574294,0.0,17.554150657873834
+[04Dec2024 14:02:34.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.2966233241041891,0.0,17.953108627370966
+[04Dec2024 14:02:34.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.3254371757509489,0.0,18.3520665968681
+[04Dec2024 14:02:34.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.3542510273977086,0.0,18.75102456636523
+[04Dec2024 14:02:34.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.3830648790444684,0.0,19.149982535862364
+[04Dec2024 14:02:34.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.4118787306912282,0.0,19.548940505359496
+[04Dec2024 14:02:34.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.440692582337988,0.0,19.94789847485663
+[04Dec2024 14:02:34.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.4695064339847477,0.0,20.34685644435376
+[04Dec2024 14:02:34.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.4983202856315074,0.0,20.745814413850894
+[04Dec2024 14:02:34.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5271341372782672,0.0,21.144772383348027
+[04Dec2024 14:02:34.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.555947988925027,0.0,21.54373035284516
+[04Dec2024 14:02:34.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5847618405717867,0.0,21.942688322342292
+[04Dec2024 14:02:34.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.6135756922185465,0.0,22.341646291839425
+[04Dec2024 14:02:34.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.6423895438653062,0.0,22.740604261336557
+[04Dec2024 14:02:34.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.950857104343072,0.0,13.165612993405375
+[04Dec2024 14:02:34.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.9796709559898318,0.0,13.564570962902508
+[04Dec2024 14:02:34.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0084848076365915,0.0,13.96352893239964
+[04Dec2024 14:02:34.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0372986592833513,0.0,14.362486901896773
+[04Dec2024 14:02:34.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.066112510930111,0.0,14.761444871393905
+[04Dec2024 14:02:34.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0949263625768708,0.0,15.160402840891038
+[04Dec2024 14:02:34.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.1237402142236306,0.0,15.55936081038817
+[04Dec2024 14:02:34.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.1525540658703903,0.0,15.958318779885303
+[04Dec2024 14:02:34.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.18136791751715,0.0,16.357276749382436
+[04Dec2024 14:02:34.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.2101817691639098,0.0,16.75623471887957
+[04Dec2024 14:02:34.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.2389956208106696,0.0,17.1551926883767
+[04Dec2024 14:02:34.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.2678094724574294,0.0,17.554150657873834
+[04Dec2024 14:02:34.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.2966233241041891,0.0,17.953108627370966
+[04Dec2024 14:02:34.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.3254371757509489,0.0,18.3520665968681
+[04Dec2024 14:02:34.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.3513696415460572,0.0,18.71112875990366
+[04Dec2024 14:02:34.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.3747088601433717,0.0,19.03428469807477
+[04Dec2024 14:02:34.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.3957141563245088,0.0,19.325125034723897
+[04Dec2024 14:02:34.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.4146189223867225,0.0,19.586881330773394
+[04Dec2024 14:02:34.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.4316332113919898,0.0,19.8224619909779
+[04Dec2024 14:02:34.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.4469460710910766,0.0,20.03448457954437
+[04Dec2024 14:02:34.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.4607276444551687,0.0,20.22530490419922
+[04Dec2024 14:02:34.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.473131060154273,0.0,20.397043191838748
+[04Dec2024 14:02:34.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.4842941339877456,0.0,20.55160764662105
+[04Dec2024 14:02:34.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.4943409001717285,0.0,20.690715652239305
+[04Dec2024 14:02:34.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.50338298949778,0.0,20.81591285397917
+[04Dec2024 14:02:34.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5115208696756426,0.0,20.928590332559907
+[04Dec2024 14:02:34.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5188449616416975,0.0,21.03000006059665
+[04Dec2024 14:02:34.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5254366442365281,0.0,21.121268813411007
+[04Dec2024 14:02:34.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5313691584147193,0.0,21.20341068876951
+[04Dec2024 14:02:34.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5367084210336444,0.0,21.277338374633473
+[04Dec2024 14:02:34.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.541513757263381,0.0,21.343873290148622
+[04Dec2024 14:02:34.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5458385597555733,0.0,21.40375471252628
+[04Dec2024 14:02:34.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5500035075743526,0.0,21.462640527041003
+[04Dec2024 14:02:34.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5538593309089705,0.0,21.52063659536725
+[04Dec2024 14:02:34.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5572006358538886,0.0,21.577831392489315
+[04Dec2024 14:02:34.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5597793012574925,0.0,21.634288312474382
+[04Dec2024 14:02:34.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5621001000592543,0.0,21.68509953911598
+[04Dec2024 14:02:34.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5641888189255084,0.0,21.730829641881428
+[04Dec2024 14:02:34.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.566068665855333,0.0,21.771986733279846
+[04Dec2024 14:02:34.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5677605280473585,0.0,21.809028114557805
+[04Dec2024 14:02:34.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5692832039798432,0.0,21.842365356824303
+[04Dec2024 14:02:34.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5706536122827757,0.0,21.872368874070162
+[04Dec2024 14:02:34.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5718869797227413,0.0,21.8993720388753
+[04Dec2024 14:02:34.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.572997010389308,0.0,21.92367488655691
+[04Dec2024 14:02:34.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5739960379627504,0.0,21.945547448889556
+[04Dec2024 14:02:34.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.574895162755034,0.0,21.96523275446816
+[04Dec2024 14:02:34.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.575704375046648,0.0,21.982949529019606
+[04Dec2024 14:02:34.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5764326660898078,0.0,21.99889462569263
+[04Dec2024 14:02:34.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5770881280112903,0.0,22.013245212319816
+[04Dec2024 14:02:34.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.577678043724994,0.0,22.02616073994068
+[04Dec2024 14:02:34.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5782089678532643,0.0,22.037784714491863
+[04Dec2024 14:02:34.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5786867995560527,0.0,22.048246291311443
+[04Dec2024 14:02:34.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5791168480771702,0.0,22.05766171019968
+[04Dec2024 14:02:34.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5795038917359179,0.0,22.06613558697427
+[04Dec2024 14:02:34.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.579852231019565,0.0,22.073762075870036
+[04Dec2024 14:02:34.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.5801657363665456,0.0,22.080625915694327
+[04Dec2024 14:04:59.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! -0.0854107343341397,-11.461300755429193,2.9348214600540814
+[04Dec2024 14:04:59.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! -0.09532547974146865,-13.934954717933067,3.710500987541309
+[04Dec2024 14:04:59.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! -0.10304256564902659,-16.463218298911514,4.534079917251802
+[04Dec2024 14:04:59.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! -0.03482525112985968,-10.009160844681318,3.181481358140445
+[04Dec2024 14:04:59.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! -0.03656917390043901,-12.659068739317235,4.074427165543966
+[04Dec2024 14:04:59.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! -0.03214056738967486,-15.344874380901956,5.008595536912253
+[04Dec2024 14:05:46.159] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9, y=65, z=13703} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 14:05:46.160] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9, y=65, z=13703}
+[04Dec2024 14:05:53.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai lost connection: Disconnected
+[04Dec2024 14:05:53.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai left the game
+[04Dec2024 14:05:59.758] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@35a91306
+[04Dec2024 14:05:59.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mariana_senpai[/127.124.127.207:53303] logged in with entity id 57352 at (-56.421614494208534, 77.52987414660498, 13632.128293314456)
+[04Dec2024 14:05:59.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai joined the game
+[04Dec2024 14:06:00.056] [Server thread/INFO] [Waila/]: Syncing config to mariana_senpai (3caa70b8-f5d8-3704-a6d8-430281e1461a)
+[04Dec2024 14:06:02.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-10.60633547600436,0.0
+[04Dec2024 14:06:02.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-11.646132817820245,0.0
+[04Dec2024 14:06:02.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-12.7215862058315,0.0
+[04Dec2024 14:06:02.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-13.831283661275258,0.0
+[04Dec2024 14:06:02.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-14.973869119721293,0.0
+[04Dec2024 14:06:02.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-15.87455613249125,0.0
+[04Dec2024 14:06:02.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-16.585594761025177,0.0
+[04Dec2024 14:08:30.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai lost connection: Disconnected
+[04Dec2024 14:08:30.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai left the game
+[04Dec2024 14:08:35.060] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d38dd3c
+[04Dec2024 14:08:35.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mariana_senpai[/127.124.127.207:33989] logged in with entity id 59740 at (-65.56142734422907, 206.00510574573667, 14417.02510694717)
+[04Dec2024 14:08:35.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai joined the game
+[04Dec2024 14:08:35.232] [Server thread/INFO] [Waila/]: Syncing config to mariana_senpai (3caa70b8-f5d8-3704-a6d8-430281e1461a)
+[04Dec2024 14:08:37.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-10.60633547600429,0.0
+[04Dec2024 14:08:37.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-11.646132817820188,0.0
+[04Dec2024 14:08:37.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-12.721586205831443,0.0
+[04Dec2024 14:08:37.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-13.831283661275194,0.0
+[04Dec2024 14:08:37.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-14.973869119721229,0.0
+[04Dec2024 14:08:37.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-16.148040216865382,0.0
+[04Dec2024 14:08:37.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-17.35254616200561,0.0
+[04Dec2024 14:08:37.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-18.58618569572829,0.0
+[04Dec2024 14:08:37.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-19.847805128470128,0.0
+[04Dec2024 14:08:37.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-21.136296456752973,0.0
+[04Dec2024 14:08:37.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-22.450595554015678,0.0
+[04Dec2024 14:08:37.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-23.789680433089046,0.0
+[04Dec2024 14:08:37.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-25.15256957747667,0.0
+[04Dec2024 14:08:37.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-26.53832033871703,0.0
+[04Dec2024 14:08:37.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-27.946027397210116,0.0
+[04Dec2024 14:08:38.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-19.771156905011424,0.0
+[04Dec2024 14:08:38.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-21.220202582082152,0.0
+[04Dec2024 14:08:38.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.0,-22.688698078921817,0.0
+[04Dec2024 14:08:43.323] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/60011, l='ServerLevel[world]', x=-83.50, y=13.00, z=14335.50]
+[04Dec2024 14:08:45.665] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/60036, l='ServerLevel[world]', x=-63.50, y=13.00, z=14332.50]
+[04Dec2024 14:08:50.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/60063, l='ServerLevel[world]', x=-76.50, y=20.00, z=14337.50]
+[04Dec2024 14:09:00.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! -0.21451653685973326,-8.245933243523467,7.64696605905192
+[04Dec2024 14:09:00.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! -0.18574481006389476,-8.867022855097389,7.914586542583493
+[04Dec2024 14:09:00.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.21160880313455266,10.406788262378242,-9.253521968696077
+[04Dec2024 14:09:00.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved too quickly! 0.1868719919238231,8.851165534949018,-7.910471483748552
+[04Dec2024 14:10:05.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved wrongly! 1.4181756520332272
+[04Dec2024 14:10:05.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved wrongly! 1.3966150098244299
+[04Dec2024 14:10:05.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of mariana_senpai) moved wrongly! 1.3772104323505516
+[04Dec2024 14:10:59.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5549ms or 110 ticks behind
+[04Dec2024 14:10:59.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.7627697035136833,0.0,10.275783095232327
+[04Dec2024 14:10:59.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.8107800246527219,0.0,10.671780026195847
+[04Dec2024 14:10:59.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.85723012580155,0.0,11.068045750978854
+[04Dec2024 14:10:59.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.9006799462959663,0.0,11.464651063581186
+[04Dec2024 14:10:59.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.9399957050724197,0.0,11.8615952795044
+[04Dec2024 14:10:59.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.9742947287127919,0.0,12.258830341130306
+[04Dec2024 14:10:59.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.002917749414344,0.0,12.656278776086765
+[04Dec2024 14:10:59.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0253841442579485,0.0,13.053846469761993
+[04Dec2024 14:10:59.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0413741993544008,0.0,13.451433124946561
+[04Dec2024 14:10:59.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0506899847691926,0.0,13.848937819822822
+[04Dec2024 14:10:59.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0532429093002023,0.0,14.246264703064298
+[04Dec2024 14:10:59.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0490310286543547,0.0,14.6433256607379
+[04Dec2024 14:10:59.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.038122426328549,0.0,15.040042109283604
+[04Dec2024 14:10:59.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 1.0206365231963233,0.0,15.43634501478482
+[04Dec2024 14:10:59.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.996742360791508,0.0,15.832177111946294
+[04Dec2024 14:10:59.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.9666382808004386,0.0,16.227490695326196
+[04Dec2024 14:10:59.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.9305487263594188,0.0,16.622248209347163
+[04Dec2024 14:10:59.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.88871763653529,0.0,17.01642171387357
+[04Dec2024 14:10:59.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.8413988179772574,0.0,17.409991192507732
+[04Dec2024 14:10:59.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.7888547784131816,0.0,17.80294459468314
+[04Dec2024 14:10:59.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.7313519775829604,0.0,18.195276815560646
+[04Dec2024 14:10:59.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.6691528845991144,0.0,18.586987578397384
+[04Dec2024 14:10:59.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.6025199765713438,0.0,18.97808238597463
+[04Dec2024 14:10:59.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.5317082462480371,0.0,19.368570281161738
+[04Dec2024 14:10:59.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.45696956491548235,0.0,19.758464819115034
+[04Dec2024 14:10:59.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.3785455523454715,0.0,20.147781768300774
+[04Dec2024 14:10:59.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.29666855165555717,0.0,20.53653906053114
+[04Dec2024 14:10:59.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.2115588400663242,0.0,20.924755639580326
+[04Dec2024 14:10:59.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.1234331491675249,0.0,21.312453677119265
+[04Dec2024 14:10:59.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! 0.03249396375098712,0.0,21.699655057349446
+[04Dec2024 14:10:59.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -0.061069067479095906,0.0,22.08638147280908
+[04Dec2024 14:10:59.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -0.15707053648358027,0.0,22.47265674949267
+[04Dec2024 14:10:59.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -0.2553398665738271,0.0,22.85850331426991
+[04Dec2024 14:10:59.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -0.3557161756978573,0.0,23.243943500816385
+[04Dec2024 14:10:59.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -0.45804731628968653,0.0,23.628999596185167
+[04Dec2024 14:10:59.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -0.5621890139276928,0.0,24.01369387899649
+[04Dec2024 14:10:59.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -0.6680077438430061,0.0,24.3980474877917
+[04Dec2024 14:10:59.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -0.7753760079634588,0.0,24.782081719686175
+[04Dec2024 14:10:59.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -0.8841790431259753,0.0,25.165815697379003
+[04Dec2024 14:10:59.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -0.9943062450850633,0.0,25.549268929802565
+[04Dec2024 14:10:59.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.1056580616405043,0.0,25.932458945193503
+[04Dec2024 14:10:59.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.2181375867949171,0.0,26.315403843545937
+[04Dec2024 14:10:59.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.3316575977023817,0.0,26.69811989622758
+[04Dec2024 14:10:59.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.4461359411565198,0.0,27.08062291348324
+[04Dec2024 14:10:59.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.561498674616928,0.0,27.46292711335991
+[04Dec2024 14:10:59.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.6776755990145134,0.0,27.845046461839956
+[04Dec2024 14:10:59.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.7945998844042848,0.0,28.226994705497418
+[04Dec2024 14:10:59.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -1.9122113819746858,0.0,28.60878420879817
+[04Dec2024 14:10:59.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -2.7454439519214446,0.0,19.110544697650766
+[04Dec2024 14:10:59.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -2.86426923299954,0.0,19.49205016533415
+[04Dec2024 14:10:59.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -2.9836280879229093,0.0,19.87342928286853
+[04Dec2024 14:10:59.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -3.103478095815298,0.0,20.25469111271741
+[04Dec2024 14:10:59.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -3.223777430829884,0.0,20.635844999465917
+[04Dec2024 14:10:59.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -3.3438232488313133,0.0,21.017110651708208
+[04Dec2024 14:10:59.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -3.4623739731372822,0.0,21.398844426306823
+[04Dec2024 14:10:59.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -3.5777513329956534,0.0,21.781451295595616
+[04Dec2024 14:10:59.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -3.6886069488673456,0.0,22.165177356117056
+[04Dec2024 14:10:59.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -3.7938856040370013,0.0,22.550149677268564
+[04Dec2024 14:10:59.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -3.892782185262085,0.0,22.93640933014467
+[04Dec2024 14:10:59.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -3.984701091160119,0.0,23.323936870385296
+[04Dec2024 14:10:59.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.069229921838328,0.0,23.71267104452818
+[04Dec2024 14:10:59.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.146103484566169,0.0,24.10252383760053
+[04Dec2024 14:10:59.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.215186145603134,0.0,24.493391207066452
+[04Dec2024 14:10:59.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.276447899576901,0.0,24.885161417185373
+[04Dec2024 14:10:59.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.3299387461247605,0.0,25.277720766696802
+[04Dec2024 14:10:59.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.37578080448187,0.0,25.67095800612333
+[04Dec2024 14:10:59.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.414149619942201,0.0,26.064767043020765
+[04Dec2024 14:10:59.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.445261123171811,0.0,26.45904865400371
+[04Dec2024 14:10:59.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.469363689196264,0.0,26.853711731258954
+[04Dec2024 14:10:59.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.4867271618223725,0.0,27.248673566229627
+[04Dec2024 14:10:59.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.4976406043140855,0.0,27.643860499798393
+[04Dec2024 14:10:59.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.502402654919528,0.0,28.039207386153066
+[04Dec2024 14:10:59.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.50131667225304,0.0,28.43465722574001
+[04Dec2024 14:10:59.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.49468638150595,0.0,28.830160615138084
+[04Dec2024 14:10:59.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.482815762351741,0.0,29.225675635638254
+[04Dec2024 14:10:59.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.466001368957585,0.0,29.62116651245924
+[04Dec2024 14:10:59.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.444533021778071,0.0,30.01660339150476
+[04Dec2024 14:10:59.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.4186944297038835,0.0,30.411962097474316
+[04Dec2024 14:10:59.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.388756192312911,0.0,30.80722260485709
+[04Dec2024 14:10:59.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.354980861237834,0.0,31.20236946859586
+[04Dec2024 14:10:59.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.317619932591889,0.0,31.597390907829322
+[04Dec2024 14:10:59.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.27691115505327,0.0,31.99227791793055
+[04Dec2024 14:10:59.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.233079885516851,0.0,32.387024093470245
+[04Dec2024 14:10:59.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.1863440828997724,0.0,32.78162616550617
+[04Dec2024 14:10:59.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.136907490722365,0.0,33.1760823766308
+[04Dec2024 14:10:59.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.084961049334936,0.0,33.57039238570178
+[04Dec2024 14:10:59.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -4.030684168318842,0.0,33.964557170915214
+[04Dec2024 14:11:00.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mariana_senpai) moved too quickly! -3.974245871647412,0.0,34.35857893512366
+[04Dec2024 14:13:22.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Dec2024 14:13:54.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> donde andas
+[04Dec2024 14:14:26.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> [x:-611, y:62, z:15395, dim:minecraft:overworld
+[04Dec2024 14:14:32.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> oe
+[04Dec2024 14:14:37.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jajajajsja
+[04Dec2024 14:14:40.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> DIME
+[04Dec2024 14:14:41.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> La ptmr
+[04Dec2024 14:14:54.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Me webie, ta bien
+[04Dec2024 14:15:05.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> es que pense que z era el del edio
+[04Dec2024 14:15:09.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> medio
+[04Dec2024 14:15:15.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> y dije ptmr se fue a san pincho
+[04Dec2024 14:15:18.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> xd
+[04Dec2024 14:17:20.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved too quickly! 0.43585435992895327,0.345274580392541,10.173075168249852
+[04Dec2024 14:17:20.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9589ms or 191 ticks behind
+[04Dec2024 14:17:20.301] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-297, y=98, z=16343} but found not block entity block Block{treasure2:wither_log}[axis=y] at location
+[04Dec2024 14:17:20.301] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{treasure2:wither_log}[axis=y] but failed at location BlockPos{x=-297, y=98, z=16343}
+[04Dec2024 14:17:41.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was shot by Skeleton
+[04Dec2024 14:17:41.087] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 14:17:41.365] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 14:17:59.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was shot by Skeleton
+[04Dec2024 14:18:04.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[04Dec2024 14:18:21.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Skeleton
+[04Dec2024 14:18:21.732] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[04Dec2024 14:18:21.739] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[04Dec2024 14:19:21.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Skeleton
+[04Dec2024 14:19:26.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved too quickly! 0.70631103685065,-8.760695861001395,5.343692672253383
+[04Dec2024 14:20:34.625] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-153, y=77, z=17383} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 14:20:34.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-153, y=77, z=17383}
+[04Dec2024 14:22:51.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> pasame tus cd de nuevo
+[04Dec2024 14:22:56.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> [x:-310, y:46, z:18634, dim:minecraft:overworld]
+[04Dec2024 14:28:47.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> no te veo
+[04Dec2024 14:28:57.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ya llegaste?
+[04Dec2024 14:29:00.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> si
+[04Dec2024 14:29:04.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Ahi salgo, toy bajo tierra
+[04Dec2024 14:29:21.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ya
