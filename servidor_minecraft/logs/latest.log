@@ -747,3 +747,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [05Dec2024 21:47:24.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai joined the game
 [05Dec2024 21:47:24.668] [Server thread/INFO] [Waila/]: Syncing config to mariana_senpai (3caa70b8-f5d8-3704-a6d8-430281e1461a)
 [05Dec2024 22:03:04.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai has made the advancement [A Seedy Place]
+[05Dec2024 22:10:22.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved too quickly! 6.168783130484371,0.0,8.274104263095069
+[05Dec2024 22:10:26.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai lost connection: Timed out
+[05Dec2024 22:10:26.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai left the game
+[05Dec2024 22:10:26.797] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Dec2024 22:10:54.264] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55bc387
+[05Dec2024 22:10:54.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mariana_senpai[/127.179.193.111:43205] logged in with entity id 6895 at (-830.1162055293382, 76.0, 18677.30346171146)
+[05Dec2024 22:10:54.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai joined the game
+[05Dec2024 22:10:54.334] [Server thread/INFO] [Waila/]: Syncing config to mariana_senpai (3caa70b8-f5d8-3704-a6d8-430281e1461a)

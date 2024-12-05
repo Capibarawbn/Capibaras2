@@ -535,6 +535,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_werewolves/magic": {
+    "criteria": {
+      "has_plank": "2024-12-05 22:11:34 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/treasure2/onyx_key": {
     "criteria": {
       "has_tool": "2024-12-04 15:36:39 +0000"
@@ -1702,6 +1708,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2024-12-05 22:03:49 +0000",
       "minecraft:wolf": "2024-11-30 07:31:16 +0000"
     },
     "done": false
@@ -3320,6 +3327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 22:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-11-30 07:13:50 +0000"
@@ -3407,6 +3420,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-11-30 05:42:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_werewolves/magic": {
+    "criteria": {
+      "has_plank": "2024-12-05 22:11:34 +0000"
     },
     "done": true
   },
@@ -3728,6 +3747,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-05 22:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-11-30 05:21:28 +0000"
@@ -3945,6 +3970,12 @@
       "incendium:inverted_forest": "2024-12-01 07:27:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-05 22:02:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
@@ -4180,6 +4211,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-11-30 05:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-05 22:02:43 +0000"
     },
     "done": true
   },
@@ -4774,6 +4811,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-01 07:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-05 22:06:46 +0000"
     },
     "done": true
   },
