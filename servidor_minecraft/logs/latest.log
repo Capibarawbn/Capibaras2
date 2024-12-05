@@ -746,3 +746,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [05Dec2024 21:47:24.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mariana_senpai[/127.179.193.111:56017] logged in with entity id 1599 at (-774.6230133174698, 63.0, 18774.09637694494)
 [05Dec2024 21:47:24.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai joined the game
 [05Dec2024 21:47:24.668] [Server thread/INFO] [Waila/]: Syncing config to mariana_senpai (3caa70b8-f5d8-3704-a6d8-430281e1461a)
+[05Dec2024 22:03:04.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai has made the advancement [A Seedy Place]
