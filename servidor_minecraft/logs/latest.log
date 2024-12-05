@@ -755,3 +755,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [05Dec2024 22:10:54.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mariana_senpai[/127.179.193.111:43205] logged in with entity id 6895 at (-830.1162055293382, 76.0, 18677.30346171146)
 [05Dec2024 22:10:54.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai joined the game
 [05Dec2024 22:10:54.334] [Server thread/INFO] [Waila/]: Syncing config to mariana_senpai (3caa70b8-f5d8-3704-a6d8-430281e1461a)
+[05Dec2024 22:23:10.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai lost connection: Timed out
+[05Dec2024 22:23:10.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai left the game
+[05Dec2024 22:24:33.110] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c79971a
+[05Dec2024 22:24:33.123] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mariana_senpai[/127.179.193.111:40053] logged in with entity id 9453 at (-774.053431420835, 63.0, 18762.637510652778)
+[05Dec2024 22:24:33.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai joined the game
+[05Dec2024 22:24:33.163] [Server thread/INFO] [Waila/]: Syncing config to mariana_senpai (3caa70b8-f5d8-3704-a6d8-430281e1461a)
