@@ -804,3 +804,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [07Dec2024 22:10:31.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was burnt to a crisp whilst fighting Vampire Hunter
 [07Dec2024 22:14:36.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Jejejeje
 [07Dec2024 22:18:10.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Alex's Mobs]
+[07Dec2024 22:33:13.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-761, y=71, z=18840} BlockPos{x=-761, y=69, z=18840}
