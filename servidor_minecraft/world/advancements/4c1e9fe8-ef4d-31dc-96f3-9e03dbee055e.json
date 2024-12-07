@@ -654,6 +654,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 23:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-04 21:50:17 +0000"
@@ -3954,6 +3960,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-07 23:23:41 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/food/boiled_emu_egg_campfire": {
     "criteria": {
       "has_items": "2024-12-07 22:12:54 +0000"
@@ -4515,6 +4527,12 @@
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2024-12-01 02:11:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-07 23:23:41 +0000"
     },
     "done": true
   },

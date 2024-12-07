@@ -8739,3 +8739,25 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [07Dec2024 23:26:12.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_empty
 [07Dec2024 23:26:12.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
 [07Dec2024 23:26:28.336] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by werewolves:werewolf at BlockPos{x=-863, y=80, z=18873} with badomen level -1
+[07Dec2024 23:27:28.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 23:27:28.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 23:27:29.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x7
+[07Dec2024 23:27:29.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_0
+[07Dec2024 23:27:38.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[07Dec2024 23:27:38.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_8
+[07Dec2024 23:27:38.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_7
+[07Dec2024 23:27:38.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_2
+[07Dec2024 23:31:52.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x5
+[07Dec2024 23:31:53.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[07Dec2024 23:31:53.212] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_3
+[07Dec2024 23:31:53.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[07Dec2024 23:31:53.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_1
+[07Dec2024 23:31:53.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[07Dec2024 23:31:53.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_0
+[07Dec2024 23:31:53.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_0
+[07Dec2024 23:31:53.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_2
+[07Dec2024 23:32:15.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20041, l='ServerLevel[world]', x=-841.55, y=74.00, z=18829.42] died, message: 'Unemployed was slain by JUSMCAS'
+[07Dec2024 23:32:15.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Neighborhood Brawl]
+[07Dec2024 23:32:28.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 23:32:28.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 23:35:48.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Essence Gathering]

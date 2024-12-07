@@ -826,3 +826,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [07Dec2024 23:15:19.265] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not replace villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
 [07Dec2024 23:23:41.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Not even afraid of death]
 [07Dec2024 23:23:41.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Back to childhood]
+[07Dec2024 23:32:15.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20041, l='ServerLevel[world]', x=-841.55, y=74.00, z=18829.42] died, message: 'Unemployed was slain by JUSMCAS'
+[07Dec2024 23:32:15.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Neighborhood Brawl]
+[07Dec2024 23:35:48.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Essence Gathering]
