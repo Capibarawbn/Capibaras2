@@ -805,3 +805,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [07Dec2024 22:14:36.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Jejejeje
 [07Dec2024 22:18:10.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Alex's Mobs]
 [07Dec2024 22:33:13.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-761, y=71, z=18840} BlockPos{x=-761, y=69, z=18840}
+[07Dec2024 22:40:24.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS lost connection: Disconnected
+[07Dec2024 22:40:24.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS left the game
+[07Dec2024 22:40:32.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a97e9bd
+[07Dec2024 22:40:32.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUSMCAS[/127.187.124.56:50989] logged in with entity id 19878 at (-773.4016219101748, 63.0, 18793.13682205768)
+[07Dec2024 22:40:32.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS joined the game
+[07Dec2024 22:40:32.402] [Server thread/INFO] [Waila/]: Syncing config to JUSMCAS (4c1e9fe8-ef4d-31dc-96f3-9e03dbee055e)
