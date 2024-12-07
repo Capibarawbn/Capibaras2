@@ -797,3 +797,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [07Dec2024 22:04:01.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6391ms or 127 ticks behind
 [07Dec2024 22:04:53.127] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1337, y=83, z=18087} but found not block entity block Block{minecraft:air} at location
 [07Dec2024 22:04:53.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1337, y=83, z=18087}
+[07Dec2024 22:05:39.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [Gift Delivery]
+[07Dec2024 22:09:31.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was burnt to a crisp whilst fighting Vampire Hunter
+[07Dec2024 22:09:31.904] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[07Dec2024 22:09:31.905] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[07Dec2024 22:10:31.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was burnt to a crisp whilst fighting Vampire Hunter
+[07Dec2024 22:14:36.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> Jejejeje
+[07Dec2024 22:18:10.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Alex's Mobs]
