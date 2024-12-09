@@ -741,3 +741,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [09Dec2024 16:19:57.229] [Server thread/INFO] [Waila/]: Syncing config to JUSMCAS (4c1e9fe8-ef4d-31dc-96f3-9e03dbee055e)
 [09Dec2024 16:19:59.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [09Dec2024 16:20:22.036] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/979, l='ServerLevel[world]', x=-793.18, y=65.00, z=18827.70] died, message: 'Librarian was slain by Zombie'
+[09Dec2024 16:38:50.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1365, l='ServerLevel[world]', x=-789.45, y=76.00, z=18908.57] died, message: 'Unemployed hit the ground too hard'
+[09Dec2024 16:43:03.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/1110, l='ServerLevel[world]', x=-862.79, y=80.00, z=18874.68] died, message: 'Hunter Expert was slain by JUSMCAS'
