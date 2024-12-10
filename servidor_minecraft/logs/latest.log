@@ -789,3 +789,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [10Dec2024 16:04:05.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Grave Inscription]
 [10Dec2024 16:17:41.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Who's This Guy?]
 [10Dec2024 16:17:49.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [Unforgettable]
+[10Dec2024 16:29:48.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1225, y=77, z=19703} but found not block entity block Block{minecraft:air} at location
+[10Dec2024 16:29:48.858] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1225, y=77, z=19703}
+[10Dec2024 16:33:00.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/16736, l='ServerLevel[world]', x=-768.30, y=63.00, z=18764.55] died, message: 'Mason was slain by Zombie'
