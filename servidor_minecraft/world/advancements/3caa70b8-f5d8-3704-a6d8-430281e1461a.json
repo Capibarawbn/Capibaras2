@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-10 19:31:28 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/treasure2/gravestone3_polished_granite": {
     "criteria": {
       "has_tool": "2024-12-04 15:36:39 +0000"
@@ -473,6 +479,12 @@
     },
     "done": true
   },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2024-12-10 19:31:28 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-11-30 05:51:13 +0000",
@@ -489,7 +501,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:26:04 +0000"
+      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
     },
     "done": false
   },
@@ -771,7 +783,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:26:04 +0000"
+      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
     },
     "done": false
   },
@@ -880,6 +892,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 05:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-10 19:31:28 +0000"
     },
     "done": true
   },
@@ -1047,7 +1065,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:26:04 +0000"
+      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
     },
     "done": false
   },
@@ -2081,7 +2099,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:26:04 +0000"
+      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
     },
     "done": false
   },
@@ -2441,7 +2459,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:26:04 +0000"
+      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
     },
     "done": false
   },
@@ -2942,6 +2960,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-04 16:46:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2024-12-10 19:31:28 +0000"
     },
     "done": true
   },
@@ -3731,7 +3755,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:26:04 +0000"
+      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
     },
     "done": false
   },
@@ -3815,7 +3839,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:26:04 +0000"
+      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
     },
     "done": false
   },
@@ -3983,7 +4007,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:26:04 +0000"
+      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
     },
     "done": false
   },
@@ -4432,7 +4456,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:26:04 +0000"
+      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
     },
     "done": false
   },
@@ -5054,6 +5078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-10 19:31:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2024-11-30 06:27:05 +0000"
@@ -5116,7 +5146,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:26:04 +0000"
+      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
     },
     "done": false
   },
