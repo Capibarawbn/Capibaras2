@@ -2993,6 +2993,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 20:41:09 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/stone_altar_fire_bowl": {
     "criteria": {
       "has_planks": "2024-11-30 05:16:39 +0000"
@@ -4308,6 +4314,7 @@
       "apple": "2024-12-01 05:12:14 +0000",
       "bread": "2024-11-30 05:45:52 +0000",
       "golden_apple": "2024-11-30 06:25:00 +0000",
+      "golden_carrot": "2024-12-10 20:35:23 +0000",
       "cooked_rabbit": "2024-11-30 06:17:06 +0000",
       "enchanted_golden_apple": "2024-12-01 06:34:24 +0000"
     },
@@ -5018,6 +5025,12 @@
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2024-11-30 05:35:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-10 20:41:25 +0000"
     },
     "done": true
   },
