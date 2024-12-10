@@ -8195,3 +8195,42 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [10Dec2024 15:41:00.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 15:41:01.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 15:42:16.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Enchanter]
+[10Dec2024 15:45:47.240] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:crow
+[10Dec2024 15:46:00.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 15:46:00.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 15:46:35.739] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:cockroach
+[10Dec2024 15:46:45.341] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.04 and blood value 0 for entity alexsmobs:fly
+[10Dec2024 15:46:57.289] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity gnumus:marsupial_mousse
+[10Dec2024 15:50:44.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[10Dec2024 15:51:00.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 15:51:00.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 15:51:07.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-656, y=87, z=18774} BlockPos{x=-654, y=87, z=18774}
+[10Dec2024 15:51:07.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-656, y=87, z=18774} BlockPos{x=-654, y=87, z=18774}
+[10Dec2024 15:53:13.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_1
+[10Dec2024 15:53:13.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/straight
+[10Dec2024 15:53:13.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_2
+[10Dec2024 15:53:13.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/shepherd
+[10Dec2024 15:53:13.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/chemist
+[10Dec2024 15:53:13.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_3
+[10Dec2024 15:53:13.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/fisherman
+[10Dec2024 15:53:13.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_6
+[10Dec2024 15:53:13.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_2
+[10Dec2024 15:53:13.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/pen
+[10Dec2024 15:53:13.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_3
+[10Dec2024 15:53:13.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/bent_1
+[10Dec2024 15:53:13.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_2
+[10Dec2024 15:53:13.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/library
+[10Dec2024 15:53:13.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_3
+[10Dec2024 15:53:13.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[10Dec2024 15:53:13.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_1
+[10Dec2024 15:53:13.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_4
+[10Dec2024 15:53:13.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/med_3
+[10Dec2024 15:53:13.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/butcher
+[10Dec2024 15:53:13.304] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_1
+[10Dec2024 15:53:13.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[10Dec2024 15:53:13.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_5
+[10Dec2024 15:53:13.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_1
+[10Dec2024 15:53:13.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/leatherworker
+[10Dec2024 15:53:13.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_2
+[10Dec2024 15:53:13.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_3
+[10Dec2024 15:53:13.314] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_4

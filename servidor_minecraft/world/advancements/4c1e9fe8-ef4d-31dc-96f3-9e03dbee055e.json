@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-10 15:43:03 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2024-11-30 21:51:38 +0000"
@@ -549,6 +555,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2024-12-01 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-10 15:42:10 +0000"
     },
     "done": true
   },
@@ -1047,6 +1059,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-11-30 20:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-10 15:42:10 +0000"
     },
     "done": true
   },
@@ -1973,6 +1991,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-10 15:51:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 23:42:43 +0000"
@@ -2501,6 +2525,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/spartanshields/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-10 15:42:10 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/cross": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
@@ -2976,6 +3006,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-10 15:42:16 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/vampire_clothing_crown": {
     "criteria": {
       "has_gold": "2024-11-30 23:42:43 +0000"
@@ -3183,6 +3219,12 @@
   "tombstone:adventure/villager_gift": {
     "criteria": {
       "coded_trigger": "2024-12-07 22:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 15:43:03 +0000"
     },
     "done": true
   },
