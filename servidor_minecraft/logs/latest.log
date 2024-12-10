@@ -864,3 +864,77 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [10Dec2024 19:36:30.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> tiene nombre
 [10Dec2024 19:36:33.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> se llama zin
 [10Dec2024 19:36:36.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> q miedo
+[10Dec2024 19:38:33.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> oe encntre una cucaracha
+[10Dec2024 19:38:35.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jajajaja
+[10Dec2024 19:38:39.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> matala
+[10Dec2024 19:38:41.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ya volvi a transformarme
+[10Dec2024 19:39:14.625] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1353, y=87, z=19079} but found not block entity block Block{minecraft:air} at location
+[10Dec2024 19:39:14.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1353, y=87, z=19079}
+[10Dec2024 19:41:53.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai has made the advancement [Broken Parts III]
+[10Dec2024 19:42:37.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> me cgt
+[10Dec2024 19:42:45.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> xd
+[10Dec2024 19:42:57.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> gracias, luego te doy premio
+[10Dec2024 19:46:55.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> dragon tier 5 csmr
+[10Dec2024 19:47:10.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> aaaaaaaa
+[10Dec2024 19:47:16.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> que pasaaaaaaaaaaaa
+[10Dec2024 19:47:22.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> casi muero
+[10Dec2024 19:50:44.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai has made the advancement [Your First Receptacle]
+[10Dec2024 19:50:54.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> y eso
+[10Dec2024 19:50:58.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> noc ajja
+[10Dec2024 19:51:03.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> xd
+[10Dec2024 19:54:57.252] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1577, y=69, z=19079} but found not block entity block Block{minecraft:air} at location
+[10Dec2024 19:54:57.253] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1577, y=69, z=19079}
+[10Dec2024 19:56:40.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved wrongly! 0.2507267591273603
+[10Dec2024 19:56:40.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved wrongly! 0.4524655012346557
+[10Dec2024 19:56:40.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved wrongly! 0.6769555336225039
+[10Dec2024 19:56:40.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved wrongly! 0.2648123929495796
+[10Dec2024 19:56:40.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved wrongly! 0.47729074148764994
+[10Dec2024 19:56:40.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved wrongly! 0.4625375413627353
+[10Dec2024 19:59:35.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> don tas
+[10Dec2024 19:59:45.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> [x:-1406, y:44, z:19117, dim:minecraft:overworld]
+[10Dec2024 20:00:09.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was slain by Skeleton
+[10Dec2024 20:00:09.097] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[10Dec2024 20:00:09.101] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[10Dec2024 20:00:26.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> nooo mis 27 niveles
+[10Dec2024 20:00:32.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ayudamr
+[10Dec2024 20:00:47.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jajaja
+[10Dec2024 20:00:48.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:00:54.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> deja e ver si llego
+[10Dec2024 20:01:01.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> me quedan 10
+[10Dec2024 20:01:09.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai was slain by Skeleton
+[10Dec2024 20:01:43.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! -1.6619704188021842,-10.342366735053545,1.0048300090493285
+[10Dec2024 20:02:02.655] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/77902, l='ServerLevel[world]', x=-871.49, y=69.92, z=18810.47] died, message: 'Angry Villager was slain by Werewolf'
+[10Dec2024 20:03:37.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was slain by Skeleton
+[10Dec2024 20:03:37.315] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[10Dec2024 20:03:37.325] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[10Dec2024 20:03:48.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> llego
+[10Dec2024 20:04:02.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:04:07.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:04:07.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:04:11.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:04:16.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:04:21.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:04:21.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:04:30.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:04:37.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai was slain by Skeleton
+[10Dec2024 20:04:40.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> estas bajo tierra'
+[10Dec2024 20:04:40.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a
+[10Dec2024 20:04:42.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> que pendeja
+[10Dec2024 20:05:06.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was shot by Stray
+[10Dec2024 20:05:06.444] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[10Dec2024 20:05:06.448] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[10Dec2024 20:05:09.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:05:09.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:05:32.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:05:38.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:06:06.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai was shot by Stray
+[10Dec2024 20:06:19.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was shot by Stray
+[10Dec2024 20:06:19.580] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[10Dec2024 20:06:19.587] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[10Dec2024 20:06:34.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:06:35.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:06:40.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:06:40.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:06:40.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:06:54.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:06:55.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!

@@ -2291,6 +2291,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/cockroach_wing": {
+    "criteria": {
+      "has_items": "2024-12-10 19:38:45 +0000"
+    },
+    "done": true
+  },
   "fantasyfurniture:recipes/fantasyfurniture/furniture_station": {
     "criteria": {
       "has_crafting_table": "2024-11-30 20:22:37 +0000"

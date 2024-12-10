@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:41:08 +0000"
+    },
+    "done": true
+  },
   "obscure_api:recipes/obscure_book": {
     "criteria": {
       "has_item": "2024-11-30 05:16:50 +0000"
@@ -26,6 +32,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 05:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-10 19:47:24 +0000"
     },
     "done": true
   },
@@ -86,6 +98,12 @@
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2024-11-30 05:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-12-10 19:43:01 +0000"
     },
     "done": true
   },
@@ -263,6 +281,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-10 19:39:25 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/medium_graveyard": {
     "criteria": {
       "medium_graveyard": "2024-11-30 07:02:59 +0000"
@@ -278,6 +302,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-11-30 05:20:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-10 19:39:25 +0000"
     },
     "done": true
   },
@@ -368,6 +398,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-11-30 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-10 19:47:24 +0000"
     },
     "done": true
   },
@@ -498,12 +534,6 @@
       "has_stone": "2024-12-01 07:24:19 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
-    },
-    "done": false
   },
   "vampirism:recipes/vampirism/hunter/item_med_chair": {
     "criteria": {
@@ -721,6 +751,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-10 19:39:25 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/find_skeleton": {
     "criteria": {
       "skeleton": "2024-12-01 06:27:25 +0000"
@@ -736,6 +772,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-01 05:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:41:08 +0000"
     },
     "done": true
   },
@@ -780,12 +822,6 @@
       "has_quartz_block": "2024-11-30 05:59:46 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
@@ -1063,11 +1099,11 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
+      "has_polished_granite": "2024-12-10 19:43:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
@@ -1195,6 +1231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:41:08 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-11-30 05:13:51 +0000"
@@ -1204,6 +1246,12 @@
   "vampirism:recipes/vampirism/hunter/garlic_diffuser_normal": {
     "criteria": {
       "has_diamond": "2024-11-30 05:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-10 19:47:24 +0000"
     },
     "done": true
   },
@@ -1760,6 +1808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:41:08 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2024-11-30 05:17:27 +0000"
@@ -2097,12 +2151,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 05:31:00 +0000"
@@ -2265,6 +2313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:41:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-04 16:46:50 +0000"
@@ -2280,6 +2334,12 @@
   "infernalexp:recipes/redstone/smooth_glowstone_pressure_plate": {
     "criteria": {
       "has_smooth_glowstone": "2024-11-30 05:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-10 19:47:24 +0000"
     },
     "done": true
   },
@@ -2457,12 +2517,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
-    },
-    "done": false
-  },
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2024-12-04 15:38:32 +0000"
@@ -2580,6 +2634,12 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-04 16:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-10 19:47:24 +0000"
     },
     "done": true
   },
@@ -2975,6 +3035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:41:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-30 05:17:01 +0000"
@@ -3151,6 +3217,7 @@
       "minecraft:vindicator": "2024-12-01 05:34:50 +0000",
       "minecraft:piglin_brute": "2024-11-30 06:23:29 +0000",
       "minecraft:spider": "2024-11-30 06:28:00 +0000",
+      "minecraft:creeper": "2024-12-10 20:02:41 +0000",
       "minecraft:cave_spider": "2024-11-30 06:02:23 +0000",
       "minecraft:piglin": "2024-12-01 07:58:20 +0000",
       "minecraft:enderman": "2024-11-30 06:59:28 +0000",
@@ -3180,6 +3247,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-11-30 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_minecraft/acacia": {
+    "criteria": {
+      "has_plank": "2024-12-10 19:41:08 +0000"
     },
     "done": true
   },
@@ -3216,6 +3289,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-11-30 05:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-10 19:47:24 +0000"
     },
     "done": true
   },
@@ -3306,6 +3385,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-01 07:45:23 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2024-12-10 19:41:53 +0000"
     },
     "done": true
   },
@@ -3753,12 +3838,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
-    },
-    "done": false
-  },
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2024-11-30 05:15:18 +0000"
@@ -3836,12 +3915,6 @@
       "has_iron_ingot": "2024-11-30 05:30:49 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
-    },
-    "done": false
   },
   "supplementaries:recipes/sign_post_minecraft/warped": {
     "criteria": {
@@ -3975,6 +4048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:41:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2024-11-30 06:14:45 +0000"
@@ -4004,12 +4083,6 @@
       "has_cobblestone": "2024-11-30 05:17:27 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
@@ -4184,6 +4257,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-11-30 05:59:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_minecraft/acacia": {
+    "criteria": {
+      "has_plank": "2024-12-10 19:41:08 +0000"
     },
     "done": true
   },
@@ -4430,6 +4509,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2024-12-10 19:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2024-11-30 06:27:05 +0000"
@@ -4454,11 +4539,11 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
+      "has_planks": "2024-12-10 19:41:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
@@ -4505,6 +4590,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-11-30 05:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-10 19:43:01 +0000"
     },
     "done": true
   },
@@ -4592,9 +4683,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-10 19:39:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-30 05:20:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-10 19:39:25 +0000"
     },
     "done": true
   },
@@ -4778,6 +4881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-11-30 05:19:38 +0000"
@@ -4940,6 +5049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-12-10 19:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-05 22:06:46 +0000"
@@ -4979,6 +5094,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-11-30 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-10 19:39:25 +0000"
     },
     "done": true
   },
@@ -5144,12 +5265,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:36:04 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-30 05:15:18 +0000"
@@ -5228,6 +5343,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-10 19:39:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-04 16:47:08 +0000"
@@ -5267,6 +5388,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-30 05:40:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-10 19:39:25 +0000"
     },
     "done": true
   },
