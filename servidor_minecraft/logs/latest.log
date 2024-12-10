@@ -965,3 +965,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [10Dec2024 20:17:13.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Wither Skeleton
 [10Dec2024 20:17:13.944] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
 [10Dec2024 20:17:13.947] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[10Dec2024 20:17:22.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> miau
+[10Dec2024 20:19:34.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> toma esto va vontigo
+[10Dec2024 20:19:59.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> acá
+[10Dec2024 20:20:00.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was slain by Skeleton
+[10Dec2024 20:20:00.043] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[10Dec2024 20:20:00.047] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[10Dec2024 20:20:05.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:20:05.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:21:20.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> a la mrd
+[10Dec2024 20:21:23.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> agarra 3
+[10Dec2024 20:24:43.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1609, y=111, z=18871} but found not block entity block Block{treasure2:skull_and_crossbones}[facing=south] at location
+[10Dec2024 20:24:43.701] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{treasure2:skull_and_crossbones}[facing=south] but failed at location BlockPos{x=-1609, y=111, z=18871}
+[10Dec2024 20:25:52.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was blown up by Creeper
+[10Dec2024 20:25:52.748] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[10Dec2024 20:25:52.756] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[10Dec2024 20:25:57.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> a
+[10Dec2024 20:26:02.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> quita r
+[10Dec2024 20:26:34.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> saliendo te doy
+[10Dec2024 20:26:36.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> pa que no mueras
+[10Dec2024 20:26:38.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> elq
+[10Dec2024 20:26:40.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> aau
+[10Dec2024 20:26:43.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> esta
+[10Dec2024 20:26:44.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> este
+[10Dec2024 20:26:46.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> de aca
+[10Dec2024 20:26:57.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was slain by Cave Spider
+[10Dec2024 20:26:57.441] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[10Dec2024 20:26:57.445] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[10Dec2024 20:27:22.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> un nidod e arañs
