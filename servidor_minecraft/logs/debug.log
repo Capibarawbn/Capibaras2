@@ -13685,3 +13685,39 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [10Dec2024 20:06:40.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
 [10Dec2024 20:06:54.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
 [10Dec2024 20:06:55.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:07:00.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:07:04.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:07:04.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:07:08.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:07:09.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:07:09.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:07:10.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:07:14.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved wrongly!
+[10Dec2024 20:07:19.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai was shot by Stray
+[10Dec2024 20:07:19.493] [Server thread/DEBUG] [tombstone/]: A new grave of the player mariana_senpai was created at position [x:-1433, y:45, z:19080, dim:minecraft:overworld]
+[10Dec2024 20:07:24.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x7
+[10Dec2024 20:10:26.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> noooo
+[10Dec2024 20:10:30.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> mi experiencia
+[10Dec2024 20:10:33.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> trosate
+[10Dec2024 20:10:45.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> despues se recupera
+[10Dec2024 20:10:55.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[10Dec2024 20:10:55.398] [Worker-Main-130/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[10Dec2024 20:10:55.407] [Worker-Main-130/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[10Dec2024 20:10:55.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mariana_senpai is bleeding. mariana_senpai was shot by Stray
+[10Dec2024 20:10:55.453] [Server thread/WARN] [tombstone/]: The death event of the player mariana_senpai was canceled by another mod
+[10Dec2024 20:10:55.457] [Server thread/INFO] [tombstone/]: The player mariana_senpai has successfully been saved
+[10Dec2024 20:11:04.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 20:11:04.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 20:12:24.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> graciasss
+[10Dec2024 20:15:18.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> a mi no me detectan xd
+[10Dec2024 20:15:21.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> pq
+[10Dec2024 20:15:24.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> lobo
+[10Dec2024 20:15:28.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> aa
+[10Dec2024 20:15:28.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> y habilidad
+[10Dec2024 20:15:32.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> de sigilo
+[10Dec2024 20:16:04.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 20:16:04.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 20:16:40.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> aca
+[10Dec2024 20:17:13.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Wither Skeleton
+[10Dec2024 20:17:13.944] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[10Dec2024 20:17:13.947] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
