@@ -470,7 +470,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 16:31:00 +0000"
+      "log_spam_fixer": "2024-12-10 16:41:00 +0000"
     },
     "done": false
   },
@@ -764,7 +764,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 16:31:00 +0000"
+      "log_spam_fixer": "2024-12-10 16:41:00 +0000"
     },
     "done": false
   },
@@ -986,7 +986,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 16:31:00 +0000"
+      "log_spam_fixer": "2024-12-10 16:41:00 +0000"
     },
     "done": false
   },
@@ -2053,7 +2053,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 16:31:00 +0000"
+      "log_spam_fixer": "2024-12-10 16:41:00 +0000"
     },
     "done": false
   },
@@ -2401,7 +2401,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 16:31:00 +0000"
+      "log_spam_fixer": "2024-12-10 16:41:00 +0000"
     },
     "done": false
   },
@@ -3608,7 +3608,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 16:31:00 +0000"
+      "log_spam_fixer": "2024-12-10 16:41:00 +0000"
     },
     "done": false
   },
@@ -3687,7 +3687,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 16:31:00 +0000"
+      "log_spam_fixer": "2024-12-10 16:41:00 +0000"
     },
     "done": false
   },
@@ -3861,7 +3861,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 16:31:00 +0000"
+      "log_spam_fixer": "2024-12-10 16:41:00 +0000"
     },
     "done": false
   },
@@ -4298,7 +4298,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 16:31:00 +0000"
+      "log_spam_fixer": "2024-12-10 16:41:00 +0000"
     },
     "done": false
   },
@@ -4922,7 +4922,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 16:31:00 +0000"
+      "log_spam_fixer": "2024-12-10 16:41:00 +0000"
     },
     "done": false
   },
