@@ -8391,3 +8391,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [10Dec2024 16:02:05.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Black or White]
 [10Dec2024 16:03:11.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [A Small Cemetery]
 [10Dec2024 16:04:05.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Grave Inscription]
+[10Dec2024 16:06:00.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 16:06:00.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 16:11:00.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 16:11:00.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
