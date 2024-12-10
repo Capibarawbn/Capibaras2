@@ -4269,10 +4269,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-10 20:46:04 +0000",
       "log_spam_fixer": "2024-11-30 20:21:34 +0000"
     },
-    "done": true
+    "done": false
   },
   "securitycraft:recipes/securitycraft/keypad_item": {
     "criteria": {
@@ -5033,6 +5032,12 @@
   "vampirism:recipes/vampirism/general/castle_block_purple_brick": {
     "criteria": {
       "has_orchid": "2024-12-04 14:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-10 20:51:44 +0000"
     },
     "done": true
   },
