@@ -11263,3 +11263,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [10Dec2024 19:16:04.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 19:16:09.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> demoró ps
 [10Dec2024 19:16:15.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> xd
+[10Dec2024 19:17:54.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mariana_senpai moved too quickly! 0.12843797040591198,-10.129829817627389,-0.4460458239300351
+[10Dec2024 19:17:59.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> tas lagueadaza
+[10Dec2024 19:18:02.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> o soy yo
+[10Dec2024 19:18:08.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> no jaja
+[10Dec2024 19:18:14.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ah no si creo
+[10Dec2024 19:21:04.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 19:21:04.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 19:22:41.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> nicagando y esto
+[10Dec2024 19:23:20.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> ya volvi
+[10Dec2024 19:23:24.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> taba lavando mi plato
+[10Dec2024 19:23:31.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> ajjaya
+[10Dec2024 19:24:30.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> aparecio esto
+[10Dec2024 19:24:31.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JUSMCAS> jajaja
+[10Dec2024 19:24:38.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> no tecreo
+[10Dec2024 19:24:40.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <mariana_senpai> mira
+[10Dec2024 19:26:04.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 19:26:04.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 19:26:14.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x7
+[10Dec2024 19:26:14.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[10Dec2024 19:26:14.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_6
+[10Dec2024 19:26:27.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
