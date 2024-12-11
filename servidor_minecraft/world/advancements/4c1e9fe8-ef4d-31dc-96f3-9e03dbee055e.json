@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/combat/frontier_cap": {
+    "criteria": {
+      "has_items": "2024-12-11 18:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-11-30 21:08:22 +0000"
@@ -2381,6 +2387,12 @@
       "has_stone_bricks": "2024-12-01 01:23:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-11 18:13:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
