@@ -865,3 +865,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 23:01:56.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! -9.311419200795171,2.324472989670724,-3.2212298477606964
 [11Dec2024 23:03:14.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/160726, l='ServerLevel[world]', x=-1352.49, y=80.00, z=18314.75] died, message: 'Hunter Expert was slain by JUSMCAS using [Kcha Perros]'
 [11Dec2024 23:11:39.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Epsilon] JUSMCAS has made the advancement [A New Threshold]
+[11Dec2024 23:37:47.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! 9.708808373626653,0.3579342710500413,-3.327837287404691
