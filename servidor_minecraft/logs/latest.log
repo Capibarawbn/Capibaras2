@@ -738,3 +738,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 15:38:14.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/29767, l='ServerLevel[world]', x=-88.69, y=109.00, z=2352.57] died, message: 'Scribe was blown up by Creeper'
 [11Dec2024 15:38:14.077] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
 [11Dec2024 15:39:13.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was blown up by Creeper
+[11Dec2024 15:46:14.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Oh Shiny]
+[11Dec2024 15:47:26.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Who is Cutting Onions?]
+[11Dec2024 15:59:01.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/33285, l='ServerLevel[world]', x=-721.83, y=65.00, z=18814.70] died, message: 'Librarian was slain by Zombie'
+[11Dec2024 15:59:02.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/33283, l='ServerLevel[world]', x=-721.49, y=65.00, z=18814.70] died, message: 'Librarian was slain by Zombie'

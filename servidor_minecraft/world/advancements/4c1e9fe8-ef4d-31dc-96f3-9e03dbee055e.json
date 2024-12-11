@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-11 15:47:26 +0000"
+    },
+    "done": true
+  },
   "obscure_api:recipes/obscure_book": {
     "criteria": {
       "has_item": "2024-11-30 20:22:37 +0000"
@@ -32,6 +38,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-12-01 00:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-11 15:50:55 +0000"
     },
     "done": true
   },
@@ -140,6 +152,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-11 15:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-11 15:46:14 +0000"
     },
     "done": true
   },
@@ -368,6 +386,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2024-11-30 21:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-11 15:50:55 +0000"
     },
     "done": true
   },
@@ -804,6 +828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2024-11-30 20:22:33 +0000"
@@ -846,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2024-11-30 22:53:19 +0000"
@@ -855,6 +891,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-11 15:50:55 +0000"
     },
     "done": true
   },
@@ -924,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:38:40 +0000"
@@ -939,6 +987,12 @@
   "treasure2:recipes/treasure2/gold_skull_chest": {
     "criteria": {
       "has_tool": "2024-12-01 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
     },
     "done": true
   },
@@ -1205,6 +1259,12 @@
       "loot_stat": "2024-11-30 21:08:33 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-11 15:41:36 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
@@ -1564,6 +1624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2024-12-11 15:50:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-04 13:09:26 +0000"
@@ -1633,6 +1699,12 @@
   "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2024-11-30 22:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-11 15:47:26 +0000"
     },
     "done": true
   },
@@ -1711,6 +1783,13 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-04 14:54:40 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_crying_obsidian": "2024-12-11 15:47:26 +0000",
+      "has_the_recipe": "2024-12-11 15:47:26 +0000"
     },
     "done": true
   },
@@ -1988,6 +2067,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-01 00:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
     },
     "done": true
   },
@@ -2381,9 +2466,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
+    },
+    "done": true
+  },
   "treasure2:grant_book_on_first_join": {
     "criteria": {
       "tick": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
     },
     "done": true
   },
@@ -2582,6 +2679,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-11-30 20:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
     },
     "done": true
   },
@@ -2984,6 +3087,12 @@
   "treasure2:recipes/treasure2/ruby_key": {
     "criteria": {
       "has_tool": "2024-12-01 00:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
     },
     "done": true
   },
@@ -3390,6 +3499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/iron_basic_shield": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:38:40 +0000"
@@ -3429,6 +3544,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-10 18:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
     },
     "done": true
   },
@@ -3540,6 +3661,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2024-12-11 15:50:31 +0000"
+    },
+    "done": true
+  },
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2024-12-04 21:21:31 +0000"
@@ -3567,6 +3694,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
     },
     "done": true
   },
@@ -3609,6 +3742,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-11-30 21:34:20 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_crying_obsidian": "2024-12-11 15:47:26 +0000"
     },
     "done": true
   },
@@ -4160,6 +4299,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-11 15:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-01 00:21:55 +0000"
@@ -4295,6 +4440,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-11 15:50:55 +0000"
     },
     "done": true
   },
@@ -4442,6 +4593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2024-12-07 23:23:41 +0000"
@@ -4493,6 +4650,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-11-30 22:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-11 15:50:55 +0000"
     },
     "done": true
   },
@@ -5042,6 +5205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-11-30 21:36:30 +0000"
@@ -5198,6 +5367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-11 15:50:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-04 13:09:26 +0000"
@@ -5246,6 +5421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-11-30 22:45:13 +0000"
@@ -5273,6 +5454,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-10 20:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-11 15:51:27 +0000"
     },
     "done": true
   },
@@ -5309,6 +5496,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-30 20:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-11 15:50:55 +0000"
     },
     "done": true
   },
