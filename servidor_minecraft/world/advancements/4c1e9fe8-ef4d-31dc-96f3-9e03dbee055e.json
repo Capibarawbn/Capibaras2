@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-12-11 18:59:38 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_hoe": {
     "criteria": {
       "has_sticks": "2024-11-30 20:22:37 +0000"
