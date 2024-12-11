@@ -10665,3 +10665,44 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 15:59:01.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/33285, l='ServerLevel[world]', x=-721.83, y=65.00, z=18814.70] died, message: 'Librarian was slain by Zombie'
 [11Dec2024 15:59:02.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/33283, l='ServerLevel[world]', x=-721.49, y=65.00, z=18814.70] died, message: 'Librarian was slain by Zombie'
 [11Dec2024 16:00:17.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[11Dec2024 16:03:45.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 16:03:45.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 16:08:45.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 16:08:45.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 16:10:25.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_1
+[11Dec2024 16:10:25.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/straight
+[11Dec2024 16:10:25.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_2
+[11Dec2024 16:10:25.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/shepherd
+[11Dec2024 16:10:25.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/chemist
+[11Dec2024 16:10:25.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_3
+[11Dec2024 16:10:25.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/fisherman
+[11Dec2024 16:10:25.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_6
+[11Dec2024 16:10:25.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_2
+[11Dec2024 16:10:25.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/pen
+[11Dec2024 16:10:25.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_3
+[11Dec2024 16:10:25.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/bent_1
+[11Dec2024 16:10:25.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_2
+[11Dec2024 16:10:25.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/library
+[11Dec2024 16:10:25.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_3
+[11Dec2024 16:10:25.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[11Dec2024 16:10:25.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_1
+[11Dec2024 16:10:25.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_4
+[11Dec2024 16:10:25.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/med_3
+[11Dec2024 16:10:25.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/butcher
+[11Dec2024 16:10:25.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_1
+[11Dec2024 16:10:25.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[11Dec2024 16:10:25.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_5
+[11Dec2024 16:10:25.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_1
+[11Dec2024 16:10:25.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/leatherworker
+[11Dec2024 16:10:25.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_2
+[11Dec2024 16:10:25.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_3
+[11Dec2024 16:10:25.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_4
+[11Dec2024 16:13:45.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 16:13:45.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 16:14:34.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[11Dec2024 16:16:12.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Quite the Renovation]
+[11Dec2024 16:18:45.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 16:18:45.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 16:20:50.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x9
+[11Dec2024 16:21:03.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[11Dec2024 16:21:03.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
