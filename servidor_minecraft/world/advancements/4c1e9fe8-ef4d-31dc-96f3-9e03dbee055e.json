@@ -4361,6 +4361,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2024-12-11 18:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-30 20:34:48 +0000"
