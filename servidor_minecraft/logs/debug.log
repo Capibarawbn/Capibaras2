@@ -8150,3 +8150,191 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 14:36:02.315] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:lightning_dragon
 [11Dec2024 14:38:46.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 14:38:46.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:43:46.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:43:46.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:45:48.515] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:cockroach
+[11Dec2024 14:48:17.065] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.04 and blood value 0 for entity alexsmobs:fly
+[11Dec2024 14:48:23.560] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:crow
+[11Dec2024 14:48:43.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[11Dec2024 14:48:43.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[11Dec2024 14:48:43.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[11Dec2024 14:48:43.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[11Dec2024 14:48:43.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[11Dec2024 14:48:43.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[11Dec2024 14:48:45.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:48:46.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:48:48.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[11Dec2024 14:48:48.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[11Dec2024 14:48:48.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[11Dec2024 14:48:48.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[11Dec2024 14:48:48.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_05
+[11Dec2024 14:48:48.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_03
+[11Dec2024 14:48:48.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[11Dec2024 14:48:48.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[11Dec2024 14:48:48.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[11Dec2024 14:48:48.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[11Dec2024 14:48:48.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_06
+[11Dec2024 14:48:48.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[11Dec2024 14:48:48.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_01
+[11Dec2024 14:48:48.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/turn_01
+[11Dec2024 14:48:48.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[11Dec2024 14:48:48.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[11Dec2024 14:48:48.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[11Dec2024 14:48:48.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_02
+[11Dec2024 14:48:48.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_03
+[11Dec2024 14:48:48.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[11Dec2024 14:48:48.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[11Dec2024 14:48:57.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[11Dec2024 14:48:57.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_1
+[11Dec2024 14:48:57.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[11Dec2024 14:48:57.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_0
+[11Dec2024 14:48:57.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_0
+[11Dec2024 14:48:57.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_2
+[11Dec2024 14:49:03.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[11Dec2024 14:49:19.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_0
+[11Dec2024 14:49:19.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_5
+[11Dec2024 14:49:19.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_5
+[11Dec2024 14:49:19.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_1
+[11Dec2024 14:49:19.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_7
+[11Dec2024 14:49:19.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_big_3
+[11Dec2024 14:49:19.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_7
+[11Dec2024 14:49:19.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_0
+[11Dec2024 14:49:19.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_5
+[11Dec2024 14:49:20.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[11Dec2024 14:49:20.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[11Dec2024 14:49:20.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[11Dec2024 14:49:20.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[11Dec2024 14:49:20.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[11Dec2024 14:49:20.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[11Dec2024 14:49:20.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[11Dec2024 14:49:20.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[11Dec2024 14:49:20.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[11Dec2024 14:49:20.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[11Dec2024 14:49:20.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[11Dec2024 14:49:20.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[11Dec2024 14:49:20.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[11Dec2024 14:49:20.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[11Dec2024 14:49:20.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[11Dec2024 14:49:20.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[11Dec2024 14:49:20.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[11Dec2024 14:49:20.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[11Dec2024 14:49:20.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[11Dec2024 14:49:20.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[11Dec2024 14:49:20.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[11Dec2024 14:49:20.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[11Dec2024 14:49:20.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[11Dec2024 14:49:20.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[11Dec2024 14:49:20.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[11Dec2024 14:49:20.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[11Dec2024 14:49:20.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[11Dec2024 14:49:20.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[11Dec2024 14:49:20.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[11Dec2024 14:49:20.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[11Dec2024 14:49:20.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[11Dec2024 14:49:20.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[11Dec2024 14:49:20.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[11Dec2024 14:49:20.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[11Dec2024 14:49:20.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[11Dec2024 14:49:21.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_1
+[11Dec2024 14:49:21.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! -7.371691182288714,0.11272141087133036,7.320923814993876
+[11Dec2024 14:49:22.112] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 0 for entity alexsmobs:grizzly_bear
+[11Dec2024 14:49:24.030] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[11Dec2024 14:49:32.508] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[11Dec2024 14:49:37.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[11Dec2024 14:49:37.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[11Dec2024 14:49:37.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[11Dec2024 14:49:37.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[11Dec2024 14:49:57.335] [Worker-Main-12/DEBUG] [mixin/]: Mixing common.WorldGenRegionAccessor from infernal-expansion.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Dec2024 14:49:57.336] [Worker-Main-12/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from bygonenether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Dec2024 14:49:57.337] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Dec2024 14:49:57.338] [Worker-Main-12/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from graveyard.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Dec2024 14:49:57.338] [Worker-Main-12/DEBUG] [mixin/]: graveyard.mixins.json:WorldGenRegionAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[11Dec2024 14:49:57.339] [Worker-Main-12/DEBUG] [mixin/]: Mixing MuteSetBlockFarChunk from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Dec2024 14:49:57.363] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureFeatureManager()Lnet/minecraft/world/level/StructureFeatureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Dec2024 14:49:57.373] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureFeatureManager()Lnet/minecraft/world/level/StructureFeatureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Dec2024 14:49:57.373] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureFeatureManager()Lnet/minecraft/world/level/StructureFeatureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Dec2024 14:49:59.945] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of piglin_expansion:piglin_abandoned_refuge3
+[11Dec2024 14:50:03.350] [Worker-Main-22/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[11Dec2024 14:50:03.749] [Worker-Main-22/DEBUG] [mixin/]: Mixing common.SurfaceRulesContextAccessor from infernal-expansion.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[11Dec2024 14:50:14.877] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair1/stair1_0
+[11Dec2024 14:50:15.047] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_2
+[11Dec2024 14:50:15.051] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_8
+[11Dec2024 14:50:15.055] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_big_1
+[11Dec2024 14:50:15.057] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_4
+[11Dec2024 14:50:15.161] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/halloween/baseline
+[11Dec2024 14:50:15.174] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/snowy/outpost
+[11Dec2024 14:50:15.181] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/swamp/baseline
+[11Dec2024 14:50:15.189] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/taiga/baseline
+[11Dec2024 14:50:15.198] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/desert/baseline
+[11Dec2024 14:50:15.232] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/jungle/baseline
+[11Dec2024 14:50:15.265] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/plains/baseline
+[11Dec2024 14:50:15.299] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[11Dec2024 14:50:15.311] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[11Dec2024 14:50:15.629] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1468 | 63 | 19924).
+[11Dec2024 14:50:15.631] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[11Dec2024 14:50:15.633] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[11Dec2024 14:50:15.633] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[11Dec2024 14:50:15.633] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 6(0) Rooms
+[11Dec2024 14:50:15.633] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[11Dec2024 14:50:15.634] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 7(2) Nodes and 4(0) Rooms
+[11Dec2024 14:50:15.634] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[11Dec2024 14:50:15.634] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 6(2) Nodes and 5(0) Rooms
+[11Dec2024 14:50:15.634] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[11Dec2024 14:50:15.634] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 5(7) Nodes and 5(0) Rooms
+[11Dec2024 14:50:24.759] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[11Dec2024 14:50:24.855] [Worker-Main-22/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[11Dec2024 14:50:24.858] [Worker-Main-22/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$2(Lnet/minecraft/world/level/levelgen/structure/pools/StructurePoolElement;)Z to md36e354$lambda$getShuffledTemplates$2$0 in waystones.mixins.json:JigsawPlacementMixin
+[11Dec2024 14:50:24.858] [Worker-Main-22/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$1(Ljava/lang/String;)Z to md36e354$lambda$getShuffledTemplates$1$1 in waystones.mixins.json:JigsawPlacementMixin
+[11Dec2024 14:50:24.858] [Worker-Main-22/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$0(Ljava/lang/Object;)Ljava/lang/String; to md36e354$lambda$getShuffledTemplates$0$2 in waystones.mixins.json:JigsawPlacementMixin
+[11Dec2024 14:50:24.877] [Worker-Main-22/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[11Dec2024 14:50:24.977] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/half_arch_ruin
+[11Dec2024 14:50:33.766] [Server thread/DEBUG] [GottschCore/]: proximity @ -> -1224 72 19704 was met.
+[11Dec2024 14:50:33.766] [Server thread/DEBUG] [GottschCore/]: proximity pos -> BlockPos{x=-1224, y=72, z=19704}
+[11Dec2024 14:50:33.766] [Server thread/DEBUG] [GottschCore/]: got entityType -> minecraft:zombie
+[11Dec2024 14:50:33.767] [Server thread/DEBUG] [GottschCore/]: self-destructing @ BlockPos{x=-1224, y=72, z=19704}
+[11Dec2024 14:50:33.821] [Server thread/DEBUG] [GottschCore/]: proximity @ -> -1224 72 19703 was met.
+[11Dec2024 14:50:33.821] [Server thread/DEBUG] [GottschCore/]: proximity pos -> BlockPos{x=-1224, y=72, z=19703}
+[11Dec2024 14:50:33.822] [Server thread/DEBUG] [GottschCore/]: got entityType -> minecraft:spider
+[11Dec2024 14:50:33.822] [Server thread/DEBUG] [GottschCore/]: self-destructing @ BlockPos{x=-1224, y=72, z=19703}
+[11Dec2024 14:50:39.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/straight
+[11Dec2024 14:50:39.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/inter
+[11Dec2024 14:50:39.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/bent_2
+[11Dec2024 14:50:39.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/pen
+[11Dec2024 14:50:39.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_3
+[11Dec2024 14:50:39.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/big_2
+[11Dec2024 14:50:39.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/fisherman
+[11Dec2024 14:50:39.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_2
+[11Dec2024 14:50:39.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_5
+[11Dec2024 14:50:39.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_2
+[11Dec2024 14:50:39.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/shepherd
+[11Dec2024 14:50:39.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_4
+[11Dec2024 14:50:39.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_1
+[11Dec2024 14:50:39.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_3
+[11Dec2024 14:50:39.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_3
+[11Dec2024 14:50:39.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_1
+[11Dec2024 14:50:39.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/lamp_6
+[11Dec2024 14:50:39.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_1
+[11Dec2024 14:50:39.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[11Dec2024 14:50:39.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[11Dec2024 14:50:39.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/bent_1
+[11Dec2024 14:50:39.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/cartography
+[11Dec2024 14:50:39.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/leatherworker
+[11Dec2024 14:50:39.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/jobsite/butcher
+[11Dec2024 14:50:39.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/house/small_1
+[11Dec2024 14:50:39.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/roads/t_2
+[11Dec2024 14:50:39.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[11Dec2024 14:50:39.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mountain/deco/sakura_3
+[11Dec2024 14:50:40.613] [Server thread/DEBUG] [GottschCore/]: proximity @ -> -1225 72 19704 was met.
+[11Dec2024 14:50:40.613] [Server thread/DEBUG] [GottschCore/]: proximity pos -> BlockPos{x=-1225, y=72, z=19704}
+[11Dec2024 14:50:40.613] [Server thread/DEBUG] [GottschCore/]: got entityType -> minecraft:spider
+[11Dec2024 14:50:40.616] [Server thread/DEBUG] [GottschCore/]: self-destructing @ BlockPos{x=-1225, y=72, z=19704}
+[11Dec2024 14:50:40.670] [Server thread/DEBUG] [GottschCore/]: proximity @ -> -1225 72 19703 was met.
+[11Dec2024 14:50:40.670] [Server thread/DEBUG] [GottschCore/]: proximity pos -> BlockPos{x=-1225, y=72, z=19703}
+[11Dec2024 14:50:40.670] [Server thread/DEBUG] [GottschCore/]: got entityType -> minecraft:zombie
+[11Dec2024 14:50:40.673] [Server thread/DEBUG] [GottschCore/]: self-destructing @ BlockPos{x=-1225, y=72, z=19703}
+[11Dec2024 14:50:45.585] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[11Dec2024 14:50:45.773] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[11Dec2024 14:50:49.433] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1353, y=61, z=19863} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 14:50:49.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1353, y=61, z=19863}
+[11Dec2024 14:50:53.711] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/load
+[11Dec2024 14:51:32.606] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.24 and blood value 0 for entity minecraft:axolotl

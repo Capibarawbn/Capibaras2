@@ -1855,3 +1855,6 @@
 2024-12-11 14:33:36,885 [Server thread] INFO treasure2 | WorldEventHandler.java:72 | In world load event for dimension minecraft:the_end
 2024-12-11 14:33:36,887 [Server thread] INFO treasure2 | WorldEventHandler.java:62 | In world load event
 2024-12-11 14:33:36,887 [Server thread] INFO treasure2 | WorldEventHandler.java:72 | In world load event for dimension minecraft:the_nether
+2024-12-11 14:50:59,946 [Worker-Main-12] INFO treasure2 | AbstractTreasureChestBlock.java:157 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2024-12-11 14:50:59,951 [Worker-Main-12] INFO treasure2 | AbstractTreasureChestBlock.java:158 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.CrystalSkullChestBlockEntity@199d9be @ BlockPos{x=-1145, y=106, z=19911}
+2024-12-11 14:51:00,070 [Worker-Main-12] INFO treasure2 | SimpleSurfaceChestFeatureGenerator.java:87 | CHEATER! CRYSTAL_SKULL chest at coords: -1145 106 19911
