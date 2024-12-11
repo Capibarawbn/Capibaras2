@@ -1164,6 +1164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-11 16:52:48 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2024-11-30 20:21:34 +0000"
@@ -4025,6 +4031,12 @@
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2024-12-04 21:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-11 16:52:48 +0000"
     },
     "done": true
   },
