@@ -15481,3 +15481,231 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 22:49:48.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x5
 [11Dec2024 22:49:48.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_3
 [11Dec2024 22:49:48.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_6
+[11Dec2024 22:53:51.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 22:53:51.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 22:55:32.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x9
+[11Dec2024 22:55:32.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_4
+[11Dec2024 22:55:37.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[11Dec2024 22:55:47.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[11Dec2024 22:55:47.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[11Dec2024 22:56:01.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x5
+[11Dec2024 22:56:01.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_empty
+[11Dec2024 22:56:01.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_0
+[11Dec2024 22:56:01.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_7
+[11Dec2024 22:56:01.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_2
+[11Dec2024 22:56:10.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x5
+[11Dec2024 22:56:10.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[11Dec2024 22:56:10.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_6
+[11Dec2024 22:56:10.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x7
+[11Dec2024 22:56:25.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_1
+[11Dec2024 22:56:25.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_8
+[11Dec2024 22:56:28.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_3
+[11Dec2024 22:56:30.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x9
+[11Dec2024 22:56:30.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[11Dec2024 22:56:32.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[11Dec2024 22:56:32.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/totem
+[11Dec2024 22:56:32.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/savanna/houses/savanna_temple_2
+[11Dec2024 22:56:32.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[11Dec2024 22:56:43.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_4
+[11Dec2024 22:56:44.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[11Dec2024 22:56:44.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[11Dec2024 22:56:44.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[11Dec2024 22:56:44.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[11Dec2024 22:56:44.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[11Dec2024 22:56:45.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/inter
+[11Dec2024 22:56:45.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/straight
+[11Dec2024 22:56:45.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_1
+[11Dec2024 22:56:45.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_4
+[11Dec2024 22:56:45.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/pen
+[11Dec2024 22:56:45.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/hay_bale
+[11Dec2024 22:56:45.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_2
+[11Dec2024 22:56:45.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_2
+[11Dec2024 22:56:45.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_5
+[11Dec2024 22:56:45.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/wagon
+[11Dec2024 22:56:45.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/shepherd
+[11Dec2024 22:56:45.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_1
+[11Dec2024 22:56:45.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_3
+[11Dec2024 22:56:45.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/cartography
+[11Dec2024 22:56:45.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/chemist
+[11Dec2024 22:56:45.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_1
+[11Dec2024 22:56:45.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[11Dec2024 22:56:45.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_2
+[11Dec2024 22:56:45.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_3
+[11Dec2024 22:56:45.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_1
+[11Dec2024 22:56:45.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/butcher
+[11Dec2024 22:56:45.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/terminator
+[11Dec2024 22:56:45.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_4
+[11Dec2024 22:56:45.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/mason
+[11Dec2024 22:56:45.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_1
+[11Dec2024 22:56:45.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/well
+[11Dec2024 22:56:49.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[11Dec2024 22:56:49.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[11Dec2024 22:56:49.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[11Dec2024 22:56:49.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[11Dec2024 22:56:49.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[11Dec2024 22:56:56.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x5
+[11Dec2024 22:56:56.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_empty
+[11Dec2024 22:56:56.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_6
+[11Dec2024 22:56:56.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_3
+[11Dec2024 22:56:57.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x5
+[11Dec2024 22:56:57.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_1
+[11Dec2024 22:56:57.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_7
+[11Dec2024 22:57:06.082] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by werewolves:werewolf at BlockPos{x=-1273, y=82, z=18273} with badomen level -1
+[11Dec2024 22:57:28.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[11Dec2024 22:57:28.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[11Dec2024 22:57:28.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[11Dec2024 22:57:28.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[11Dec2024 22:57:36.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [We do a little trolling...]
+[11Dec2024 22:58:10.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x9
+[11Dec2024 22:58:10.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_4
+[11Dec2024 22:58:10.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_0
+[11Dec2024 22:58:10.481] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x7
+[11Dec2024 22:58:10.481] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[11Dec2024 22:58:10.598] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[11Dec2024 22:58:10.637] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[11Dec2024 22:58:12.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[11Dec2024 22:58:12.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[11Dec2024 22:58:12.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[11Dec2024 22:58:12.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[11Dec2024 22:58:12.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[11Dec2024 22:58:14.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[11Dec2024 22:58:15.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[11Dec2024 22:58:15.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_2
+[11Dec2024 22:58:16.953] [Worker-Main-344/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[11Dec2024 22:58:18.071] [Worker-Main-344/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[11Dec2024 22:58:51.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 22:58:51.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 22:59:43.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [It's an Emu!!!]
+[11Dec2024 23:00:59.546] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/zombie_start
+[11Dec2024 23:00:59.553] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_0
+[11Dec2024 23:00:59.610] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_1
+[11Dec2024 23:00:59.611] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_0
+[11Dec2024 23:00:59.618] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_2
+[11Dec2024 23:00:59.621] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_0
+[11Dec2024 23:00:59.625] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_2
+[11Dec2024 23:00:59.639] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_specialroom_0
+[11Dec2024 23:00:59.642] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_room_terminator_0
+[11Dec2024 23:00:59.645] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_room_terminator_2
+[11Dec2024 23:00:59.647] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_room_terminator_1
+[11Dec2024 23:00:59.649] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_room_terminator_4
+[11Dec2024 23:00:59.656] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_room_terminator_3
+[11Dec2024 23:00:59.658] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_double_0
+[11Dec2024 23:00:59.661] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_1
+[11Dec2024 23:00:59.669] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_stairs
+[11Dec2024 23:00:59.670] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_4
+[11Dec2024 23:00:59.670] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_3
+[11Dec2024 23:00:59.671] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_2
+[11Dec2024 23:00:59.671] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_0
+[11Dec2024 23:00:59.671] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_1
+[11Dec2024 23:00:59.679] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_single_0
+[11Dec2024 23:00:59.695] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_3
+[11Dec2024 23:00:59.696] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_7
+[11Dec2024 23:00:59.697] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_2
+[11Dec2024 23:00:59.697] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_5
+[11Dec2024 23:00:59.709] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_1
+[11Dec2024 23:00:59.710] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_4
+[11Dec2024 23:00:59.715] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_empty
+[11Dec2024 23:00:59.715] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_6
+[11Dec2024 23:00:59.726] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_0
+[11Dec2024 23:00:59.728] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_3
+[11Dec2024 23:00:59.729] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_2
+[11Dec2024 23:00:59.735] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_room_terminator_1
+[11Dec2024 23:00:59.736] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_room_terminator_4
+[11Dec2024 23:00:59.738] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_8
+[11Dec2024 23:00:59.767] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_0
+[11Dec2024 23:00:59.769] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_2
+[11Dec2024 23:00:59.772] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_0
+[11Dec2024 23:00:59.772] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_sm_single_0
+[11Dec2024 23:00:59.775] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_1
+[11Dec2024 23:00:59.778] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_1
+[11Dec2024 23:00:59.779] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_4
+[11Dec2024 23:00:59.781] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_3
+[11Dec2024 23:00:59.782] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_0
+[11Dec2024 23:00:59.783] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_2
+[11Dec2024 23:00:59.788] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_1
+[11Dec2024 23:00:59.830] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_closed
+[11Dec2024 23:00:59.831] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_closed
+[11Dec2024 23:00:59.843] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_1
+[11Dec2024 23:00:59.843] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_0
+[11Dec2024 23:00:59.844] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_1
+[11Dec2024 23:00:59.848] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_0
+[11Dec2024 23:00:59.852] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_1
+[11Dec2024 23:00:59.860] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_1
+[11Dec2024 23:00:59.931] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_open_1
+[11Dec2024 23:00:59.935] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_9
+[11Dec2024 23:01:00.045] [Worker-Main-327/DEBUG] [ModernFix/]: Using cached upgraded version of infernalexp:glowstone_canyon/grand_heaven_portal_2
+[11Dec2024 23:01:30.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_8
+[11Dec2024 23:01:30.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[11Dec2024 23:01:56.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! -9.311419200795171,2.324472989670724,-3.2212298477606964
+[11Dec2024 23:03:14.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/160726, l='ServerLevel[world]', x=-1352.49, y=80.00, z=18314.75] died, message: 'Hunter Expert was slain by JUSMCAS using [Kcha Perros]'
+[11Dec2024 23:03:51.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 23:03:51.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 23:08:12.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/roads/bent_1
+[11Dec2024 23:08:12.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/roads/t_1
+[11Dec2024 23:08:12.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/roads/t_2
+[11Dec2024 23:08:12.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/house/big_1
+[11Dec2024 23:08:12.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/jobsite/smith
+[11Dec2024 23:08:12.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/jobsite/chemist
+[11Dec2024 23:08:12.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/roads/straight
+[11Dec2024 23:08:12.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/melon_1
+[11Dec2024 23:08:12.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/melon_2
+[11Dec2024 23:08:12.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/house/small_1
+[11Dec2024 23:08:12.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/lamp_2
+[11Dec2024 23:08:12.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/house/small_3
+[11Dec2024 23:08:12.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/lamp_1
+[11Dec2024 23:08:12.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/stall_1
+[11Dec2024 23:08:12.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/stall_2
+[11Dec2024 23:08:12.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/house/small_2
+[11Dec2024 23:08:12.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/house/med_2
+[11Dec2024 23:08:12.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/house/small_4
+[11Dec2024 23:08:12.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/house/small_5
+[11Dec2024 23:08:12.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/villager/jungle
+[11Dec2024 23:08:12.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/jobsite/library
+[11Dec2024 23:08:12.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/roads/inter
+[11Dec2024 23:08:12.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/jobsite/shepherd
+[11Dec2024 23:08:12.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/roads/t_3
+[11Dec2024 23:08:12.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/statue_2
+[11Dec2024 23:08:12.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[11Dec2024 23:08:12.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/statue_1
+[11Dec2024 23:08:12.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/shed
+[11Dec2024 23:08:41.114] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 33.63 and blood value 0 for entity alexsmobs:elephant
+[11Dec2024 23:08:51.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 23:08:51.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 23:10:02.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[11Dec2024 23:10:17.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_2
+[11Dec2024 23:10:24.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/totem
+[11Dec2024 23:10:24.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[11Dec2024 23:10:24.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/plains_temple_4
+[11Dec2024 23:10:30.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[11Dec2024 23:10:30.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[11Dec2024 23:10:30.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[11Dec2024 23:10:30.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[11Dec2024 23:10:30.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[11Dec2024 23:10:30.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[11Dec2024 23:10:30.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[11Dec2024 23:10:30.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[11Dec2024 23:10:30.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[11Dec2024 23:10:30.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[11Dec2024 23:10:30.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[11Dec2024 23:10:34.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x5
+[11Dec2024 23:10:34.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_0
+[11Dec2024 23:10:34.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/plains_temple_3
+[11Dec2024 23:10:34.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[11Dec2024 23:10:35.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x5
+[11Dec2024 23:10:35.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_4
+[11Dec2024 23:10:37.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[11Dec2024 23:10:41.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x9
+[11Dec2024 23:10:41.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_3
+[11Dec2024 23:10:41.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[11Dec2024 23:10:41.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_8
+[11Dec2024 23:10:43.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[11Dec2024 23:10:43.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_6
+[11Dec2024 23:10:43.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_1
+[11Dec2024 23:11:07.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[11Dec2024 23:11:07.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[11Dec2024 23:11:39.420] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: TextComponent{text='JUSMCAS', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has now lord level 1
+[11Dec2024 23:11:39.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Epsilon] JUSMCAS has made the advancement [A New Threshold]
+[11Dec2024 23:13:51.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 23:13:51.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 23:18:51.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 23:18:51.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
