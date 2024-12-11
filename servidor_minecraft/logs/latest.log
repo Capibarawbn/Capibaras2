@@ -732,3 +732,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 14:54:58.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Mine? Mine? Mine?]
 [11Dec2024 14:57:49.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/10996, l='ServerLevel[world]', x=-766.91, y=74.00, z=18861.70] died, message: 'Angry Villager was slain by Zombie'
 [11Dec2024 14:58:22.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/11052, l='ServerLevel[world]', x=-782.11, y=65.00, z=18819.50] died, message: 'Mason was slain by Zombie'
+[11Dec2024 15:34:50.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has reached the goal [Sky's the Limit]
+[11Dec2024 15:38:14.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was blown up by Creeper
+[11Dec2024 15:38:14.050] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[11Dec2024 15:38:14.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/29767, l='ServerLevel[world]', x=-88.69, y=109.00, z=2352.57] died, message: 'Scribe was blown up by Creeper'
+[11Dec2024 15:38:14.077] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[11Dec2024 15:39:13.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was blown up by Creeper
