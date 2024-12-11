@@ -554,7 +554,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-11-30 20:28:19 +0000",
-      "opened_chest": "2024-11-30 20:24:52 +0000"
+      "opened_chest": "2024-11-30 20:24:52 +0000",
+      "opened_cart": "2024-12-11 18:17:41 +0000"
     },
     "done": false
   },
@@ -2388,12 +2389,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-11 18:13:45 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 23:42:43 +0000"
@@ -3159,6 +3154,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-30 22:25:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-11 18:17:41 +0000"
     },
     "done": true
   },
