@@ -10776,3 +10776,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 17:14:11.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
 [11Dec2024 17:14:11.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/totem
 [11Dec2024 17:14:11.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/plains_temple_4
+[11Dec2024 17:14:48.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_6
+[11Dec2024 17:16:01.119] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by vampirism:vampire at BlockPos{x=-863, y=80, z=18873} with badomen level 0
+[11Dec2024 17:16:36.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/54278, l='ServerLevel[world]', x=-767.49, y=66.56, z=18809.30] died, message: 'Angry Villager was slain by Iron Golem'
+[11Dec2024 17:16:36.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/54279, l='ServerLevel[world]', x=-766.36, y=66.56, z=18809.36] died, message: 'Angry Villager was slain by Iron Golem'
+[11Dec2024 17:17:05.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/54268, l='ServerLevel[world]', x=-823.27, y=76.00, z=18873.78] died, message: 'Angry Villager was slain by Vampire'
+[11Dec2024 17:17:20.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/54267, l='ServerLevel[world]', x=-819.44, y=67.00, z=18819.20] died, message: 'Angry Villager was slain by Werewolf'
+[11Dec2024 17:17:33.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/54274, l='ServerLevel[world]', x=-798.50, y=60.02, z=18793.35] died, message: 'Angry Villager drowned'
+[11Dec2024 17:18:09.811] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/54277, l='ServerLevel[world]', x=-785.83, y=78.00, z=18924.96] died, message: 'Angry Villager was slain by Vampire'
+[11Dec2024 17:18:45.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 17:18:45.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 17:19:21.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/54281, l='ServerLevel[world]', x=-744.85, y=79.00, z=18918.87] died, message: 'Angry Villager was slain by Werewolf'
+[11Dec2024 17:21:26.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x5
+[11Dec2024 17:21:26.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_1
+[11Dec2024 17:21:30.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[11Dec2024 17:23:45.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 17:23:45.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
