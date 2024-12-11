@@ -853,3 +853,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 21:41:30.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/123126, l='ServerLevel[world]', x=-772.62, y=65.94, z=18817.05] died, message: 'Unemployed was slain by Iron Golem'
 [11Dec2024 21:41:30.288] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
 [11Dec2024 21:42:10.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Iron Golem
+[11Dec2024 21:53:29.960] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/128006, l='ServerLevel[world]', x=-768.12, y=73.00, z=18860.47] died, message: 'Angry Villager was slain by Werewolf'
+[11Dec2024 21:54:04.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/127999, l='ServerLevel[world]', x=-838.10, y=78.00, z=18879.31] died, message: 'Angry Villager was slain by Mazdallier'
