@@ -745,3 +745,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 16:16:12.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Quite the Renovation]
 [11Dec2024 16:39:45.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [My Name is Nobody]
 [11Dec2024 16:59:25.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! 7.6163877220714085,-1.1491999902367525,-6.738173341662332
+[11Dec2024 17:12:30.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Iron Golem
+[11Dec2024 17:12:30.510] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[11Dec2024 17:12:30.515] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[11Dec2024 17:12:48.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Iron Golem
