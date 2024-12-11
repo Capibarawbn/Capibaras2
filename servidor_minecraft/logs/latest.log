@@ -848,3 +848,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 20:03:45.231] [Worker-Main-257/WARN] [ModernFix/]: The namespace dungeons_arise contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [11Dec2024 20:03:47.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6032ms or 120 ticks behind
 [11Dec2024 20:39:59.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! -284.65523383334653,80.5,630.9791828122143
+[11Dec2024 21:41:30.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS is bleeding. JUSMCAS was slain by Iron Golem
+[11Dec2024 21:41:30.270] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[11Dec2024 21:41:30.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/123126, l='ServerLevel[world]', x=-772.62, y=65.94, z=18817.05] died, message: 'Unemployed was slain by Iron Golem'
+[11Dec2024 21:41:30.288] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[11Dec2024 21:42:10.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was slain by Iron Golem
