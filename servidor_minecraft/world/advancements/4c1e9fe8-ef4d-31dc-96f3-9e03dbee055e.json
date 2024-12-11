@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 16:22:17 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2024-11-30 20:21:34 +0000"
@@ -458,6 +464,12 @@
   "infernalexp:recipes/food/cured_jerky": {
     "criteria": {
       "has_soul_salt_clump": "2024-11-30 20:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
     },
     "done": true
   },
@@ -678,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-10 15:42:10 +0000"
@@ -834,6 +852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-04 13:09:26 +0000"
@@ -867,6 +891,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2024-12-11 15:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
     },
     "done": true
   },
@@ -1260,6 +1290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-12-10 20:29:07 +0000"
@@ -1533,6 +1569,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/netherite_basic_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
     },
     "done": true
   },
@@ -2400,6 +2442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-04 14:54:40 +0000"
@@ -2451,6 +2499,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-04 13:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
     },
     "done": true
   },
@@ -3109,6 +3163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
@@ -3232,6 +3292,12 @@
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2024-11-30 21:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 16:22:17 +0000"
     },
     "done": true
   },
@@ -3848,6 +3914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 16:22:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
@@ -3863,6 +3935,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-30 20:37:19 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/netherite_tower_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
     },
     "done": true
   },
@@ -4019,6 +4097,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2024-11-30 21:35:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 16:22:17 +0000"
     },
     "done": true
   },
@@ -4657,6 +4741,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-11-30 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
     },
     "done": true
   },
@@ -5440,9 +5530,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/building_blocks/bison_fur_block": {
     "criteria": {
       "has_items": "2024-12-04 13:14:05 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-11 16:22:17 +0000"
     },
     "done": true
   },
@@ -5713,6 +5815,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 23:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
     },
     "done": true
   },
