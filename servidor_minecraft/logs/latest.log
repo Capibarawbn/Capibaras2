@@ -729,3 +729,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [11Dec2024 14:49:21.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of JUSMCAS) moved too quickly! -7.371691182288714,0.11272141087133036,7.320923814993876
 [11Dec2024 14:50:49.433] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1353, y=61, z=19863} but found not block entity block Block{minecraft:air} at location
 [11Dec2024 14:50:49.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1353, y=61, z=19863}
+[11Dec2024 14:54:58.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Mine? Mine? Mine?]
+[11Dec2024 14:57:49.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/10996, l='ServerLevel[world]', x=-766.91, y=74.00, z=18861.70] died, message: 'Angry Villager was slain by Zombie'
+[11Dec2024 14:58:22.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/11052, l='ServerLevel[world]', x=-782.11, y=65.00, z=18819.50] died, message: 'Mason was slain by Zombie'

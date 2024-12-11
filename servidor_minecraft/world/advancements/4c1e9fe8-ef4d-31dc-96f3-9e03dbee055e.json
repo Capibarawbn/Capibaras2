@@ -2747,6 +2747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-11 15:05:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-30 22:25:58 +0000"
@@ -3486,6 +3492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-11 15:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-11-30 21:35:21 +0000"
@@ -3672,6 +3684,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-11 14:54:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-04 13:09:26 +0000"
@@ -3738,6 +3756,7 @@
       "minecraft:swamp": "2024-11-30 20:21:34 +0000",
       "minecraft:grove": "2024-11-30 22:43:23 +0000",
       "minecraft:jagged_peaks": "2024-11-30 20:51:26 +0000",
+      "minecraft:cold_ocean": "2024-12-11 15:09:26 +0000",
       "minecraft:forest": "2024-11-30 20:23:05 +0000",
       "minecraft:lush_caves": "2024-12-04 15:00:24 +0000",
       "minecraft:desert": "2024-11-30 21:54:05 +0000",
@@ -4462,6 +4481,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-11-30 22:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-11 15:05:30 +0000"
     },
     "done": true
   },
