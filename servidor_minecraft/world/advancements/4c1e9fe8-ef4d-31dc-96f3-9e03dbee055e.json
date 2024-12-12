@@ -1789,6 +1789,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-12 20:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-12-01 01:23:35 +0000"
@@ -3276,6 +3282,12 @@
   "supplementaries:recipes/sign_post_minecraft/spruce": {
     "criteria": {
       "has_plank": "2024-12-10 16:19:10 +0000"
+    },
+    "done": true
+  },
+  "orcz:orcsoup": {
+    "criteria": {
+      "orcsoup": "2024-12-12 20:28:00 +0000"
     },
     "done": true
   },

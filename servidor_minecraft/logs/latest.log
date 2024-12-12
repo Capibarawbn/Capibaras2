@@ -801,3 +801,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [12Dec2024 19:45:31.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Spooky Scary Skeleton]
 [12Dec2024 19:49:43.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=58, z=2941} BlockPos{x=-108, y=59, z=2940}
 [12Dec2024 19:56:42.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Epsilon] JUSMCAS has made the advancement [Into Fire]
+[12Dec2024 20:23:40.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36621, l='ServerLevel[world]', x=-1338.49, y=70.00, z=18345.36] died, message: 'Unemployed was slain by Zombie'
+[12Dec2024 20:28:00.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Epsilon] JUSMCAS has completed the challenge [Will I turned into one of them?]
+[12Dec2024 20:32:03.704] [Worker-Main-88/WARN] [ModernFix/]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[12Dec2024 20:32:06.368] [Worker-Main-88/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[12Dec2024 20:32:08.048] [Worker-Main-88/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[12Dec2024 20:32:09.859] [Worker-Main-88/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[12Dec2024 20:32:09.913] [Worker-Main-88/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[12Dec2024 20:32:09.937] [Worker-Main-88/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[12Dec2024 20:35:54.609] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=279, y=106, z=18855} but found not block entity block Block{minecraft:air} at location
+[12Dec2024 20:35:54.610] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=279, y=106, z=18855}
