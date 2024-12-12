@@ -817,3 +817,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [12Dec2024 20:40:44.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was blown up by Orc Savage with Sword
 [12Dec2024 20:46:32.049] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=279, y=222, z=18231} but found not block entity block Block{minecraft:air} at location
 [12Dec2024 20:46:32.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=279, y=222, z=18231}
+[12Dec2024 21:00:09.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Epsilon] JUSMCAS has made the advancement [Local Brewery]
