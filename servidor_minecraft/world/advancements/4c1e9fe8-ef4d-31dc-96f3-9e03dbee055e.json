@@ -2785,6 +2785,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-12 19:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-11-30 20:37:32 +0000"
@@ -2806,6 +2812,12 @@
   "spartanshields:recipes/spartanshields/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2024-11-30 20:22:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_elephant": {
+    "criteria": {
+      "tame": "2024-12-12 19:03:06 +0000"
     },
     "done": true
   },
@@ -3879,6 +3891,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/elephant_swag": {
+    "criteria": {
+      "tame": "2024-12-12 19:03:10 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/misc/animal_dictionary": {
     "criteria": {
       "has_items": "2024-12-01 00:21:55 +0000"
@@ -4407,6 +4425,7 @@
       "minecraft:birch_forest": "2024-11-30 22:24:21 +0000",
       "minecraft:bamboo_jungle": "2024-11-30 22:23:33 +0000",
       "minecraft:badlands": "2024-11-30 23:39:40 +0000",
+      "minecraft:savanna_plateau": "2024-12-12 19:02:16 +0000",
       "minecraft:beach": "2024-11-30 20:22:50 +0000",
       "minecraft:dark_forest": "2024-11-30 22:23:43 +0000",
       "minecraft:sparse_jungle": "2024-11-30 22:20:45 +0000",
@@ -4903,6 +4922,7 @@
       "glow_berries": "2024-11-30 21:08:04 +0000",
       "golden_carrot": "2024-12-01 00:05:59 +0000",
       "cooked_chicken": "2024-12-04 21:57:50 +0000",
+      "enchanted_golden_apple": "2024-12-12 18:53:14 +0000",
       "cod": "2024-11-30 20:48:29 +0000",
       "carrot": "2024-12-01 00:49:10 +0000"
     },
