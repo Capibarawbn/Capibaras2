@@ -799,3 +799,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [12Dec2024 19:37:38.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Epsilon] JUSMCAS has made the advancement [Wither Or Not...]
 [12Dec2024 19:41:41.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Epsilon] JUSMCAS has made the advancement [Hidden in the Depths]
 [12Dec2024 19:45:31.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS has made the advancement [Spooky Scary Skeleton]
+[12Dec2024 19:49:43.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=58, z=2941} BlockPos{x=-108, y=59, z=2940}
+[12Dec2024 19:56:42.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Epsilon] JUSMCAS has made the advancement [Into Fire]
