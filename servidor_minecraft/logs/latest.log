@@ -758,3 +758,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [12Dec2024 13:46:41.358] [Server thread/INFO] [Waila/]: Syncing config to JUSMCAS (4c1e9fe8-ef4d-31dc-96f3-9e03dbee055e)
 [12Dec2024 13:46:43.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3236ms or 64 ticks behind
 [12Dec2024 13:47:04.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6012ms or 120 ticks behind
+[12Dec2024 14:16:32.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! 43.18485698439133,-67.5,-1133.6890841390523
+[12Dec2024 14:18:03.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS lost connection: Disconnected
+[12Dec2024 14:18:03.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS left the game
+[12Dec2024 14:18:09.467] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7777d9b
+[12Dec2024 14:18:09.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUSMCAS[/127.122.214.71:44991] logged in with entity id 15196 at (-641.86796492177, 64.0, 18670.65244806163)
+[12Dec2024 14:18:09.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS joined the game
+[12Dec2024 14:18:09.617] [Server thread/INFO] [Waila/]: Syncing config to JUSMCAS (4c1e9fe8-ef4d-31dc-96f3-9e03dbee055e)
