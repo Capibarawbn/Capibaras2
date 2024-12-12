@@ -1420,13 +1420,20 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-11 15:41:36 +0000",
-      "minecraft:soul_sand_valley": "2024-12-12 19:37:13 +0000"
+      "minecraft:soul_sand_valley": "2024-12-12 19:37:13 +0000",
+      "minecraft:basalt_deltas": "2024-12-12 19:54:25 +0000"
     },
     "done": false
   },
   "vampirism:recipes/vampirism/vampire/vampire_cloak_white_black": {
     "criteria": {
       "has_pure_blood": "2024-12-11 22:21:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_minecraft/warped": {
+    "criteria": {
+      "has_plank": "2024-12-12 20:01:04 +0000"
     },
     "done": true
   },
@@ -2204,6 +2211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-12 20:01:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 23:42:43 +0000"
@@ -2810,6 +2823,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-12 19:56:42 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-12-12 19:02:53 +0000"
@@ -3059,6 +3078,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-11 15:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2024-12-12 20:01:04 +0000"
     },
     "done": true
   },
@@ -3561,6 +3586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-12 20:01:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 23:42:43 +0000"
@@ -3955,6 +3986,12 @@
   "alexsmobs:alexsmobs/elephant_swag": {
     "criteria": {
       "tame": "2024-12-12 19:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-12 19:56:42 +0000"
     },
     "done": true
   },
@@ -4360,6 +4397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-12 20:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-04 14:29:43 +0000"
@@ -4393,6 +4436,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-11 16:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2024-12-12 20:01:04 +0000"
     },
     "done": true
   },
@@ -4546,6 +4595,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_minecraft/warped": {
+    "criteria": {
+      "has_plank": "2024-12-12 20:01:04 +0000"
     },
     "done": true
   },
@@ -5029,6 +5084,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-11 16:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-12 20:00:36 +0000"
     },
     "done": true
   },
@@ -5590,6 +5651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2024-12-12 20:01:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:minion/become_lord": {
     "criteria": {
       "level": "2024-12-11 23:11:39 +0000"
@@ -5638,9 +5705,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-12 20:01:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-04 13:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-12 20:01:04 +0000"
     },
     "done": true
   },
@@ -5776,6 +5855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2024-12-12 20:01:04 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/misc/fish_oil": {
     "criteria": {
       "has_items": "2024-11-30 22:59:45 +0000"
@@ -5863,6 +5948,12 @@
   "alexsmobs:recipes/building_blocks/bison_fur_block": {
     "criteria": {
       "has_items": "2024-12-04 13:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-12 19:56:42 +0000"
     },
     "done": true
   },
@@ -6157,6 +6248,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-01 00:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2024-12-12 20:01:04 +0000"
     },
     "done": true
   },

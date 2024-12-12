@@ -10610,3 +10610,43 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [12Dec2024 19:53:17.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Dec2024 19:54:41.877] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.89 and blood value 15 for entity mythicmounts:nightmare
 [12Dec2024 19:56:42.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Epsilon] JUSMCAS has made the advancement [Into Fire]
+[12Dec2024 19:58:17.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 19:58:17.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 19:58:48.542] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[12Dec2024 20:03:17.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 20:03:17.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 20:05:06.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x5
+[12Dec2024 20:05:06.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_4
+[12Dec2024 20:05:06.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_empty
+[12Dec2024 20:05:06.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_0
+[12Dec2024 20:05:06.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/totem
+[12Dec2024 20:05:06.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[12Dec2024 20:05:06.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/plains_temple_4
+[12Dec2024 20:05:06.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[12Dec2024 20:05:06.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[12Dec2024 20:05:06.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[12Dec2024 20:05:06.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[12Dec2024 20:05:06.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[12Dec2024 20:05:06.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[12Dec2024 20:05:06.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[12Dec2024 20:05:06.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[12Dec2024 20:05:06.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[12Dec2024 20:05:06.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[12Dec2024 20:05:06.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[12Dec2024 20:05:07.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[12Dec2024 20:05:07.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/plains_temple_3
+[12Dec2024 20:05:07.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[12Dec2024 20:05:07.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x5
+[12Dec2024 20:05:07.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[12Dec2024 20:05:07.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_8
+[12Dec2024 20:05:07.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_7
+[12Dec2024 20:05:07.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x7
+[12Dec2024 20:05:07.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_6
+[12Dec2024 20:05:07.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_2
+[12Dec2024 20:05:07.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_1
+[12Dec2024 20:05:08.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 20:05:09.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x9
+[12Dec2024 20:05:09.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_3
+[12Dec2024 20:05:10.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x7
+[12Dec2024 20:05:11.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 20:05:11.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
