@@ -811,3 +811,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [12Dec2024 20:32:09.937] [Worker-Main-88/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
 [12Dec2024 20:35:54.609] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=279, y=106, z=18855} but found not block entity block Block{minecraft:air} at location
 [12Dec2024 20:35:54.610] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=279, y=106, z=18855}
+[12Dec2024 20:39:44.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Epsilon] JUSMCAS is bleeding. [Epsilon] JUSMCAS was blown up by Orc Savage with Sword
+[12Dec2024 20:39:44.786] [Server thread/WARN] [tombstone/]: The death event of the player JUSMCAS was canceled by another mod
+[12Dec2024 20:39:44.793] [Server thread/INFO] [tombstone/]: The player JUSMCAS has successfully been saved
+[12Dec2024 20:40:44.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS was blown up by Orc Savage with Sword
+[12Dec2024 20:46:32.049] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=279, y=222, z=18231} but found not block entity block Block{minecraft:air} at location
+[12Dec2024 20:46:32.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=279, y=222, z=18231}

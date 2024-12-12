@@ -673,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-12 20:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2024-12-04 21:43:57 +0000"
@@ -3436,6 +3442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-12 20:50:07 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/treasure2/topaz_key": {
     "criteria": {
       "has_tool": "2024-12-01 00:50:32 +0000"
@@ -4142,6 +4154,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-11-30 20:33:06 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/rottencreatures.rottencreatures/corrupted_wart": {
+    "criteria": {
+      "has_nether_wart": "2024-12-12 20:50:07 +0000"
     },
     "done": true
   },
@@ -5342,6 +5360,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-11-30 21:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-12 20:50:07 +0000"
     },
     "done": true
   },
