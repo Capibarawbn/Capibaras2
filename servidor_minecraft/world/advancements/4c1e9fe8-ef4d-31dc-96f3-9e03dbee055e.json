@@ -1213,6 +1213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-12 20:07:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-11 16:13:16 +0000"
@@ -3742,6 +3748,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-12 20:17:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-11-30 20:38:40 +0000"
@@ -3818,6 +3830,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-11-30 20:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-12 20:07:55 +0000"
     },
     "done": true
   },
@@ -4646,6 +4664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-12 20:17:12 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/redstone/smooth_dimstone_button": {
     "criteria": {
       "has_smooth_dimstone": "2024-11-30 20:21:34 +0000"
@@ -4781,6 +4805,12 @@
   "vampirism:recipes/vampirism/general/castle_block_dark_stone": {
     "criteria": {
       "has_orchid": "2024-12-04 14:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-12 20:07:55 +0000"
     },
     "done": true
   },
