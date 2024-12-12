@@ -1,378 +1,377 @@
-[12Dec2024 13:44:36.040] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
-[12Dec2024 13:44:36.073] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.4 by Microsoft
-[12Dec2024 13:44:38.226] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Capibaras2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[12Dec2024 13:44:40.023] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[12Dec2024 13:44:40.057] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[12Dec2024 13:44:40.071] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[12Dec2024 13:44:40.075] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[12Dec2024 13:44:40.693] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[12Dec2024 13:44:50.466] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[12Dec2024 13:44:51.159] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
-[12Dec2024 13:44:51.161] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
-[12Dec2024 13:44:51.405] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[12Dec2024 13:44:51.410] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[12Dec2024 13:44:51.894] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.18.2: 80 options available, 0 override(s) found
-[12Dec2024 13:44:51.895] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[12Dec2024 13:44:51.946] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[12Dec2024 13:44:52.124] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Dec2024 13:44:52.200] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Dec2024 13:44:56.887] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
-[12Dec2024 13:44:56.894] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManager was not found doespotatotick.mixins.json:ClaimedChunkManagerAccessor
-[12Dec2024 13:44:58.003] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
-[12Dec2024 13:45:00.801] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (33.03 s after launch)
-[12Dec2024 13:45:09.284] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 8468 milliseconds
-[12Dec2024 13:45:10.891] [main/WARN] [mixin/]: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
-[12Dec2024 13:45:10.893] [main/WARN] [mixin/]: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
-[12Dec2024 13:45:15.566] [main/WARN] [mixin/]: Method overwrite conflict for getHiddenEffect in werewolves.mixins.json:MobEffectInstanceAccessor, previously written by de.teamlapen.vampirism.mixin.MixinEffectInstance. Skipping method.
-[12Dec2024 13:45:16.136] [main/WARN] [mixin/]: @ModifyVariable(@At("INVOKE")) Shift.BY=4 on infernal-expansion.mixins.json:common.MixinMultiNoiseBiomeSourcePreset::localvar$zzi000$IE_addNetherBiomes exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[12Dec2024 13:45:17.576] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Sound Events Registered!
-[12Dec2024 13:45:17.568] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[12Dec2024 13:45:17.724] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Blocks Registered!
-[12Dec2024 13:45:17.725] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Items Registered!
-[12Dec2024 13:45:17.727] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Effects Registered!
-[12Dec2024 13:45:17.733] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Potions Registered!
-[12Dec2024 13:45:17.738] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Types Registered!
-[12Dec2024 13:45:17.748] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Painting Types Registered!
-[12Dec2024 13:45:17.752] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Tile Entity Types Registered!
-[12Dec2024 13:45:17.773] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biomes Registered!
-[12Dec2024 13:45:17.780] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Loot Modifiers Registered!
-[12Dec2024 13:45:17.803] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Classifications Registered!
-[12Dec2024 13:45:20.555] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[12Dec2024 13:45:21.088] [modloading-worker-0/INFO] [epicfight/]: register skill wom:ender_step
-[12Dec2024 13:45:21.092] [modloading-worker-0/INFO] [epicfight/]: register skill wom:ender_obscuris
-[12Dec2024 13:45:21.101] [modloading-worker-0/INFO] [epicfight/]: register skill wom:dodge_master
-[12Dec2024 13:45:21.103] [modloading-worker-0/INFO] [epicfight/]: register skill wom:precise_roll
-[12Dec2024 13:45:21.103] [modloading-worker-0/INFO] [epicfight/]: register skill wom:shadow_step
-[12Dec2024 13:45:21.116] [modloading-worker-0/INFO] [epicfight/]: register skill wom:bull_charge
-[12Dec2024 13:45:21.124] [modloading-worker-0/INFO] [epicfight/]: register skill wom:demon_mark_passive
-[12Dec2024 13:45:21.129] [modloading-worker-0/INFO] [epicfight/]: register skill wom:torment_passive
-[12Dec2024 13:45:21.129] [modloading-worker-0/INFO] [epicfight/]: register skill wom:ruine_passive
-[12Dec2024 13:45:21.154] [modloading-worker-0/INFO] [epicfight/]: register skill wom:lunar_echo_passive
-[12Dec2024 13:45:21.156] [modloading-worker-0/INFO] [epicfight/]: register skill wom:satsujin_passive
-[12Dec2024 13:45:21.157] [modloading-worker-0/INFO] [epicfight/]: register skill wom:solar_passive
-[12Dec2024 13:45:21.161] [modloading-worker-0/INFO] [epicfight/]: register skill wom:charybdis
-[12Dec2024 13:45:21.168] [modloading-worker-0/INFO] [epicfight/]: register skill wom:agony_plunge
-[12Dec2024 13:45:21.173] [modloading-worker-0/INFO] [epicfight/]: register skill wom:true_berserk
-[12Dec2024 13:45:21.182] [modloading-worker-0/INFO] [epicfight/]: register skill wom:plunder_perdition
-[12Dec2024 13:45:21.188] [modloading-worker-0/INFO] [epicfight/]: register skill wom:sakura_state
-[12Dec2024 13:45:21.195] [modloading-worker-0/INFO] [epicfight/]: register skill wom:ender_blast
-[12Dec2024 13:45:21.206] [modloading-worker-0/INFO] [epicfight/]: register skill wom:ender_fusion
-[12Dec2024 13:45:21.232] [modloading-worker-0/INFO] [epicfight/]: register skill wom:demonic_ascension
-[12Dec2024 13:45:21.238] [modloading-worker-0/INFO] [epicfight/]: register skill wom:regierung
-[12Dec2024 13:45:21.249] [modloading-worker-0/INFO] [epicfight/]: register skill wom:lunar_eclipse
-[12Dec2024 13:45:21.250] [modloading-worker-0/INFO] [epicfight/]: register skill wom:solar_arcano
-[12Dec2024 13:45:21.276] [modloading-worker-0/INFO] [epicfight/]: register skill wom:counter_attack
-[12Dec2024 13:45:21.280] [modloading-worker-0/INFO] [epicfight/]: register skill wom:perfect_bulwark
-[12Dec2024 13:45:21.297] [modloading-worker-0/INFO] [epicfight/]: register skill wom:vengeful_parry
-[12Dec2024 13:45:21.298] [modloading-worker-0/INFO] [epicfight/]: register skill wom:arrow_tenacity
-[12Dec2024 13:45:21.298] [modloading-worker-0/INFO] [epicfight/]: register skill wom:pain_anticipation
-[12Dec2024 13:45:21.299] [modloading-worker-0/INFO] [epicfight/]: register skill wom:latent_retribution
-[12Dec2024 13:45:21.300] [modloading-worker-0/INFO] [epicfight/]: register skill wom:vampirize
-[12Dec2024 13:45:21.301] [modloading-worker-0/INFO] [epicfight/]: register skill wom:critical_knowledge
-[12Dec2024 13:45:21.302] [modloading-worker-0/INFO] [epicfight/]: register skill wom:heart_shield
-[12Dec2024 13:45:21.303] [modloading-worker-0/INFO] [epicfight/]: register skill wom:mindset
-[12Dec2024 13:45:21.308] [modloading-worker-0/INFO] [epicfight/]: register skill wom:adrenaline
-[12Dec2024 13:45:21.310] [modloading-worker-0/INFO] [epicfight/]: register skill wom:dancing_blade
-[12Dec2024 13:45:21.318] [modloading-worker-0/INFO] [epicfight/]: register skill wom:meditation
-[12Dec2024 13:45:21.543] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[12Dec2024 13:45:22.507] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[12Dec2024 13:45:22.509] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[12Dec2024 13:45:22.724] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
-[12Dec2024 13:45:23.490] [modloading-worker-0/INFO] [epicfight/]: register skill efdg:earthquake
-[12Dec2024 13:45:23.496] [modloading-worker-0/INFO] [epicfight/]: register skill efdg:dualgreatsword
-[12Dec2024 13:45:23.552] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:basic_attack
-[12Dec2024 13:45:23.553] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:air_attack
-[12Dec2024 13:45:23.554] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:roll
-[12Dec2024 13:45:23.554] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:step
-[12Dec2024 13:45:23.555] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:knockdown_wakeup
-[12Dec2024 13:45:23.555] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:guard
-[12Dec2024 13:45:23.557] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:parrying
-[12Dec2024 13:45:23.560] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:impact_guard
-[12Dec2024 13:45:23.561] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:berserker
-[12Dec2024 13:45:23.562] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:death_harvest
-[12Dec2024 13:45:23.563] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:emergency_escape
-[12Dec2024 13:45:23.564] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:endurance
-[12Dec2024 13:45:23.565] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:forbidden_strength
-[12Dec2024 13:45:23.566] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:hypervitality
-[12Dec2024 13:45:23.567] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:stamina_pillager
-[12Dec2024 13:45:23.568] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:swordmaster
-[12Dec2024 13:45:23.569] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:technician
-[12Dec2024 13:45:23.570] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:sweeping_edge
-[12Dec2024 13:45:23.572] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:dancing_edge
-[12Dec2024 13:45:23.573] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:the_guillotine
-[12Dec2024 13:45:23.574] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:grasping_spire
-[12Dec2024 13:45:23.574] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:heartpiercer
-[12Dec2024 13:45:23.577] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:steel_whirlwind
-[12Dec2024 13:45:23.579] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:battojutsu
-[12Dec2024 13:45:23.580] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:battojutsu_passive
-[12Dec2024 13:45:23.583] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:rushing_tempo
-[12Dec2024 13:45:23.584] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:relentless_combo
-[12Dec2024 13:45:23.585] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:liechtenauer
-[12Dec2024 13:45:23.586] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:sharp_stab
-[12Dec2024 13:45:23.586] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:eviscerate
-[12Dec2024 13:45:23.660] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:blade_rush
-[12Dec2024 13:45:23.667] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:wrathful_lighting
-[12Dec2024 13:45:23.674] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:tsunami
-[12Dec2024 13:45:23.687] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:everlasting_allegiance
-[12Dec2024 13:45:23.693] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:meteor_slam
-[12Dec2024 13:45:23.712] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:revelation
-[12Dec2024 13:45:23.721] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:demolition_leap
-[12Dec2024 13:45:23.724] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:phantom_ascent
-[12Dec2024 13:45:23.985] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[12Dec2024 13:45:24.520] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
-[12Dec2024 13:45:24.524] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
-[12Dec2024 13:45:24.524] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[12Dec2024 13:45:24.525] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
-[12Dec2024 13:45:24.617] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
-[12Dec2024 13:45:24.783] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
-[12Dec2024 13:45:24.783] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[12Dec2024 13:45:24.788] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
-[12Dec2024 13:45:24.838] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
-[12Dec2024 13:45:24.841] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[12Dec2024 13:45:24.841] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[12Dec2024 13:45:24.843] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
-[12Dec2024 13:45:24.860] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[12Dec2024 13:45:24.871] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[12Dec2024 13:45:24.890] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[12Dec2024 13:45:26.391] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.393] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.394] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.395] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.396] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.397] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.399] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.404] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.406] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.407] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.408] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.409] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.412] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.414] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.424] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.425] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.426] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.427] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.428] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[12Dec2024 13:45:26.502] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:block for mod id enchantinginfuser
-[12Dec2024 13:45:32.523] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:item for mod id enchantinginfuser
-[12Dec2024 13:45:32.750] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[12Dec2024 13:45:33.183] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[12Dec2024 13:45:33.183] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[12Dec2024 13:45:33.186] [main/INFO] [me.steinborn.lazydfu.LazyDFU/]: Lazy DFU
-[12Dec2024 13:45:34.767] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:block_entity_type for mod id enchantinginfuser
-[12Dec2024 13:45:34.768] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:block_entity_type for mod id easymagic
-[12Dec2024 13:45:35.900] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:menu for mod id enchantinginfuser
-[12Dec2024 13:45:35.905] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:menu for mod id easymagic
-[12Dec2024 13:45:35.970] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -------Please ignore the following error!------
-[12Dec2024 13:45:35.971] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
-[12Dec2024 13:45:35.971] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -----------------------------------------------
-[12Dec2024 13:45:36.011] [main/INFO] [treasure2/]: colliding particle data creating from coords, deserializer...
-[12Dec2024 13:45:36.012] [main/INFO] [treasure2/]: colliding particle data creating from coords, deserializer...
-[12Dec2024 13:45:36.162] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `piglin_brute_specific_sensor`, expected `bygonenether`. This could be a intended override, but in most cases indicates a broken mod.
-[12Dec2024 13:45:36.381] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
-[12Dec2024 13:45:36.690] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `vampirism` for name `random_refinement1`, expected `werewolves`. This could be a intended override, but in most cases indicates a broken mod.
-[12Dec2024 13:45:36.692] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `vampirism` for name `random_refinement2`, expected `werewolves`. This could be a intended override, but in most cases indicates a broken mod.
-[12Dec2024 13:45:36.695] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `vampirism` for name `random_refinement3`, expected `werewolves`. This could be a intended override, but in most cases indicates a broken mod.
-[12Dec2024 13:45:36.696] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `vampirism` for name `random_rare_refinement`, expected `werewolves`. This could be a intended override, but in most cases indicates a broken mod.
-[12Dec2024 13:45:36.748] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / iceandfire:dragonforge]' to registry
-[12Dec2024 13:45:36.749] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'iceandfire:dragonforge' to registry
-[12Dec2024 13:45:36.942] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[12Dec2024 13:45:36.943] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[12Dec2024 13:45:36.944] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class org.infernalstudios.infernalexp.entities.ShroomloinEntity from class org.infernalstudios.infernalexp.entities.WarpbeetleEntity
-[12Dec2024 13:45:36.948] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
-[12Dec2024 13:45:36.949] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
-[12Dec2024 13:45:36.949] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
-[12Dec2024 13:45:37.334] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[12Dec2024 13:45:37.439] [main/INFO] [Puzzles Lib/]: Loading common config for enchantinginfuser
-[12Dec2024 13:45:37.454] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[12Dec2024 13:45:37.578] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Capibaras2/servidor_minecraft/config/rottencreatures-common.toml is not correct. Correcting
-[12Dec2024 13:45:37.581] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mob Spawns.Immortal Chance was corrected from 0.025 to its default, 0.025. 
-[12Dec2024 13:45:37.587] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[12Dec2024 13:45:38.154] [modloading-worker-0/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",variant:"cobblestone",west:"false"}}
-[12Dec2024 13:45:38.155] [modloading-worker-0/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",variant:"cobblestone",west:"false"}}
-[12Dec2024 13:45:38.155] [modloading-worker-0/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",variant:"cobblestone",west:"false"}}
-[12Dec2024 13:45:38.156] [modloading-worker-0/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",variant:"cobblestone",west:"false"}}
-[12Dec2024 13:45:38.206] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[12Dec2024 13:45:38.371] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[12Dec2024 13:45:38.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[12Dec2024 13:45:38.746] [Thread-2/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[12Dec2024 13:45:38.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 3.0.0 Target: null
-[12Dec2024 13:45:38.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infernalexp] Starting version check at https://infernalstudios.org/api/mods/infernalexpansion/forge
-[12Dec2024 13:45:39.237] [Thread-3/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at http://maxanier.de/projects/vampirism/versions_integrations.json
-[12Dec2024 13:45:39.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infernalexp] Found status: BETA Current: 2.5.0 Target: null
-[12Dec2024 13:45:39.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/1.18.2-master/update.json
-[12Dec2024 13:45:39.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Found status: UP_TO_DATE Current: 3.9.0 Target: null
-[12Dec2024 13:45:39.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[12Dec2024 13:45:39.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.7.4 Target: 7.7.6
-[12Dec2024 13:45:39.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.18.2-master/update.json
-[12Dec2024 13:45:39.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Found status: UP_TO_DATE Current: 2.1.0 Target: null
-[12Dec2024 13:45:39.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[12Dec2024 13:45:39.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: AHEAD Current: 2.0.0-b1.3.1 Target: null
-[12Dec2024 13:45:39.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[12Dec2024 13:45:39.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: AHEAD Current: 3.3.3 Target: null
-[12Dec2024 13:45:39.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[12Dec2024 13:45:39.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 3.0.1 Target: null
-[12Dec2024 13:45:39.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[12Dec2024 13:45:39.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[12Dec2024 13:45:39.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[12Dec2024 13:45:39.794] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[12Dec2024 13:45:39.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
-[12Dec2024 13:45:39.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Dec2024 13:45:40.024] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 123 ms
-[12Dec2024 13:45:40.036] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[12Dec2024 13:45:40.037] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[12Dec2024 13:45:40.037] [main/INFO] [terrablender/]: Registered region graveyard_biomes:biome_provider to index 1 for type OVERWORLD
-[12Dec2024 13:45:40.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.2.26
-[12Dec2024 13:45:40.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://maxhenkel.de/update/trade_cycling.json
-[12Dec2024 13:45:40.109] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[12Dec2024 13:45:40.110] [main/INFO] [terrablender/]: Registered region vampirism:overworld to index 2 for type OVERWORLD
-[12Dec2024 13:45:40.111] [main/INFO] [de.teamlapen.vampirism.modcompat.terrablender.TerraBlenderCompat/]: TerraBlender is installed. Using it to add vampire Forest to overworld.
-[12Dec2024 13:45:40.114] [main/INFO] [terrablender/]: Registered region werewolves:overworld to index 3 for type OVERWORLD
-[12Dec2024 13:45:40.114] [main/INFO] [de.teamlapen.werewolves.modcompat.terrablender.TerraBlenderCompat/]: TerraBlender is installed. Using it to add vampire Forest to overworld.
-[12Dec2024 13:45:40.431] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
-[12Dec2024 13:45:40.432] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
-[12Dec2024 13:45:40.432] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
-[12Dec2024 13:45:40.432] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
-[12Dec2024 13:45:40.599] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
-[12Dec2024 13:45:40.599] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
-[12Dec2024 13:45:40.600] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
-[12Dec2024 13:45:40.600] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Sheath_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
-[12Dec2024 13:45:40.604] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
-[12Dec2024 13:45:40.604] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
-[12Dec2024 13:45:40.604] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
-[12Dec2024 13:45:40.604] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Sheath_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
-[12Dec2024 13:45:40.689] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/agony_walk
-[12Dec2024 13:45:40.689] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/agony_walk
-[12Dec2024 13:45:41.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: UP_TO_DATE Current: 1.18.2-1.0.2 Target: null
-[12Dec2024 13:45:41.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://raw.githubusercontent.com/ApexStudios-Dev/Version/master/commonality.json
-[12Dec2024 13:45:41.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: AHEAD Current: 1.4.0 Target: null
-[12Dec2024 13:45:41.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[12Dec2024 13:45:41.569] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
-[12Dec2024 13:45:41.571] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
-[12Dec2024 13:45:41.572] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
-[12Dec2024 13:45:41.573] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Sheath_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
-[12Dec2024 13:45:41.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.0.49 Target: null
-[12Dec2024 13:45:41.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[12Dec2024 13:45:41.645] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_idle
-[12Dec2024 13:45:41.647] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_idle
-[12Dec2024 13:45:41.648] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_idle
-[12Dec2024 13:45:41.655] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_walk
-[12Dec2024 13:45:41.658] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_walk
-[12Dec2024 13:45:41.667] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_run
-[12Dec2024 13:45:41.667] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_run
-[12Dec2024 13:45:41.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
-[12Dec2024 13:45:41.757] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[12Dec2024 13:45:42.069] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/herrscher_guard
-[12Dec2024 13:45:42.070] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/herrscher_guard
-[12Dec2024 13:45:42.072] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_hit
-[12Dec2024 13:45:42.076] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_hit
-[12Dec2024 13:45:42.078] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_parry
-[12Dec2024 13:45:42.078] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_parry
-[12Dec2024 13:45:42.110] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
-[12Dec2024 13:45:42.112] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
-[12Dec2024 13:45:42.112] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
-[12Dec2024 13:45:42.112] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
-[12Dec2024 13:45:42.114] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
-[12Dec2024 13:45:42.114] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
-[12Dec2024 13:45:42.115] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
-[12Dec2024 13:45:42.115] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
-[12Dec2024 13:45:42.118] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
-[12Dec2024 13:45:42.119] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
-[12Dec2024 13:45:42.120] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
-[12Dec2024 13:45:42.120] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
-[12Dec2024 13:45:42.164] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
-[12Dec2024 13:45:42.164] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
-[12Dec2024 13:45:42.165] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
-[12Dec2024 13:45:42.165] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
-[12Dec2024 13:45:42.167] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
-[12Dec2024 13:45:42.167] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
-[12Dec2024 13:45:42.168] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
-[12Dec2024 13:45:42.169] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
-[12Dec2024 13:45:42.171] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
-[12Dec2024 13:45:42.172] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
-[12Dec2024 13:45:42.172] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
-[12Dec2024 13:45:42.173] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
-[12Dec2024 13:45:42.174] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
-[12Dec2024 13:45:42.175] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
-[12Dec2024 13:45:42.175] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
-[12Dec2024 13:45:42.176] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
-[12Dec2024 13:45:42.179] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
-[12Dec2024 13:45:42.183] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
-[12Dec2024 13:45:42.184] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
-[12Dec2024 13:45:42.184] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
-[12Dec2024 13:45:42.186] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
-[12Dec2024 13:45:42.186] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
-[12Dec2024 13:45:42.187] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
-[12Dec2024 13:45:42.187] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
-[12Dec2024 13:45:42.190] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
-[12Dec2024 13:45:42.190] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
-[12Dec2024 13:45:42.190] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
-[12Dec2024 13:45:42.191] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
-[12Dec2024 13:45:42.350] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: AHEAD Current: 1.8.8 Target: null
-[12Dec2024 13:45:42.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Starting version check at https://maxanier.de/projects/vampirism/versions_integrations.json
-[12Dec2024 13:45:42.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Found status: OUTDATED Current: 1.7.0-beta.1 Target: 1.7.0-alpha+20220703-0014
-[12Dec2024 13:45:42.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://raw.githubusercontent.com/ApexStudios-Dev/Version/master/apexcore.json
-[12Dec2024 13:45:42.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: AHEAD Current: 4.13.0 Target: null
-[12Dec2024 13:45:42.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
-[12Dec2024 13:45:42.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 3.14.0 Target: null
-[12Dec2024 13:45:42.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[12Dec2024 13:45:42.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 3.5.10 Target: null
-[12Dec2024 13:45:42.865] [modloading-worker-0/INFO] [com.choicetheorem.ctov.ctov/]: Got IMC []
-[12Dec2024 13:45:42.977] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[12Dec2024 13:45:42.981] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[12Dec2024 13:45:42.993] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.blay09.mods.waystones.compat.WailaProvider
-[12Dec2024 13:45:42.995] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
-[12Dec2024 13:45:43.009] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[12Dec2024 13:45:43.023] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.teamlapen.vampirism_integrations.waila.WailaPlugin
-[12Dec2024 13:45:43.115] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[12Dec2024 13:45:43.115] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Vampirism Biomes are added via TerraBlender. Not adding them to overworld preset.
-[12Dec2024 13:45:43.115] [main/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Werewolves Biomes are added via TerraBlender. Not adding them to overworld preset.
-[12Dec2024 13:45:43.501] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Dec2024 13:45:44.677] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23132!/assets/.mcassetsroot' uses unexpected schema
-[12Dec2024 13:45:44.691] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23132!/data/.mcassetsroot' uses unexpected schema
-[12Dec2024 13:45:45.961] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 68 ms
-[12Dec2024 13:45:52.546] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12Dec2024 13:45:52.548] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12Dec2024 13:45:52.552] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12Dec2024 13:45:52.554] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12Dec2024 13:45:52.556] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12Dec2024 13:45:53.244] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.18.2.jar)
-[12Dec2024 13:45:53.246] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.18.2.jar), 
+[12Dec2024 18:16:35.377] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[12Dec2024 18:16:35.381] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.4 by Microsoft
+[12Dec2024 18:16:38.432] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Capibaras2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[12Dec2024 18:16:40.087] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[12Dec2024 18:16:40.090] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[12Dec2024 18:16:40.096] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[12Dec2024 18:16:40.099] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[12Dec2024 18:16:40.579] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[12Dec2024 18:16:48.250] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[12Dec2024 18:16:48.736] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
+[12Dec2024 18:16:48.737] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
+[12Dec2024 18:16:49.115] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[12Dec2024 18:16:49.123] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[12Dec2024 18:16:49.495] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.18.2: 80 options available, 0 override(s) found
+[12Dec2024 18:16:49.497] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[12Dec2024 18:16:49.550] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[12Dec2024 18:16:50.933] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Dec2024 18:16:51.011] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Dec2024 18:16:55.216] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
+[12Dec2024 18:16:55.219] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManager was not found doespotatotick.mixins.json:ClaimedChunkManagerAccessor
+[12Dec2024 18:16:55.834] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[12Dec2024 18:16:57.648] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (30.97 s after launch)
+[12Dec2024 18:17:07.763] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 10100 milliseconds
+[12Dec2024 18:17:09.056] [main/WARN] [mixin/]: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[12Dec2024 18:17:09.057] [main/WARN] [mixin/]: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[12Dec2024 18:17:13.315] [main/WARN] [mixin/]: Method overwrite conflict for getHiddenEffect in werewolves.mixins.json:MobEffectInstanceAccessor, previously written by de.teamlapen.vampirism.mixin.MixinEffectInstance. Skipping method.
+[12Dec2024 18:17:14.258] [main/WARN] [mixin/]: @ModifyVariable(@At("INVOKE")) Shift.BY=4 on infernal-expansion.mixins.json:common.MixinMultiNoiseBiomeSourcePreset::localvar$zzi000$IE_addNetherBiomes exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[12Dec2024 18:17:15.130] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Sound Events Registered!
+[12Dec2024 18:17:15.146] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[12Dec2024 18:17:15.193] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Blocks Registered!
+[12Dec2024 18:17:15.195] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Items Registered!
+[12Dec2024 18:17:15.200] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Effects Registered!
+[12Dec2024 18:17:15.202] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Potions Registered!
+[12Dec2024 18:17:15.213] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Types Registered!
+[12Dec2024 18:17:15.216] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Painting Types Registered!
+[12Dec2024 18:17:15.233] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Tile Entity Types Registered!
+[12Dec2024 18:17:15.253] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biomes Registered!
+[12Dec2024 18:17:15.264] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Loot Modifiers Registered!
+[12Dec2024 18:17:15.282] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Classifications Registered!
+[12Dec2024 18:17:17.843] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[12Dec2024 18:17:18.431] [modloading-worker-0/INFO] [epicfight/]: register skill wom:ender_step
+[12Dec2024 18:17:18.436] [modloading-worker-0/INFO] [epicfight/]: register skill wom:ender_obscuris
+[12Dec2024 18:17:18.451] [modloading-worker-0/INFO] [epicfight/]: register skill wom:dodge_master
+[12Dec2024 18:17:18.455] [modloading-worker-0/INFO] [epicfight/]: register skill wom:precise_roll
+[12Dec2024 18:17:18.458] [modloading-worker-0/INFO] [epicfight/]: register skill wom:shadow_step
+[12Dec2024 18:17:18.484] [modloading-worker-0/INFO] [epicfight/]: register skill wom:bull_charge
+[12Dec2024 18:17:18.496] [modloading-worker-0/INFO] [epicfight/]: register skill wom:demon_mark_passive
+[12Dec2024 18:17:18.511] [modloading-worker-0/INFO] [epicfight/]: register skill wom:torment_passive
+[12Dec2024 18:17:18.515] [modloading-worker-0/INFO] [epicfight/]: register skill wom:ruine_passive
+[12Dec2024 18:17:18.525] [modloading-worker-0/INFO] [epicfight/]: register skill wom:lunar_echo_passive
+[12Dec2024 18:17:18.526] [modloading-worker-0/INFO] [epicfight/]: register skill wom:satsujin_passive
+[12Dec2024 18:17:18.533] [modloading-worker-0/INFO] [epicfight/]: register skill wom:solar_passive
+[12Dec2024 18:17:18.534] [modloading-worker-0/INFO] [epicfight/]: register skill wom:charybdis
+[12Dec2024 18:17:18.546] [modloading-worker-0/INFO] [epicfight/]: register skill wom:agony_plunge
+[12Dec2024 18:17:18.547] [modloading-worker-0/INFO] [epicfight/]: register skill wom:true_berserk
+[12Dec2024 18:17:18.566] [modloading-worker-0/INFO] [epicfight/]: register skill wom:plunder_perdition
+[12Dec2024 18:17:18.569] [modloading-worker-0/INFO] [epicfight/]: register skill wom:sakura_state
+[12Dec2024 18:17:18.578] [modloading-worker-0/INFO] [epicfight/]: register skill wom:ender_blast
+[12Dec2024 18:17:18.587] [modloading-worker-0/INFO] [epicfight/]: register skill wom:ender_fusion
+[12Dec2024 18:17:18.608] [modloading-worker-0/INFO] [epicfight/]: register skill wom:demonic_ascension
+[12Dec2024 18:17:18.610] [modloading-worker-0/INFO] [epicfight/]: register skill wom:regierung
+[12Dec2024 18:17:18.613] [modloading-worker-0/INFO] [epicfight/]: register skill wom:lunar_eclipse
+[12Dec2024 18:17:18.614] [modloading-worker-0/INFO] [epicfight/]: register skill wom:solar_arcano
+[12Dec2024 18:17:18.634] [modloading-worker-0/INFO] [epicfight/]: register skill wom:counter_attack
+[12Dec2024 18:17:18.654] [modloading-worker-0/INFO] [epicfight/]: register skill wom:perfect_bulwark
+[12Dec2024 18:17:18.656] [modloading-worker-0/INFO] [epicfight/]: register skill wom:vengeful_parry
+[12Dec2024 18:17:18.660] [modloading-worker-0/INFO] [epicfight/]: register skill wom:arrow_tenacity
+[12Dec2024 18:17:18.662] [modloading-worker-0/INFO] [epicfight/]: register skill wom:pain_anticipation
+[12Dec2024 18:17:18.664] [modloading-worker-0/INFO] [epicfight/]: register skill wom:latent_retribution
+[12Dec2024 18:17:18.665] [modloading-worker-0/INFO] [epicfight/]: register skill wom:vampirize
+[12Dec2024 18:17:18.667] [modloading-worker-0/INFO] [epicfight/]: register skill wom:critical_knowledge
+[12Dec2024 18:17:18.684] [modloading-worker-0/INFO] [epicfight/]: register skill wom:heart_shield
+[12Dec2024 18:17:18.691] [modloading-worker-0/INFO] [epicfight/]: register skill wom:mindset
+[12Dec2024 18:17:18.692] [modloading-worker-0/INFO] [epicfight/]: register skill wom:adrenaline
+[12Dec2024 18:17:18.693] [modloading-worker-0/INFO] [epicfight/]: register skill wom:dancing_blade
+[12Dec2024 18:17:18.700] [modloading-worker-0/INFO] [epicfight/]: register skill wom:meditation
+[12Dec2024 18:17:18.888] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[12Dec2024 18:17:19.758] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[12Dec2024 18:17:19.758] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[12Dec2024 18:17:20.260] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[12Dec2024 18:17:20.911] [modloading-worker-0/INFO] [epicfight/]: register skill efdg:earthquake
+[12Dec2024 18:17:20.912] [modloading-worker-0/INFO] [epicfight/]: register skill efdg:dualgreatsword
+[12Dec2024 18:17:21.136] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:basic_attack
+[12Dec2024 18:17:21.153] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:air_attack
+[12Dec2024 18:17:21.154] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:roll
+[12Dec2024 18:17:21.154] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:step
+[12Dec2024 18:17:21.155] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:knockdown_wakeup
+[12Dec2024 18:17:21.162] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:guard
+[12Dec2024 18:17:21.164] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:parrying
+[12Dec2024 18:17:21.225] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:impact_guard
+[12Dec2024 18:17:21.230] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:berserker
+[12Dec2024 18:17:21.231] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:death_harvest
+[12Dec2024 18:17:21.243] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:emergency_escape
+[12Dec2024 18:17:21.259] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:endurance
+[12Dec2024 18:17:21.263] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:forbidden_strength
+[12Dec2024 18:17:21.269] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:hypervitality
+[12Dec2024 18:17:21.278] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:stamina_pillager
+[12Dec2024 18:17:21.284] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:swordmaster
+[12Dec2024 18:17:21.284] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:technician
+[12Dec2024 18:17:21.285] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:sweeping_edge
+[12Dec2024 18:17:21.286] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:dancing_edge
+[12Dec2024 18:17:21.287] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:the_guillotine
+[12Dec2024 18:17:21.288] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:grasping_spire
+[12Dec2024 18:17:21.289] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:heartpiercer
+[12Dec2024 18:17:21.290] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:steel_whirlwind
+[12Dec2024 18:17:21.291] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:battojutsu
+[12Dec2024 18:17:21.291] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:battojutsu_passive
+[12Dec2024 18:17:21.294] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:rushing_tempo
+[12Dec2024 18:17:21.295] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:relentless_combo
+[12Dec2024 18:17:21.296] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:liechtenauer
+[12Dec2024 18:17:21.297] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:sharp_stab
+[12Dec2024 18:17:21.298] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:eviscerate
+[12Dec2024 18:17:21.336] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:blade_rush
+[12Dec2024 18:17:21.344] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:wrathful_lighting
+[12Dec2024 18:17:21.345] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:tsunami
+[12Dec2024 18:17:21.346] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:everlasting_allegiance
+[12Dec2024 18:17:21.348] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:meteor_slam
+[12Dec2024 18:17:21.362] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:revelation
+[12Dec2024 18:17:21.366] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:demolition_leap
+[12Dec2024 18:17:21.375] [modloading-worker-0/INFO] [epicfight/]: register skill epicfight:phantom_ascent
+[12Dec2024 18:17:21.589] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[12Dec2024 18:17:22.702] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
+[12Dec2024 18:17:22.759] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[12Dec2024 18:17:22.759] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[12Dec2024 18:17:22.760] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[12Dec2024 18:17:22.760] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[12Dec2024 18:17:22.897] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[12Dec2024 18:17:22.898] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[12Dec2024 18:17:22.899] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[12Dec2024 18:17:22.962] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[12Dec2024 18:17:22.978] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[12Dec2024 18:17:22.978] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[12Dec2024 18:17:22.979] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[12Dec2024 18:17:22.989] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[12Dec2024 18:17:23.340] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[12Dec2024 18:17:23.360] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[12Dec2024 18:17:24.719] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.720] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.722] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.723] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.724] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.727] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.728] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.732] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.733] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.736] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.740] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.757] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.761] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.764] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.768] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.773] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.775] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.778] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.780] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[12Dec2024 18:17:24.848] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:block for mod id enchantinginfuser
+[12Dec2024 18:17:30.411] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:item for mod id enchantinginfuser
+[12Dec2024 18:17:30.670] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[12Dec2024 18:17:31.232] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[12Dec2024 18:17:31.233] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[12Dec2024 18:17:31.236] [main/INFO] [me.steinborn.lazydfu.LazyDFU/]: Lazy DFU
+[12Dec2024 18:17:32.862] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:block_entity_type for mod id enchantinginfuser
+[12Dec2024 18:17:32.864] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:block_entity_type for mod id easymagic
+[12Dec2024 18:17:33.988] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:menu for mod id enchantinginfuser
+[12Dec2024 18:17:33.989] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:menu for mod id easymagic
+[12Dec2024 18:17:34.041] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -------Please ignore the following error!------
+[12Dec2024 18:17:34.042] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
+[12Dec2024 18:17:34.042] [main/WARN] [de.teamlapen.vampirism.effects.VampirismNightVisionPotion/]: -----------------------------------------------
+[12Dec2024 18:17:34.063] [main/INFO] [treasure2/]: colliding particle data creating from coords, deserializer...
+[12Dec2024 18:17:34.064] [main/INFO] [treasure2/]: colliding particle data creating from coords, deserializer...
+[12Dec2024 18:17:34.194] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `piglin_brute_specific_sensor`, expected `bygonenether`. This could be a intended override, but in most cases indicates a broken mod.
+[12Dec2024 18:17:34.325] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[12Dec2024 18:17:34.515] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `vampirism` for name `random_refinement1`, expected `werewolves`. This could be a intended override, but in most cases indicates a broken mod.
+[12Dec2024 18:17:34.515] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `vampirism` for name `random_refinement2`, expected `werewolves`. This could be a intended override, but in most cases indicates a broken mod.
+[12Dec2024 18:17:34.516] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `vampirism` for name `random_refinement3`, expected `werewolves`. This could be a intended override, but in most cases indicates a broken mod.
+[12Dec2024 18:17:34.516] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `vampirism` for name `random_rare_refinement`, expected `werewolves`. This could be a intended override, but in most cases indicates a broken mod.
+[12Dec2024 18:17:34.583] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / iceandfire:dragonforge]' to registry
+[12Dec2024 18:17:34.583] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'iceandfire:dragonforge' to registry
+[12Dec2024 18:17:34.794] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[12Dec2024 18:17:34.798] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[12Dec2024 18:17:34.798] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class org.infernalstudios.infernalexp.entities.ShroomloinEntity from class org.infernalstudios.infernalexp.entities.WarpbeetleEntity
+[12Dec2024 18:17:34.805] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
+[12Dec2024 18:17:34.806] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
+[12Dec2024 18:17:34.806] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
+[12Dec2024 18:17:35.145] [main/INFO] [Puzzles Lib/]: Loading common config for enchantinginfuser
+[12Dec2024 18:17:35.215] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[12Dec2024 18:17:35.224] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[12Dec2024 18:17:35.295] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Capibaras2/servidor_minecraft/config/rottencreatures-common.toml is not correct. Correcting
+[12Dec2024 18:17:35.296] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mob Spawns.Immortal Chance was corrected from 0.025 to its default, 0.025. 
+[12Dec2024 18:17:35.300] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[12Dec2024 18:17:35.781] [modloading-worker-0/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",variant:"cobblestone",west:"false"}}
+[12Dec2024 18:17:35.782] [modloading-worker-0/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",variant:"cobblestone",west:"false"}}
+[12Dec2024 18:17:35.782] [modloading-worker-0/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",variant:"cobblestone",west:"false"}}
+[12Dec2024 18:17:35.782] [modloading-worker-0/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",variant:"cobblestone",west:"false"}}
+[12Dec2024 18:17:35.802] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[12Dec2024 18:17:36.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[12Dec2024 18:17:36.035] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[12Dec2024 18:17:36.247] [Thread-2/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at https://maxanier.de/projects/vampirism/versions.json
+[12Dec2024 18:17:36.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[12Dec2024 18:17:36.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infernalexp] Starting version check at https://infernalstudios.org/api/mods/infernalexpansion/forge
+[12Dec2024 18:17:36.416] [Thread-3/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at http://maxanier.de/projects/vampirism/versions_integrations.json
+[12Dec2024 18:17:36.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infernalexp] Found status: BETA Current: 2.5.0 Target: null
+[12Dec2024 18:17:36.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/1.18.2-master/update.json
+[12Dec2024 18:17:36.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Found status: UP_TO_DATE Current: 3.9.0 Target: null
+[12Dec2024 18:17:36.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[12Dec2024 18:17:36.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.7.4 Target: 7.7.6
+[12Dec2024 18:17:36.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.18.2-master/update.json
+[12Dec2024 18:17:36.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Found status: UP_TO_DATE Current: 2.1.0 Target: null
+[12Dec2024 18:17:36.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[12Dec2024 18:17:36.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: AHEAD Current: 2.0.0-b1.3.1 Target: null
+[12Dec2024 18:17:36.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[12Dec2024 18:17:36.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: AHEAD Current: 3.3.3 Target: null
+[12Dec2024 18:17:36.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[12Dec2024 18:17:36.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 3.0.1 Target: null
+[12Dec2024 18:17:36.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[12Dec2024 18:17:36.823] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[12Dec2024 18:17:36.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[12Dec2024 18:17:36.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[12Dec2024 18:17:36.921] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 46 ms
+[12Dec2024 18:17:36.951] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[12Dec2024 18:17:36.951] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[12Dec2024 18:17:36.952] [main/INFO] [terrablender/]: Registered region graveyard_biomes:biome_provider to index 1 for type OVERWORLD
+[12Dec2024 18:17:37.054] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[12Dec2024 18:17:37.059] [main/INFO] [terrablender/]: Registered region vampirism:overworld to index 2 for type OVERWORLD
+[12Dec2024 18:17:37.059] [main/INFO] [de.teamlapen.vampirism.modcompat.terrablender.TerraBlenderCompat/]: TerraBlender is installed. Using it to add vampire Forest to overworld.
+[12Dec2024 18:17:37.062] [main/INFO] [terrablender/]: Registered region werewolves:overworld to index 3 for type OVERWORLD
+[12Dec2024 18:17:37.062] [main/INFO] [de.teamlapen.werewolves.modcompat.terrablender.TerraBlenderCompat/]: TerraBlender is installed. Using it to add vampire Forest to overworld.
+[12Dec2024 18:17:37.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[12Dec2024 18:17:37.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Dec2024 18:17:37.406] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
+[12Dec2024 18:17:37.406] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
+[12Dec2024 18:17:37.407] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
+[12Dec2024 18:17:37.407] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, LongHitAnimation wom:animmodels/animations/biped/living/biped_hit_extra_long
+[12Dec2024 18:17:37.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.2.26
+[12Dec2024 18:17:37.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://maxhenkel.de/update/trade_cycling.json
+[12Dec2024 18:17:37.536] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
+[12Dec2024 18:17:37.538] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
+[12Dec2024 18:17:37.538] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
+[12Dec2024 18:17:37.539] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Sheath_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_siting
+[12Dec2024 18:17:37.541] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
+[12Dec2024 18:17:37.541] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
+[12Dec2024 18:17:37.542] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
+[12Dec2024 18:17:37.542] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Sheath_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/meditation_breathing
+[12Dec2024 18:17:37.593] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/agony_walk
+[12Dec2024 18:17:37.593] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/agony_walk
+[12Dec2024 18:17:37.929] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
+[12Dec2024 18:17:37.930] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
+[12Dec2024 18:17:37.930] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
+[12Dec2024 18:17:37.932] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Sheath_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_sheathe
+[12Dec2024 18:17:37.952] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_idle
+[12Dec2024 18:17:37.952] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_idle
+[12Dec2024 18:17:37.953] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Weapon_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/katana_idle
+[12Dec2024 18:17:37.958] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_walk
+[12Dec2024 18:17:37.959] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_walk
+[12Dec2024 18:17:37.961] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_run
+[12Dec2024 18:17:37.961] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/katana_run
+[12Dec2024 18:17:38.250] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/herrscher_guard
+[12Dec2024 18:17:38.250] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/herrscher_guard
+[12Dec2024 18:17:38.252] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_hit
+[12Dec2024 18:17:38.253] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_hit
+[12Dec2024 18:17:38.257] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_parry
+[12Dec2024 18:17:38.262] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/herrscher_guard_parry
+[12Dec2024 18:17:38.337] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
+[12Dec2024 18:17:38.338] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
+[12Dec2024 18:17:38.338] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
+[12Dec2024 18:17:38.338] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/moonless_idle
+[12Dec2024 18:17:38.341] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
+[12Dec2024 18:17:38.341] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
+[12Dec2024 18:17:38.341] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
+[12Dec2024 18:17:38.342] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_walk
+[12Dec2024 18:17:38.358] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
+[12Dec2024 18:17:38.359] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
+[12Dec2024 18:17:38.359] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
+[12Dec2024 18:17:38.359] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/moonless_run
+[12Dec2024 18:17:38.421] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
+[12Dec2024 18:17:38.424] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
+[12Dec2024 18:17:38.424] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
+[12Dec2024 18:17:38.424] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/skill/moonless_guard
+[12Dec2024 18:17:38.427] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
+[12Dec2024 18:17:38.427] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
+[12Dec2024 18:17:38.427] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
+[12Dec2024 18:17:38.427] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_1
+[12Dec2024 18:17:38.429] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
+[12Dec2024 18:17:38.429] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
+[12Dec2024 18:17:38.429] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
+[12Dec2024 18:17:38.429] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_2
+[12Dec2024 18:17:38.431] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
+[12Dec2024 18:17:38.431] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
+[12Dec2024 18:17:38.431] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
+[12Dec2024 18:17:38.431] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, GuardAnimation wom:animmodels/animations/biped/skill/moonless_guard_hit_3
+[12Dec2024 18:17:38.435] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
+[12Dec2024 18:17:38.435] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
+[12Dec2024 18:17:38.435] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
+[12Dec2024 18:17:38.435] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, StaticAnimation wom:animmodels/animations/biped/living/solar_idle
+[12Dec2024 18:17:38.437] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
+[12Dec2024 18:17:38.437] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
+[12Dec2024 18:17:38.438] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
+[12Dec2024 18:17:38.438] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_walk
+[12Dec2024 18:17:38.440] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
+[12Dec2024 18:17:38.440] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Arm_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
+[12Dec2024 18:17:38.440] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_R_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
+[12Dec2024 18:17:38.440] [modloading-worker-0/WARN] [epicfight/]: [EpicFightMod] Can't find the joint Leg_L_IK in the animation file, MovementAnimation wom:animmodels/animations/biped/living/solar_run
+[12Dec2024 18:17:38.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: UP_TO_DATE Current: 1.18.2-1.0.2 Target: null
+[12Dec2024 18:17:38.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://raw.githubusercontent.com/ApexStudios-Dev/Version/master/commonality.json
+[12Dec2024 18:17:38.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: AHEAD Current: 1.4.0 Target: null
+[12Dec2024 18:17:38.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[12Dec2024 18:17:38.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.0.49 Target: null
+[12Dec2024 18:17:38.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[12Dec2024 18:17:39.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
+[12Dec2024 18:17:39.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
+[12Dec2024 18:17:39.348] [modloading-worker-0/INFO] [com.choicetheorem.ctov.ctov/]: Got IMC []
+[12Dec2024 18:17:39.470] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[12Dec2024 18:17:39.475] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[12Dec2024 18:17:39.484] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.blay09.mods.waystones.compat.WailaProvider
+[12Dec2024 18:17:39.492] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[12Dec2024 18:17:39.511] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[12Dec2024 18:17:39.524] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.teamlapen.vampirism_integrations.waila.WailaPlugin
+[12Dec2024 18:17:39.558] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[12Dec2024 18:17:39.558] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Vampirism Biomes are added via TerraBlender. Not adding them to overworld preset.
+[12Dec2024 18:17:39.559] [main/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Werewolves Biomes are added via TerraBlender. Not adding them to overworld preset.
+[12Dec2024 18:17:39.628] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: AHEAD Current: 1.8.8 Target: null
+[12Dec2024 18:17:39.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Starting version check at https://maxanier.de/projects/vampirism/versions_integrations.json
+[12Dec2024 18:17:39.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Found status: OUTDATED Current: 1.7.0-beta.1 Target: 1.7.0-alpha+20220703-0014
+[12Dec2024 18:17:39.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://raw.githubusercontent.com/ApexStudios-Dev/Version/master/apexcore.json
+[12Dec2024 18:17:39.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: AHEAD Current: 4.13.0 Target: null
+[12Dec2024 18:17:39.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[12Dec2024 18:17:39.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 3.14.0 Target: null
+[12Dec2024 18:17:39.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[12Dec2024 18:17:39.938] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 3.5.10 Target: null
+[12Dec2024 18:17:40.284] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12Dec2024 18:17:41.075] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23132!/assets/.mcassetsroot' uses unexpected schema
+[12Dec2024 18:17:41.076] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Capibaras2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23132!/data/.mcassetsroot' uses unexpected schema
+[12Dec2024 18:17:41.545] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 92 ms
+[12Dec2024 18:17:53.216] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Dec2024 18:17:53.223] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Dec2024 18:17:53.247] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Dec2024 18:17:53.260] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Dec2024 18:17:53.282] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Dec2024 18:17:53.929] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.18.2.jar)
+[12Dec2024 18:17:53.931] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.18.2.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.18.2.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.18.2.jar)
-[12Dec2024 13:45:53.391] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag smallships:drakkars as it is missing following references: smallships:mangrove_drakkar (from smallships-forge-1.18.2-2.0.0-b1.3.1.jar)
-[12Dec2024 13:45:53.393] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.18.2.jar), 
+[12Dec2024 18:17:54.145] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag smallships:drakkars as it is missing following references: smallships:mangrove_drakkar (from smallships-forge-1.18.2-2.0.0-b1.3.1.jar)
+[12Dec2024 18:17:54.146] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.18.2.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.18.2.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.18.2.jar)
-[12Dec2024 13:45:53.395] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag smallships:ships as it is missing following references: #smallships:drakkars (from smallships-forge-1.18.2-2.0.0-b1.3.1.jar)
-[12Dec2024 13:45:57.501] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
-[12Dec2024 13:45:57.509] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
-[12Dec2024 13:45:57.524] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
-[12Dec2024 13:45:57.533] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
-[12Dec2024 13:45:57.535] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[12Dec2024 13:45:57.541] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
-[12Dec2024 13:45:57.566] [Worker-Main-1/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe smallships:mangrove_drakkar: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_boat'
-[12Dec2024 13:45:57.575] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[12Dec2024 13:45:57.578] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
-[12Dec2024 13:45:57.592] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
-[12Dec2024 13:45:57.609] [Worker-Main-1/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe piglin_expansion:phantom_divinty_staff_r: com.google.gson.JsonSyntaxException: Unknown item 'piglin_expansion:deleted_mod_element'
-[12Dec2024 13:45:57.642] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[12Dec2024 13:45:57.702] [Worker-Main-1/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gnumus:gnum_clay_k: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
-[12Dec2024 13:45:57.752] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
-[12Dec2024 13:45:57.773] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe miningmaster:forging/kinetic_tongue_whip as it's serializer returned null
-[12Dec2024 13:45:57.777] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
-[12Dec2024 13:45:57.801] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[12Dec2024 13:45:57.927] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table treasure2:grant_book_on_first_join: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
-[12Dec2024 13:45:58.298] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/withered_blackstone_vertical_slab: java.lang.IllegalArgumentException: Can't find block bygonenether:withered_blackstone_vertical_slab
-[12Dec2024 13:45:58.587] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/cracked_withered_blackstone_vertical_slab: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'bygonenether:cracked_withered_blackstone_vertical_slab'
-[12Dec2024 13:45:58.876] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/warped_nether_brick_vertical_slab: java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_brick_vertical_slab
-[12Dec2024 13:45:59.264] [Worker-Main-1/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[12Dec2024 13:45:59.301] [Worker-Main-1/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[12Dec2024 13:45:59.438] [Worker-Main-1/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2963 advancements
-[12Dec2024 13:45:59.464] [Worker-Main-1/INFO] [Dungeon Crawl/]: Loading data...
-[12Dec2024 13:46:00.262] [Worker-Main-1/INFO] [Dungeon Crawl/]: Done.
-[12Dec2024 13:46:00.294] [Worker-Main-1/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 36 Soft Fluids
-[12Dec2024 13:46:00.305] [Worker-Main-1/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier bygonenether:soul_stone_from_block
+[12Dec2024 18:17:54.148] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag smallships:ships as it is missing following references: #smallships:drakkars (from smallships-forge-1.18.2-2.0.0-b1.3.1.jar)
+[12Dec2024 18:17:58.587] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[12Dec2024 18:17:58.624] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
+[12Dec2024 18:17:58.668] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
+[12Dec2024 18:17:58.697] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
+[12Dec2024 18:17:58.705] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[12Dec2024 18:17:58.708] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[12Dec2024 18:17:58.779] [Worker-Main-1/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe smallships:mangrove_drakkar: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_boat'
+[12Dec2024 18:17:58.831] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[12Dec2024 18:17:58.833] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
+[12Dec2024 18:17:58.867] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[12Dec2024 18:17:58.912] [Worker-Main-1/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe piglin_expansion:phantom_divinty_staff_r: com.google.gson.JsonSyntaxException: Unknown item 'piglin_expansion:deleted_mod_element'
+[12Dec2024 18:17:58.934] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[12Dec2024 18:17:58.969] [Worker-Main-1/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gnumus:gnum_clay_k: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[12Dec2024 18:17:58.991] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
+[12Dec2024 18:17:59.012] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe miningmaster:forging/kinetic_tongue_whip as it's serializer returned null
+[12Dec2024 18:17:59.023] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[12Dec2024 18:17:59.063] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[12Dec2024 18:17:59.331] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table treasure2:grant_book_on_first_join: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+[12Dec2024 18:17:59.865] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/withered_blackstone_vertical_slab: java.lang.IllegalArgumentException: Can't find block bygonenether:withered_blackstone_vertical_slab
+[12Dec2024 18:18:00.043] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/cracked_withered_blackstone_vertical_slab: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'bygonenether:cracked_withered_blackstone_vertical_slab'
+[12Dec2024 18:18:00.271] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table bygonenether:blocks/warped_nether_brick_vertical_slab: java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_brick_vertical_slab
+[12Dec2024 18:18:00.555] [Worker-Main-1/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[12Dec2024 18:18:00.654] [Worker-Main-1/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[12Dec2024 18:18:00.858] [Worker-Main-1/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2963 advancements
+[12Dec2024 18:18:00.872] [Worker-Main-1/INFO] [Dungeon Crawl/]: Loading data...
+[12Dec2024 18:18:01.518] [Worker-Main-1/INFO] [Dungeon Crawl/]: Done.
+[12Dec2024 18:18:01.535] [Worker-Main-1/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier bygonenether:soul_stone_from_block
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
@@ -381,22 +380,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:40) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
 	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
 	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
 	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
@@ -535,7 +518,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[12Dec2024 13:46:00.334] [Worker-Main-1/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier bygonenether:soul_stone_in_catacombs
+[12Dec2024 18:18:01.546] [Worker-Main-1/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier bygonenether:soul_stone_in_catacombs
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
@@ -544,22 +527,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:40) ~[forge-1.18.2-40.2.21-universal.jar%23137!/:?]
 	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
 	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
 	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%23132!/:?]
@@ -698,70 +665,63 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[12Dec2024 13:46:00.436] [Worker-Main-1/INFO] [de.teamlapen.vampirism.player.skills.SkillTree/]: Loaded 67 skill nodes
-[12Dec2024 13:46:00.438] [Worker-Main-1/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 24 entities blood values
-[12Dec2024 13:46:00.443] [Worker-Main-1/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 12 convertibles
-[12Dec2024 13:46:00.444] [Worker-Main-1/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 12 items blood values
-[12Dec2024 13:46:00.449] [Worker-Main-1/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 1 fluids blood values
-[12Dec2024 13:46:00.638] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
-[12Dec2024 13:46:01.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[12Dec2024 13:46:01.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Dec2024 13:46:01.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Dec2024 13:46:01.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Dec2024 13:46:01.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Dec2024 13:46:01.717] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[12Dec2024 13:46:01.844] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12Dec2024 13:46:01.845] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[12Dec2024 13:46:01.845] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12Dec2024 13:46:01.846] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[12Dec2024 13:46:01.876] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[12Dec2024 13:46:01.980] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[12Dec2024 13:46:01.989] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[12Dec2024 13:46:03.416] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[12Dec2024 13:46:03.417] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[12Dec2024 13:46:03.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Dec2024 13:46:04.245] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[12Dec2024 13:46:04.245] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[12Dec2024 13:46:04.246] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[12Dec2024 13:46:04.246] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[12Dec2024 13:46:04.247] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[12Dec2024 13:46:04.247] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[12Dec2024 13:46:04.248] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[12Dec2024 13:46:04.262] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[12Dec2024 13:46:04.262] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[12Dec2024 13:46:04.715] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[12Dec2024 13:46:04.733] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[12Dec2024 13:46:04.772] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[12Dec2024 13:46:04.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Dec2024 13:46:09.958] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:09.958] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:09.959] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:09.959] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:09.959] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:09.959] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:09.960] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:09.960] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:09.960] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:09.960] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:09.961] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Dec2024 13:46:10.444] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[12Dec2024 13:46:11.277] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6444 ms
-[12Dec2024 13:46:11.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.415s)! For help, type "help"
-[12Dec2024 13:46:11.888] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[12Dec2024 13:46:11.906] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[12Dec2024 13:46:11.906] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
-[12Dec2024 13:46:11.914] [Server thread/WARN] [ModernFix/]: Dedicated server took 104.141 seconds to load
-[12Dec2024 13:46:40.465] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3db17661
-[12Dec2024 13:46:40.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUSMCAS[/127.122.214.71:50331] logged in with entity id 945 at (-774.8821135168313, 64.0, 18762.196287658193)
-[12Dec2024 13:46:40.882] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for com.talhanation.smallships.world.entity.ship.Ship: java.lang.NoClassDefFoundError: net/minecraft/client/CameraType
-[12Dec2024 13:46:40.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS joined the game
-[12Dec2024 13:46:41.358] [Server thread/INFO] [Waila/]: Syncing config to JUSMCAS (4c1e9fe8-ef4d-31dc-96f3-9e03dbee055e)
-[12Dec2024 13:46:43.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3236ms or 64 ticks behind
-[12Dec2024 13:47:04.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6012ms or 120 ticks behind
-[12Dec2024 14:16:32.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS moved too quickly! 43.18485698439133,-67.5,-1133.6890841390523
-[12Dec2024 14:18:03.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUSMCAS lost connection: Disconnected
-[12Dec2024 14:18:03.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS left the game
-[12Dec2024 14:18:09.467] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7777d9b
-[12Dec2024 14:18:09.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUSMCAS[/127.122.214.71:44991] logged in with entity id 15196 at (-641.86796492177, 64.0, 18670.65244806163)
-[12Dec2024 14:18:09.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS joined the game
-[12Dec2024 14:18:09.617] [Server thread/INFO] [Waila/]: Syncing config to JUSMCAS (4c1e9fe8-ef4d-31dc-96f3-9e03dbee055e)
+[12Dec2024 18:18:01.588] [Worker-Main-1/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 36 Soft Fluids
+[12Dec2024 18:18:01.690] [Worker-Main-1/INFO] [de.teamlapen.vampirism.player.skills.SkillTree/]: Loaded 67 skill nodes
+[12Dec2024 18:18:01.692] [Worker-Main-1/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 24 entities blood values
+[12Dec2024 18:18:01.705] [Worker-Main-1/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 12 convertibles
+[12Dec2024 18:18:01.706] [Worker-Main-1/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 12 items blood values
+[12Dec2024 18:18:01.717] [Worker-Main-1/INFO] [de.teamlapen.lib.lib.config.BloodValueLoader/config]: Loaded 1 fluids blood values
+[12Dec2024 18:18:01.903] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[12Dec2024 18:18:03.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[12Dec2024 18:18:03.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Dec2024 18:18:03.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[12Dec2024 18:18:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Dec2024 18:18:03.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Dec2024 18:18:03.932] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[12Dec2024 18:18:04.301] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12Dec2024 18:18:04.302] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[12Dec2024 18:18:04.302] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12Dec2024 18:18:04.303] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[12Dec2024 18:18:04.359] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[12Dec2024 18:18:04.495] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[12Dec2024 18:18:04.498] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[12Dec2024 18:18:05.864] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[12Dec2024 18:18:05.865] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[12Dec2024 18:18:05.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[12Dec2024 18:18:07.204] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[12Dec2024 18:18:07.204] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[12Dec2024 18:18:07.204] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[12Dec2024 18:18:07.205] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[12Dec2024 18:18:07.205] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[12Dec2024 18:18:07.207] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[12Dec2024 18:18:07.208] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[12Dec2024 18:18:07.208] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[12Dec2024 18:18:07.208] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[12Dec2024 18:18:07.620] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[12Dec2024 18:18:07.652] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[12Dec2024 18:18:07.687] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[12Dec2024 18:18:07.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Dec2024 18:18:12.220] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Dec2024 18:18:12.221] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Dec2024 18:18:12.222] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Dec2024 18:18:12.222] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Dec2024 18:18:12.222] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Dec2024 18:18:12.223] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Dec2024 18:18:12.223] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Dec2024 18:18:12.224] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Dec2024 18:18:12.224] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Dec2024 18:18:12.304] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Dec2024 18:18:12.914] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[12Dec2024 18:18:13.410] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5612 ms
+[12Dec2024 18:18:13.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.075s)! For help, type "help"
+[12Dec2024 18:18:13.495] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Dec2024 18:18:13.509] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[12Dec2024 18:18:13.510] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[12Dec2024 18:18:13.511] [Server thread/WARN] [ModernFix/]: Dedicated server took 106.834 seconds to load
+[12Dec2024 18:19:09.141] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@64c28cf0
+[12Dec2024 18:19:09.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUSMCAS[/127.122.214.71:59995] logged in with entity id 946 at (-709.6555343080552, 64.0, 18775.693719368923)
+[12Dec2024 18:19:09.299] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for com.talhanation.smallships.world.entity.ship.Ship: java.lang.NoClassDefFoundError: net/minecraft/client/CameraType
+[12Dec2024 18:19:09.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JUSMCAS joined the game
+[12Dec2024 18:19:09.710] [Server thread/INFO] [Waila/]: Syncing config to JUSMCAS (4c1e9fe8-ef4d-31dc-96f3-9e03dbee055e)
+[12Dec2024 18:19:12.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[12Dec2024 18:19:30.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
