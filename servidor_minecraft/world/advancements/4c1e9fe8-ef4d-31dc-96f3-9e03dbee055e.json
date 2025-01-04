@@ -3616,6 +3616,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/blood_grinder": {
+    "criteria": {
+      "has_hopper": "2025-01-04 23:08:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-30 20:22:37 +0000"
