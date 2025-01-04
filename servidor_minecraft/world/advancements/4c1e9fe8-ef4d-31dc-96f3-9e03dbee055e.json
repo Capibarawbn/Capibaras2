@@ -2631,6 +2631,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-12 21:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_pickaxe": "2024-11-30 20:40:09 +0000"
@@ -5114,6 +5120,7 @@
       "apple": "2024-12-10 20:29:55 +0000",
       "spider_eye": "2024-12-11 22:44:50 +0000",
       "potato": "2024-12-04 13:00:07 +0000",
+      "cooked_cod": "2024-12-12 21:16:57 +0000",
       "pumpkin_pie": "2024-11-30 21:10:54 +0000",
       "mutton": "2024-12-04 14:56:18 +0000",
       "bread": "2024-11-30 20:24:58 +0000",
